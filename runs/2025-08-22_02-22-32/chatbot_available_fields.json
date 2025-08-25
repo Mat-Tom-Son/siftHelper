@@ -1,0 +1,1355 @@
+{
+  "all": [
+    {
+      "id": "user_anniversaryDate",
+      "objectKey": "anniversaryDate",
+      "displayName": "Hire Date",
+      "type": "date",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_backgroundUrl",
+      "objectKey": "backgroundUrl",
+      "displayName": "Background Picture",
+      "type": "imageUrl",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_bio",
+      "objectKey": "bio",
+      "displayName": "Professional Summary",
+      "type": "textLong",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_cell",
+      "objectKey": "cell",
+      "displayName": "Cell Phone",
+      "type": "phone",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_cf_date-zosw2wQyI",
+      "objectKey": "cf_date-zosw2wQyI",
+      "displayName": "Birthday",
+      "type": "date",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_cf_text-3p8xb4wPz",
+      "objectKey": "cf_text-3p8xb4wPz",
+      "displayName": "Employee Type",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_companyName",
+      "objectKey": "companyName",
+      "displayName": "Company",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_customPictureUrl",
+      "objectKey": "customPictureUrl",
+      "displayName": "Custom Picture",
+      "type": "imageUrl",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_department",
+      "objectKey": "department",
+      "displayName": "Department",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_directOpenRoleReportCount",
+      "objectKey": "directOpenRoleReportCount",
+      "displayName": "Direct Open Role Report Count",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_directReportCount",
+      "objectKey": "directReportCount",
+      "displayName": "Direct Report Count",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_displayName",
+      "objectKey": "displayName",
+      "displayName": "Full Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education",
+      "objectKey": "education",
+      "displayName": "Education",
+      "type": "collection",
+      "searchable": false
+    },
+    {
+      "id": "user_education.classYear",
+      "objectKey": "education.classYear",
+      "displayName": "Class of",
+      "type": "date",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_education.concentrations",
+      "objectKey": "education.concentrations",
+      "displayName": "Concentrations",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.degreeType",
+      "objectKey": "education.degreeType",
+      "displayName": "Degree Type",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.fieldsOfStudy",
+      "objectKey": "education.fieldsOfStudy",
+      "displayName": "Fields of Study",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.minors",
+      "objectKey": "education.minors",
+      "displayName": "Minors",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.school",
+      "objectKey": "education.school",
+      "displayName": "School",
+      "type": "object",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_education.school.id",
+      "objectKey": "education.school.id",
+      "displayName": "Short Text",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.school.logoUrl",
+      "objectKey": "education.school.logoUrl",
+      "displayName": "Image",
+      "type": "imageUrl",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_education.school.name",
+      "objectKey": "education.school.name",
+      "displayName": "School",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_educationItem",
+      "objectKey": "educationItem",
+      "displayName": "Education",
+      "type": "education",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_email",
+      "objectKey": "email",
+      "displayName": "Email",
+      "type": "email",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience",
+      "objectKey": "experience",
+      "displayName": "Experience",
+      "type": "collection",
+      "searchable": false
+    },
+    {
+      "id": "user_experience.description",
+      "objectKey": "experience.description",
+      "displayName": "Description",
+      "type": "textLong",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_experience.location",
+      "objectKey": "experience.location",
+      "displayName": "Location",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience.role",
+      "objectKey": "experience.role",
+      "displayName": "Role",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience.tenure",
+      "objectKey": "experience.tenure",
+      "displayName": "Tenure",
+      "type": "dateRange",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_experience.tenure.end",
+      "objectKey": "experience.tenure.end",
+      "displayName": "To",
+      "type": "dateParts",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_experience.tenure.start",
+      "objectKey": "experience.tenure.start",
+      "displayName": "From",
+      "type": "dateParts",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_experience.workplace",
+      "objectKey": "experience.workplace",
+      "displayName": "Company Name",
+      "type": "workplace",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_experience.workplace.logoUrl",
+      "objectKey": "experience.workplace.logoUrl",
+      "displayName": "Image",
+      "type": "imageUrl",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_experience.workplace.title",
+      "objectKey": "experience.workplace.title",
+      "displayName": "Experience - Company",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experienceItem",
+      "objectKey": "experienceItem",
+      "displayName": "Experience Item",
+      "type": "object",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_firstName",
+      "objectKey": "firstName",
+      "displayName": "First Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_hasNamePronunciation",
+      "objectKey": "hasNamePronunciation",
+      "displayName": "Has Name Pronunciation",
+      "type": "boolean",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_hrbpName",
+      "objectKey": "hrbpName",
+      "displayName": "Human Resources Business Partner",
+      "type": "person",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_inclusivePronouns",
+      "objectKey": "inclusivePronouns",
+      "displayName": "Pronouns",
+      "type": "object",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_inclusivePronouns.code",
+      "objectKey": "inclusivePronouns.code",
+      "displayName": "Pronouns",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_inclusivePronouns.isOther",
+      "objectKey": "inclusivePronouns.isOther",
+      "displayName": "Has Custom Pronouns?",
+      "type": "boolean",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_inclusivePronouns.value",
+      "objectKey": "inclusivePronouns.value",
+      "displayName": "Pronouns",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_interests",
+      "objectKey": "interests",
+      "displayName": "Interests",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_isTeamLeader",
+      "objectKey": "isTeamLeader",
+      "displayName": "Is Team Leader",
+      "type": "boolean",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_languageItem",
+      "objectKey": "languageItem",
+      "displayName": "Language Item",
+      "type": "object",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_languages",
+      "objectKey": "languages",
+      "displayName": "Languages",
+      "type": "collection",
+      "searchable": false
+    },
+    {
+      "id": "user_languages.description",
+      "objectKey": "languages.description",
+      "displayName": "Description",
+      "type": "textLong",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_languages.language",
+      "objectKey": "languages.language",
+      "displayName": "Language",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_languages.proficiency",
+      "objectKey": "languages.proficiency",
+      "displayName": "Proficiency",
+      "type": "object",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_languages.proficiency.level",
+      "objectKey": "languages.proficiency.level",
+      "displayName": "Level",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_languages.proficiency.skills",
+      "objectKey": "languages.proficiency.skills",
+      "displayName": "Skills",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_lastName",
+      "objectKey": "lastName",
+      "displayName": "Last Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_messageAddress",
+      "objectKey": "messageAddress",
+      "displayName": "Message Address",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_office",
+      "objectKey": "office",
+      "displayName": "Office",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeCity",
+      "objectKey": "officeCity",
+      "displayName": "Office City",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeState",
+      "objectKey": "officeState",
+      "displayName": "Office State",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeStreet",
+      "objectKey": "officeStreet",
+      "displayName": "Office Street",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officialPictureUrl",
+      "objectKey": "officialPictureUrl",
+      "displayName": "Official Picture",
+      "type": "imageUrl",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_phone",
+      "objectKey": "phone",
+      "displayName": "Office Phone",
+      "type": "phone",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_pictureUrl",
+      "objectKey": "pictureUrl",
+      "displayName": "Profile Picture",
+      "type": "imageUrl",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_reachOutToMeFor",
+      "objectKey": "reachOutToMeFor",
+      "displayName": "Reach out to me for",
+      "type": "object",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_reachOutToMeFor.general",
+      "objectKey": "reachOutToMeFor.general",
+      "displayName": "Featured",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_reachOutToMeFor.projects",
+      "objectKey": "reachOutToMeFor.projects",
+      "displayName": "Projects",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_reportingPath",
+      "objectKey": "reportingPath",
+      "displayName": "Reporting Path",
+      "type": "collection",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_skills",
+      "objectKey": "skills",
+      "displayName": "Skills",
+      "type": "collection",
+      "searchable": false
+    },
+    {
+      "id": "user_skills.isFeatured",
+      "objectKey": "skills.isFeatured",
+      "displayName": "Is Featured Skill?",
+      "type": "boolean",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_skills.level",
+      "objectKey": "skills.level",
+      "displayName": "Skill Level",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_skills.name",
+      "objectKey": "skills.name",
+      "displayName": "Skills",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_skillsItem",
+      "objectKey": "skillsItem",
+      "displayName": "Skills",
+      "type": "skills",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_team",
+      "objectKey": "team",
+      "displayName": "Team",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_teamLeaderId",
+      "objectKey": "teamLeaderId",
+      "displayName": "Team Leader ID",
+      "type": "text",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours",
+      "objectKey": "timezoneAndWorkHours",
+      "displayName": "Time Zone and Working Hours",
+      "type": "object",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.timezone",
+      "objectKey": "timezoneAndWorkHours.timezone",
+      "displayName": "Time Zone",
+      "type": "text",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHours",
+      "objectKey": "timezoneAndWorkHours.workHours",
+      "displayName": "Work Hours",
+      "type": "collection",
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHours.day",
+      "objectKey": "timezoneAndWorkHours.workHours.day",
+      "displayName": "Working Days",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHours.endTime",
+      "objectKey": "timezoneAndWorkHours.workHours.endTime",
+      "displayName": "Work Hour End Time",
+      "type": "dateParts",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHours.location",
+      "objectKey": "timezoneAndWorkHours.workHours.location",
+      "displayName": "Work Location",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHours.startTime",
+      "objectKey": "timezoneAndWorkHours.workHours.startTime",
+      "displayName": "Work Hour Start Time",
+      "type": "dateParts",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHoursItem",
+      "objectKey": "timezoneAndWorkHours.workHoursItem",
+      "displayName": "Work Hours Item",
+      "type": "object",
+      "filterable": false,
+      "searchable": false
+    },
+    {
+      "id": "user_title",
+      "objectKey": "title",
+      "displayName": "Job Title",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_totalReportCount",
+      "objectKey": "totalReportCount",
+      "displayName": "Total Report Count",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_whatIDoHere",
+      "objectKey": "whatIDoHere",
+      "displayName": "What I do here",
+      "type": "textLong",
+      "filterable": false,
+      "searchable": false
+    }
+  ],
+  "filterable": [
+    {
+      "id": "user_anniversaryDate",
+      "objectKey": "anniversaryDate",
+      "displayName": "Hire Date",
+      "type": "date",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_cell",
+      "objectKey": "cell",
+      "displayName": "Cell Phone",
+      "type": "phone",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_cf_date-zosw2wQyI",
+      "objectKey": "cf_date-zosw2wQyI",
+      "displayName": "Birthday",
+      "type": "date",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_cf_text-3p8xb4wPz",
+      "objectKey": "cf_text-3p8xb4wPz",
+      "displayName": "Employee Type",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_companyName",
+      "objectKey": "companyName",
+      "displayName": "Company",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_department",
+      "objectKey": "department",
+      "displayName": "Department",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_directOpenRoleReportCount",
+      "objectKey": "directOpenRoleReportCount",
+      "displayName": "Direct Open Role Report Count",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_directReportCount",
+      "objectKey": "directReportCount",
+      "displayName": "Direct Report Count",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_displayName",
+      "objectKey": "displayName",
+      "displayName": "Full Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.classYear",
+      "objectKey": "education.classYear",
+      "displayName": "Class of",
+      "type": "date",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_education.concentrations",
+      "objectKey": "education.concentrations",
+      "displayName": "Concentrations",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.degreeType",
+      "objectKey": "education.degreeType",
+      "displayName": "Degree Type",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.fieldsOfStudy",
+      "objectKey": "education.fieldsOfStudy",
+      "displayName": "Fields of Study",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.minors",
+      "objectKey": "education.minors",
+      "displayName": "Minors",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.school.id",
+      "objectKey": "education.school.id",
+      "displayName": "Short Text",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.school.name",
+      "objectKey": "education.school.name",
+      "displayName": "School",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_email",
+      "objectKey": "email",
+      "displayName": "Email",
+      "type": "email",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience.location",
+      "objectKey": "experience.location",
+      "displayName": "Location",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience.role",
+      "objectKey": "experience.role",
+      "displayName": "Role",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience.workplace.title",
+      "objectKey": "experience.workplace.title",
+      "displayName": "Experience - Company",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_firstName",
+      "objectKey": "firstName",
+      "displayName": "First Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_hasNamePronunciation",
+      "objectKey": "hasNamePronunciation",
+      "displayName": "Has Name Pronunciation",
+      "type": "boolean",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_hrbpName",
+      "objectKey": "hrbpName",
+      "displayName": "Human Resources Business Partner",
+      "type": "person",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_inclusivePronouns.code",
+      "objectKey": "inclusivePronouns.code",
+      "displayName": "Pronouns",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_inclusivePronouns.isOther",
+      "objectKey": "inclusivePronouns.isOther",
+      "displayName": "Has Custom Pronouns?",
+      "type": "boolean",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_inclusivePronouns.value",
+      "objectKey": "inclusivePronouns.value",
+      "displayName": "Pronouns",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_interests",
+      "objectKey": "interests",
+      "displayName": "Interests",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_isTeamLeader",
+      "objectKey": "isTeamLeader",
+      "displayName": "Is Team Leader",
+      "type": "boolean",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_languages.language",
+      "objectKey": "languages.language",
+      "displayName": "Language",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_languages.proficiency.level",
+      "objectKey": "languages.proficiency.level",
+      "displayName": "Level",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_languages.proficiency.skills",
+      "objectKey": "languages.proficiency.skills",
+      "displayName": "Skills",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_lastName",
+      "objectKey": "lastName",
+      "displayName": "Last Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_messageAddress",
+      "objectKey": "messageAddress",
+      "displayName": "Message Address",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_office",
+      "objectKey": "office",
+      "displayName": "Office",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeCity",
+      "objectKey": "officeCity",
+      "displayName": "Office City",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeState",
+      "objectKey": "officeState",
+      "displayName": "Office State",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeStreet",
+      "objectKey": "officeStreet",
+      "displayName": "Office Street",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_phone",
+      "objectKey": "phone",
+      "displayName": "Office Phone",
+      "type": "phone",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_reachOutToMeFor.general",
+      "objectKey": "reachOutToMeFor.general",
+      "displayName": "Featured",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_reachOutToMeFor.projects",
+      "objectKey": "reachOutToMeFor.projects",
+      "displayName": "Projects",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_reportingPath",
+      "objectKey": "reportingPath",
+      "displayName": "Reporting Path",
+      "type": "collection",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_skills.isFeatured",
+      "objectKey": "skills.isFeatured",
+      "displayName": "Is Featured Skill?",
+      "type": "boolean",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_skills.level",
+      "objectKey": "skills.level",
+      "displayName": "Skill Level",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_skills.name",
+      "objectKey": "skills.name",
+      "displayName": "Skills",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_team",
+      "objectKey": "team",
+      "displayName": "Team",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_teamLeaderId",
+      "objectKey": "teamLeaderId",
+      "displayName": "Team Leader ID",
+      "type": "text",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.timezone",
+      "objectKey": "timezoneAndWorkHours.timezone",
+      "displayName": "Time Zone",
+      "type": "text",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHours.day",
+      "objectKey": "timezoneAndWorkHours.workHours.day",
+      "displayName": "Working Days",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHours.location",
+      "objectKey": "timezoneAndWorkHours.workHours.location",
+      "displayName": "Work Location",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_title",
+      "objectKey": "title",
+      "displayName": "Job Title",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_totalReportCount",
+      "objectKey": "totalReportCount",
+      "displayName": "Total Report Count",
+      "type": "number",
+      "filterable": true,
+      "searchable": false
+    }
+  ],
+  "searchable": [
+    {
+      "id": "user_cell",
+      "objectKey": "cell",
+      "displayName": "Cell Phone",
+      "type": "phone",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_cf_text-3p8xb4wPz",
+      "objectKey": "cf_text-3p8xb4wPz",
+      "displayName": "Employee Type",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_companyName",
+      "objectKey": "companyName",
+      "displayName": "Company",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_department",
+      "objectKey": "department",
+      "displayName": "Department",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_displayName",
+      "objectKey": "displayName",
+      "displayName": "Full Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.concentrations",
+      "objectKey": "education.concentrations",
+      "displayName": "Concentrations",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.degreeType",
+      "objectKey": "education.degreeType",
+      "displayName": "Degree Type",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.fieldsOfStudy",
+      "objectKey": "education.fieldsOfStudy",
+      "displayName": "Fields of Study",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.minors",
+      "objectKey": "education.minors",
+      "displayName": "Minors",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.school.id",
+      "objectKey": "education.school.id",
+      "displayName": "Short Text",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_education.school.name",
+      "objectKey": "education.school.name",
+      "displayName": "School",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_email",
+      "objectKey": "email",
+      "displayName": "Email",
+      "type": "email",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience.location",
+      "objectKey": "experience.location",
+      "displayName": "Location",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience.role",
+      "objectKey": "experience.role",
+      "displayName": "Role",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_experience.workplace.title",
+      "objectKey": "experience.workplace.title",
+      "displayName": "Experience - Company",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_firstName",
+      "objectKey": "firstName",
+      "displayName": "First Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_hrbpName",
+      "objectKey": "hrbpName",
+      "displayName": "Human Resources Business Partner",
+      "type": "person",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_inclusivePronouns.code",
+      "objectKey": "inclusivePronouns.code",
+      "displayName": "Pronouns",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_inclusivePronouns.value",
+      "objectKey": "inclusivePronouns.value",
+      "displayName": "Pronouns",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_interests",
+      "objectKey": "interests",
+      "displayName": "Interests",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_languages.language",
+      "objectKey": "languages.language",
+      "displayName": "Language",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_languages.proficiency.level",
+      "objectKey": "languages.proficiency.level",
+      "displayName": "Level",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_languages.proficiency.skills",
+      "objectKey": "languages.proficiency.skills",
+      "displayName": "Skills",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_lastName",
+      "objectKey": "lastName",
+      "displayName": "Last Name",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_messageAddress",
+      "objectKey": "messageAddress",
+      "displayName": "Message Address",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_office",
+      "objectKey": "office",
+      "displayName": "Office",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeCity",
+      "objectKey": "officeCity",
+      "displayName": "Office City",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeState",
+      "objectKey": "officeState",
+      "displayName": "Office State",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_officeStreet",
+      "objectKey": "officeStreet",
+      "displayName": "Office Street",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_phone",
+      "objectKey": "phone",
+      "displayName": "Office Phone",
+      "type": "phone",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_reachOutToMeFor.general",
+      "objectKey": "reachOutToMeFor.general",
+      "displayName": "Featured",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_reachOutToMeFor.projects",
+      "objectKey": "reachOutToMeFor.projects",
+      "displayName": "Projects",
+      "type": "collection",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_skills.name",
+      "objectKey": "skills.name",
+      "displayName": "Skills",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_team",
+      "objectKey": "team",
+      "displayName": "Team",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_timezoneAndWorkHours.workHours.location",
+      "objectKey": "timezoneAndWorkHours.workHours.location",
+      "displayName": "Work Location",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    },
+    {
+      "id": "user_title",
+      "objectKey": "title",
+      "displayName": "Job Title",
+      "type": "text",
+      "filterable": true,
+      "searchable": true
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "vZrrWvO8Ij",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Stephen M.",
+    "officeCity": "HQ",
+    "email": "smp@kymanox.com",
+    "hasNamePronunciation": false,
+    "department": "Executive",
+    "reportingPath": [],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=smp@kymanox.com",
+    "anniversaryDate": "08/03/2004",
+    "totalReportCount": 286,
+    "cell": "(847)239-2710",
+    "lastName": "Perry",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 10,
+    "title": "CEO",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "displayName": "Stephen M. Perry",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 0,
+    "departmentName": "Executive",
+    "officeName": "HQ"
+  },
+  {
+    "id": "qBQChktLXIo5",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Andrew",
+    "officeCity": "HQ",
+    "email": "andrew.messick@kymanox.com",
+    "teamLeaderId": "vZrrWvO8Ij",
+    "education": [
+      {
+        "school": {
+          "name": "University of North Carolina at Chapel Hill",
+          "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+        },
+        "classYear": "1997-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Business Administration",
+        "concentrations": []
+      },
+      {
+        "school": {
+          "name": "University of North Carolina at Chapel Hill",
+          "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+        },
+        "classYear": "1998-01-01T00:00:00+00:00",
+        "degreeType": "Master of Accounting"
+      }
+    ],
+    "hasNamePronunciation": false,
+    "department": "Finance",
+    "reportingPath": [
+      "vZrrWvO8Ij"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=andrew.messick@kymanox.com",
+    "anniversaryDate": "04/21/2025",
+    "whatIDoHere": "Chief Financial Officer",
+    "totalReportCount": 19,
+    "cell": "9192449903",
+    "lastName": "Messick",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 3,
+    "title": "Chief Financial Officer",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "displayName": "Andrew Messick",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 1,
+    "departmentName": "Finance",
+    "officeName": "HQ",
+    "managerName": "Stephen M. Perry"
+  }
+]

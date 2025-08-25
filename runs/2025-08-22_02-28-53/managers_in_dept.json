@@ -1,0 +1,653 @@
+[
+  {
+    "id": "JuMjstPnz",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Brandon",
+    "reachOutToMeFor": {
+      "projects": [
+        "Digital Operations",
+        "Business Process",
+        "Information Security",
+        "Data Analysis & Transformation",
+        "Digital Transformation",
+        "Computer Systems Validation",
+        "Enterprise Resource Planning",
+        "Systems Integration",
+        "Kymanox Facilities Management",
+        "Audio/Video Solutions",
+        "Technology Adoptions"
+      ]
+    },
+    "officeCity": "HQ",
+    "email": "brandon.sullivan@kymanox.com",
+    "teamLeaderId": "qBQChktLXIo5",
+    "skills": [
+      {
+        "name": "ERP Integration",
+        "level": 400,
+        "isFeatured": true
+      },
+      {
+        "name": "Business Process Design",
+        "level": 400,
+        "isFeatured": true
+      },
+      {
+        "name": "Systems Integration",
+        "level": 400,
+        "isFeatured": true
+      },
+      {
+        "name": "Digital Maturity",
+        "level": 400,
+        "isFeatured": true
+      },
+      {
+        "name": "Technology Adoption",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "SAP",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Verification and Validation of Computer Systems",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Supply Chain Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Supply Chain Planning",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "IT Governance",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "IT Security",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Artificial Intelligence",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Salesforce Sales Cloud",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Active Directory",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Communications Technology",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Electronic Data Interchange",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "SharePoint Workflows",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "SharePoint",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Developing Technical Roadmap",
+        "level": 400,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "University of North Carolina at Greensboro",
+          "id": "a2a2618d-2616-435c-b7a1-835460739c7a"
+        },
+        "degreeType": "Bachelor of Science"
+      }
+    ],
+    "hasNamePronunciation": false,
+    "timezoneAndWorkHours": {
+      "timezone": "America/New_York",
+      "workHours": [
+        {
+          "day": 1,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "OFFICE",
+          "startTime": {
+            "hour": 8,
+            "minute": 30
+          }
+        },
+        {
+          "day": 2,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "FLEXIBLE",
+          "startTime": {
+            "hour": 8,
+            "minute": 30
+          }
+        },
+        {
+          "day": 3,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "REMOTE",
+          "startTime": {
+            "hour": 8,
+            "minute": 30
+          }
+        },
+        {
+          "day": 4,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "FLEXIBLE",
+          "startTime": {
+            "hour": 8,
+            "minute": 30
+          }
+        },
+        {
+          "day": 5,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "REMOTE",
+          "startTime": {
+            "hour": 8,
+            "minute": 30
+          }
+        }
+      ]
+    },
+    "experience": [
+      {
+        "role": "Senior Director, Digital Operations",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2021,
+            "month": 5
+          }
+        },
+        "workplace": {
+          "title": "Kymanox Corporation"
+        }
+      },
+      {
+        "role": "Associate Director, MIS Business Processes & Services",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 4
+          },
+          "start": {
+            "year": 2014,
+            "month": 3
+          }
+        },
+        "location": "Raleigh, NC",
+        "workplace": {
+          "title": "Ajinomoto Health & Nutrition North America,",
+          "logoUrl": "https://img.logo.dev/ajihealthandnutrition.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      }
+    ],
+    "department": "Information Technology",
+    "interests": [
+      "Golfing",
+      "Beach Volleyball",
+      "Reading",
+      "Technology",
+      "Woodworking",
+      "Fishing",
+      "Traveling",
+      "Cooking",
+      "Ice hockey"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=brandon.sullivan@kymanox.com",
+    "anniversaryDate": "06/01/2021",
+    "totalReportCount": 13,
+    "cell": "(919)338-3437",
+    "lastName": "Sullivan",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 10,
+    "title": "Senior Director, IT",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "languages": [
+      {
+        "language": "English",
+        "description": null,
+        "proficiency": {
+          "level": "Native",
+          "skills": [
+            "Understanding",
+            "Speaking"
+          ]
+        }
+      }
+    ],
+    "displayName": "Brandon Sullivan",
+    "phone": "(919)351-9130",
+    "inclusivePronouns": {
+      "code": "MALE",
+      "isOther": false
+    },
+    "cf_date-zosw2wQyI": "2000-03-03T00:00:00-05:00",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 2,
+    "departmentName": "Information Technology",
+    "officeName": "HQ",
+    "managerName": "Andrew Messick"
+  },
+  {
+    "id": "GF1tJW-QvbZ",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Eric",
+    "reachOutToMeFor": {
+      "general": [
+        "Salesforce",
+        "Personio",
+        "DOT Compliance",
+        "Facilities",
+        "IT"
+      ]
+    },
+    "officeCity": "HQ",
+    "email": "eric.donie@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "education": [
+      {
+        "school": {
+          "name": "University of North Carolina at Greensboro",
+          "id": "a2a2618d-2616-435c-b7a1-835460739c7a"
+        },
+        "classYear": "2024-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science - BS",
+        "fieldsOfStudy": [
+          "Integrated Professional Studies"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Senior Solutions Engineer",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2024,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP Engagement Manager",
+        "tenure": {
+          "end": {
+            "year": 2024,
+            "month": 10
+          },
+          "start": {
+            "year": 2021,
+            "month": 10
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Senior SAP Specialist",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 10
+          },
+          "start": {
+            "year": 2020,
+            "month": 3
+          }
+        },
+        "location": "Raleigh, North Carolina, United States",
+        "workplace": {
+          "title": "Ajinomoto Co., Inc."
+        }
+      },
+      {
+        "role": "Functional Consultant",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 2
+          },
+          "start": {
+            "year": 2019,
+            "month": 4
+          }
+        },
+        "location": "Raleigh-Durham, North Carolina Area",
+        "workplace": {
+          "title": "Prometheus Group",
+          "logoUrl": "https://img.logo.dev/prometheusgroup.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP Plant Maintenance Functional Analyst",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 4
+          },
+          "start": {
+            "year": 2012,
+            "month": 4
+          }
+        },
+        "location": "Bartlesville, OK",
+        "workplace": {
+          "title": "Phillips 66",
+          "logoUrl": "https://img.logo.dev/phillips66.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP PM Analyst",
+        "tenure": {
+          "end": {
+            "year": 2012,
+            "month": 4
+          },
+          "start": {
+            "year": 2008,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Commercial Metals Company"
+        }
+      },
+      {
+        "role": "Fire Control Technician",
+        "tenure": {
+          "end": {
+            "year": 2007,
+            "month": 0
+          },
+          "start": {
+            "year": 2002,
+            "month": 0
+          }
+        },
+        "workplace": {
+          "title": "US Navy"
+        }
+      }
+    ],
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=eric.donie@kymanox.com",
+    "anniversaryDate": "11/29/2021",
+    "totalReportCount": 2,
+    "cell": "(214)603-2428",
+    "lastName": "Donie",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 2,
+    "title": "Senior Solutions Engineer",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "displayName": "Eric Donie",
+    "inclusivePronouns": {
+      "code": "MALE",
+      "isOther": false
+    },
+    "cf_date-zosw2wQyI": "1982-08-01T00:00:00-04:00",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "Information Technology",
+    "officeName": "HQ",
+    "managerName": "Brandon Sullivan"
+  },
+  {
+    "id": "xmdUkIoiz",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Phuong",
+    "officeCity": "HQ",
+    "email": "phuong.nguyen@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "skills": [
+      {
+        "name": "Network Troubleshooting",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Troubleshooting",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": 300,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "University of North Carolina at Charlotte",
+          "id": "088bbef9-83cb-4449-b947-3367bc944a44"
+        },
+        "classYear": "2019-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor’s Degree",
+        "fieldsOfStudy": [
+          "Computer Science"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "timezoneAndWorkHours": {
+      "timezone": "America/New_York",
+      "workHours": [
+        {
+          "day": 1,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "OFFICE",
+          "startTime": {
+            "hour": 8,
+            "minute": 0
+          }
+        },
+        {
+          "day": 2,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "OFFICE",
+          "startTime": {
+            "hour": 9,
+            "minute": 0
+          }
+        },
+        {
+          "day": 3,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "REMOTE",
+          "startTime": {
+            "hour": 9,
+            "minute": 0
+          }
+        },
+        {
+          "day": 4,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "FLEXIBLE",
+          "startTime": {
+            "hour": 9,
+            "minute": 0
+          }
+        },
+        {
+          "day": 5,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "REMOTE",
+          "startTime": {
+            "hour": 9,
+            "minute": 0
+          }
+        }
+      ]
+    },
+    "experience": [
+      {
+        "role": "Senior IT Analyst ",
+        "tenure": {
+          "end": {
+            "year": 2024,
+            "month": 1
+          },
+          "start": {
+            "year": 2023,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "IT Operations Manager",
+        "tenure": {
+          "start": {
+            "year": 2024,
+            "month": 4
+          }
+        },
+        "location": "RTP",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      }
+    ],
+    "department": "Information Technology",
+    "interests": [
+      "Video Games",
+      "Vintage cars"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/xmdUkIoiz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=phuong.nguyen@kymanox.com",
+    "anniversaryDate": "05/15/2023",
+    "totalReportCount": 1,
+    "cell": "(336)705-3813",
+    "lastName": "Nguyen",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/xmdUkIoiz/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/xmdUkIoiz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 1,
+    "title": "Manager, IT Operations",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "languages": [
+      {
+        "language": "Vietnamese",
+        "proficiency": {
+          "level": "Native",
+          "skills": [
+            "Reading",
+            "Writing",
+            "Understanding",
+            "Speaking"
+          ]
+        }
+      }
+    ],
+    "displayName": "Phuong Nguyen",
+    "phone": "(919)364-8754",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "Information Technology",
+    "officeName": "HQ",
+    "managerName": "Brandon Sullivan"
+  }
+]

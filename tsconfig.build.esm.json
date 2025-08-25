@@ -1,0 +1,25 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "module": "ES2020",
+    "outDir": "dist/esm",
+    "declaration": true,
+    "declarationMap": false,
+    "sourceMap": false,
+    "emitDeclarationOnly": false
+  },
+  "include": [
+    "index.ts",
+    "sift_client.ts",
+    "chatbot_sift_client.ts",
+    "skills_client.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "web/**",
+    "examples/**",
+    "scripts/**",
+    "**/*.test.ts"
+  ]
+}

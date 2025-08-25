@@ -1,0 +1,326 @@
+{
+  "name": "Account Management",
+  "headCount": 4,
+  "managerCount": 1,
+  "avgTeamSize": 3,
+  "maxReportingLevels": 1,
+  "topManager": {
+    "id": "OFyjeqkCzI",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Kevin",
+    "officeCity": "HQ",
+    "email": "kevin.brown@kymanox.com",
+    "teamLeaderId": "Rb-TH2k_Dpx",
+    "skills": [
+      {
+        "name": "Account Management",
+        "level": 400,
+        "isFeatured": true
+      },
+      {
+        "name": "Project Management",
+        "level": 400,
+        "isFeatured": true
+      },
+      {
+        "name": "Business Development",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "PMP",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Software Project Management",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Project Portfolio Management",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Contracts",
+        "level": 400,
+        "isFeatured": true
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "University of Notre Dame",
+          "id": "c2858a24-86d2-4a89-8581-20277329008c"
+        },
+        "classYear": "1997-01-01T00:00:00+00:00",
+        "degreeType": "BBA",
+        "fieldsOfStudy": [
+          "Management Information Systems"
+        ]
+      },
+      {
+        "school": {
+          "name": "University College Dublin",
+          "id": "c38f6bf9-dbe2-4643-9f29-df691b58d6e0"
+        },
+        "classYear": "1996-01-01T00:00:00+00:00",
+        "degreeType": "Commerce",
+        "fieldsOfStudy": [
+          "Commerce"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Vice President, Accounts",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2019,
+            "month": 7
+          }
+        },
+        "location": "Raleigh-Durham, North Carolina Area",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Manage client accounts for Kymanox.  Ensure client satisfaction.  Review existing projects and ensure projects are meeting client expectations. Work with sales & marketing team to deliver top notch solutions to our Biotechnology, Pharmaceutical, Medical Device and Combo Device clients throughout the US and internationally. \n"
+      },
+      {
+        "role": "General Manager",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 7
+          },
+          "start": {
+            "year": 2016,
+            "month": 10
+          }
+        },
+        "location": "Raleigh-Durham, North Carolina Area",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Manage all day-to-day aspects of the business at Kymanox, using the NetSuite ERP system. \n\nPrepare monthly, quarterly and annual financial statements and packages for internal use and for use by investment partners and lenders.  Provide on-demand review of company financials, real-time financial, project, and employee metrics through heavily customized project and employee pages. \n\nMember of the Senior Leadership Team, organize and provide data to the team on a weekly and monthly basis. \n\nOversee the Project Management Organization (PMO) and manage all reporting and communications to project managers; including scope, budget, and detailed, customized reporting for project resources. \n\n\n\n\n"
+      },
+      {
+        "role": "Vice President, Project Management Office",
+        "tenure": {
+          "end": {
+            "year": 2016,
+            "month": 10
+          },
+          "start": {
+            "year": 2015,
+            "month": 4
+          }
+        },
+        "location": "Raleigh-Durham, North Carolina Area",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Lead the Project Management Office, helping to define and maintain the standards for project management in all departments at Kymanox.  Develop and continually improve project execution to allow all client projects to be completed on-time, on-schedule, and on-budget. \n"
+      },
+      {
+        "role": "Vice President, Information Technology",
+        "tenure": {
+          "end": {
+            "year": 2015,
+            "month": 4
+          },
+          "start": {
+            "year": 2008,
+            "month": 11
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Operations Manager",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2009,
+            "month": 9
+          }
+        },
+        "workplace": {
+          "title": "CMOLocator"
+        }
+      },
+      {
+        "role": "Operations Manager",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2009,
+            "month": 3
+          }
+        },
+        "workplace": {
+          "title": "KymaSTORE / KymanoxWORKS"
+        }
+      },
+      {
+        "role": "Project Manager, Line 4 Expansion (Contract)",
+        "tenure": {
+          "end": {
+            "year": 2016,
+            "month": 2
+          },
+          "start": {
+            "year": 2015,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "bioMerieux"
+        }
+      },
+      {
+        "role": "Owner",
+        "tenure": {
+          "end": {
+            "year": 2009,
+            "month": 0
+          },
+          "start": {
+            "year": 2004,
+            "month": 0
+          }
+        },
+        "workplace": {
+          "title": "KMB Innovations"
+        }
+      },
+      {
+        "role": "Director of Technology",
+        "tenure": {
+          "end": {
+            "year": 2008,
+            "month": 11
+          },
+          "start": {
+            "year": 2004,
+            "month": 9
+          }
+        },
+        "workplace": {
+          "title": "The Weinstein Organization",
+          "logoUrl": "https://img.logo.dev/twochicago.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "(4 years 3 months) \nSignificantly expanded the E-Commerce division of the company from using simple, bulk email campaigns to building complex, internet-connected marketing campaigns using personalized URLs and utilizing customer information to create highly customer-relevant marketing materials. "
+      },
+      {
+        "role": "Programmer/Analyst, and Senior Web Developer",
+        "tenure": {
+          "end": {
+            "year": 2004,
+            "month": 9
+          },
+          "start": {
+            "year": 2001,
+            "month": 10
+          }
+        },
+        "workplace": {
+          "title": "FTD, Inc."
+        },
+        "description": "(3 years) \nMember of 3-person architecture team responsible for developing next generation software architecture for FTD products built on .NET web services, .NET client applications and a SQL 2000 database. "
+      },
+      {
+        "role": "Consultant",
+        "tenure": {
+          "end": {
+            "year": 2001,
+            "month": 8
+          },
+          "start": {
+            "year": 2000,
+            "month": 8
+          }
+        },
+        "workplace": {
+          "title": "Clarity Consulting",
+          "logoUrl": "https://img.logo.dev/clarityconsultinginc.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Consultant",
+        "tenure": {
+          "end": {
+            "year": 2000,
+            "month": 8
+          },
+          "start": {
+            "year": 1999,
+            "month": 0
+          }
+        },
+        "workplace": {
+          "title": "Widepoint / Eclipse Information Systems"
+        },
+        "description": "(1 year 9 months) \nDeveloped and maintained SQL Server and Oracle databases for Clients. Clients included Trans Union, Rockwell E-Commerce, and others. "
+      },
+      {
+        "role": "Consultant",
+        "tenure": {
+          "end": {
+            "year": 1998,
+            "month": 11
+          },
+          "start": {
+            "year": 1997,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "CIBER / The Summit Group"
+        },
+        "description": "(1 year 5 months) \nDeveloped and Maintained interfaces from various mainframe systems to the Oracle Applications. \nClients included Ericsson Cellular, Telxon, and Checkpoint Systems. "
+      }
+    ],
+    "department": "Account Management",
+    "interests": [
+      "Music, Boating, Dog Lover"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "Rb-TH2k_Dpx"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/OFyjeqkCzI/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=kevin.brown@kymanox.com",
+    "anniversaryDate": "12/01/2008",
+    "whatIDoHere": "I've been at Kymanox for over 16 years, in a variety of roles.  I currently lead the Account Management team and handle many of the legal aspects of Kymanox (contracts, proposals, agreements).",
+    "totalReportCount": 3,
+    "cell": "(224)406-1730",
+    "lastName": "Brown",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/OFyjeqkCzI/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/OFyjeqkCzI/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 3,
+    "title": "VP, Accounts",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "displayName": "Kevin Brown",
+    "phone": "(919)364-8740",
+    "bio": "Executive-level, certified Project Management Professional (PMP) with over twenty-five years of experience in technology and systems integration, including extensive expertise in large-scale web application development. \n\nSpecialties: Project Management (Certified PMP), NetSuite Accounting & Project Management (including extensive customization of NetSuite), Microsoft.NET technologies (C#, ASP.NET, VB.Net), Web Technologies (HTML, CSS, Javascript, AJAX), Databases (MS SQL Server, Oracle, MySQL), Object Oriented Software Development, Requirements Analysis, Code Review and Mentoring, QA and User Acceptance Testing, Business Systems Documentation, Workflow Analysis / Reengineering, and Regulatory Requirements for Systems (Validation, 21 CFR Part 11)",
+    "cf_date-zosw2wQyI": "1975-03-24T00:00:00-04:00",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 2,
+    "departmentName": "Account Management",
+    "officeName": "HQ",
+    "managerName": "Nicholas Ciccarelli"
+  }
+}

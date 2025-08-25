@@ -1,0 +1,1407 @@
+[
+  {
+    "id": "MXF1WnNe8fY",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Adrian",
+    "officeCity": "HQ",
+    "email": "adrian.zubillaga@kymanox.com",
+    "teamLeaderId": "Es75foiwoPh",
+    "skills": [
+      {
+        "name": "Combination Products",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Engineering",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Human Factors",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Risk Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Project Management",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Medical Devices",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Design Controls",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Technical Writing",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "SolidWorks",
+        "level": 200,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "Florida International University",
+          "id": "6ff73546-2e78-48f3-a876-665a8a5bee7b"
+        },
+        "degreeType": "Bachelor of Engineering",
+        "fieldsOfStudy": [
+          "Bioengineering and Biomedical Engineering"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "department": "Product Development & Commercialization",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "Rb-TH2k_Dpx",
+      "fdlZjVNnvsz",
+      "Es75foiwoPh"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/MXF1WnNe8fY/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=adrian.zubillaga@kymanox.com",
+    "anniversaryDate": "04/05/2023",
+    "whatIDoHere": "Support Kymanox clients by providing technical expertise in combination products and reliability assessments.",
+    "totalReportCount": 0,
+    "cell": "(786)223-6594",
+    "lastName": "Zubillaga",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/MXF1WnNe8fY/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/MXF1WnNe8fY/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Engineer, PD&C",
+    "isTeamLeader": false,
+    "officeState": "NC",
+    "languages": [
+      {
+        "language": "Spanish",
+        "proficiency": {
+          "level": "Professional",
+          "skills": [
+            "Understanding",
+            "Speaking"
+          ]
+        }
+      }
+    ],
+    "displayName": "Adrian Zubillaga",
+    "bio": "Dynamic professional with over 8  years of experience in technical operations, project management, and device development, specializing in drug/device combination products from autoinjectors through nasal sprays. Expertise in managing cross-functional teams to develop and deliver medical devices, build out business units and generate project plans. Skilled in risk management, process improvement, and regulatory authoring, with a strong foundation in biomedical engineering.",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 4,
+    "departmentName": "Product Development & Commercialization",
+    "officeName": "HQ",
+    "managerName": "Nicole Storm-Dasenbrock"
+  },
+  {
+    "id": "nw197e8MHC",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "AJ",
+    "officeCity": "HQ",
+    "email": "aj.rogerson@kymanox.com",
+    "teamLeaderId": "BfzaKRNGr91",
+    "skills": [
+      {
+        "name": "Project Management",
+        "level": 400,
+        "isFeatured": true
+      },
+      {
+        "name": "Public Speaking",
+        "level": 400,
+        "isFeatured": true
+      },
+      {
+        "name": "Leadership",
+        "level": 300,
+        "isFeatured": true
+      },
+      {
+        "name": "Engineering",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Design Controls",
+        "level": 300,
+        "isFeatured": true
+      },
+      {
+        "name": "Risk Management",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Medical Devices",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Combination Products",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Technical Writing",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Communication",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Program Management",
+        "level": 400,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "North Carolina State University",
+          "id": "f7b123f8-f648-4b6b-bed4-f11a3c978a13"
+        },
+        "classYear": "2022-01-01T00:00:00+00:00",
+        "degreeType": "Master of Engineering - MEng",
+        "fieldsOfStudy": [
+          "Engineering/Industrial"
+        ]
+      },
+      {
+        "school": {
+          "name": "North Carolina State University",
+          "id": "90962f02-69c9-42d4-b7b2-07e8213d929e"
+        },
+        "classYear": "2020-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science - BS",
+        "fieldsOfStudy": [
+          "Biomedical Engineering"
+        ]
+      },
+      {
+        "school": {
+          "name": "University of North Carolina at Chapel Hill",
+          "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+        },
+        "classYear": "2020-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science - BS",
+        "fieldsOfStudy": [
+          "Biomedical/Medical Engineering"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Technical Project Manager",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2021,
+            "month": 9
+          }
+        },
+        "location": "Raleigh-Durham-Chapel Hill Area",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Looking forward to the new responsibilities of this promotion from Associate Project Manager to Technical Project Manager. I have thoroughly enjoyed all the projects I have worked on since joining the PMO and looking forward to helping clients \"Get More Done\". \n"
+      },
+      {
+        "role": "Associate Project Manager",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 9
+          },
+          "start": {
+            "year": 2021,
+            "month": 0
+          }
+        },
+        "location": "Raleigh-Durham-Chapel Hill Area",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "With changes to the Kymanox Academy, I have found my permanent home with the Project Management Office at Kymanox. I will remain in this group as I finish my leadership development program at Kymanox which ends in May 2022. I will gain experience with all the functional areas of the company as a project manager and I am looking forward to the next chapter at Kymanox! "
+      },
+      {
+        "role": "Associate Process Engineer",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 0
+          },
+          "start": {
+            "year": 2020,
+            "month": 5
+          }
+        },
+        "location": "Raleigh-Durham-Chapel Hill Area",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "I am thrilled to begin working as an Associate Process Engineer within the Kymanox Academy in RTP, NC.  This 2-year rotational program will give me experience in 4 large functional areas within the life sciences and biotech industry. My first rotation was with the Quality Engineering Department at Kymanox and lasted 6 months. My coworkers in the QE department were absolutely amazing and it was sad to rotate out of the group. "
+      },
+      {
+        "role": "Administrative Assistant Intern",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 5
+          },
+          "start": {
+            "year": 2020,
+            "month": 4
+          }
+        },
+        "location": "Raleigh, North Carolina, United States",
+        "workplace": {
+          "title": "Compass Surgical Partners",
+          "logoUrl": "https://img.logo.dev/compass-sp.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "During college, I shadowed surgeons at various surgery centers around Raleigh, thanks to the support of DJ Hill and Sean Rambo, co-founders of Compass Surgical Partners. After graduation, I volunteered as their assistant to give back. This experience gave me valuable exposure to the business side of healthcare, especially medical administration and the operations of surgical centers. Sitting in on meetings with the executive team provided insight into effective leadership and company management. Though not directly related to Biomedical Engineering, I gained skills in professionalism and workplace dynamics that will benefit me in any future role."
+      },
+      {
+        "role": "Engineering Ambassador",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 4
+          },
+          "start": {
+            "year": 2018,
+            "month": 2
+          }
+        },
+        "workplace": {
+          "title": "North Carolina State University",
+          "logoUrl": "https://img.logo.dev/ncsu.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "As an NC State Engineering Ambassador, I serve as one of the first points of contact for prospective students through campus tours and info sessions. Beyond recruitment, we support current students by assisting in classes, organizing orientations, open houses, and major engineering events. We also lead outreach programs at local elementary and middle schools to inspire future engineers. Sharing my experiences and helping others discover the opportunities at NC State has been incredibly rewarding. This role has strengthened my communication, leadership, and public speaking skills, and I’m honored to represent the College of Engineering in such a meaningful way."
+      },
+      {
+        "role": "Engineering Mentor in the Engineering Village at Metcalf Hall",
+        "tenure": {
+          "end": {
+            "year": 2018,
+            "month": 4
+          },
+          "start": {
+            "year": 2017,
+            "month": 7
+          }
+        },
+        "location": "Raleigh-Durham, North Carolina Area",
+        "workplace": {
+          "title": "North Carolina State University",
+          "logoUrl": "https://img.logo.dev/ncsu.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "As an sophomore, my role as Engineering Mentor detailed me living in Metcalf Hall in the Engineering Village. I lived on the 11th floor with freshman to help them transition between high school and college. I put on community events and acted as a mentor throughout the year. In the EV we did many service activities and outreach events allowing freshman to not only get connected on campus but also in the surrounding Raleigh area. I learned lessons in leadership, communication, inclusiveness and learned how to become a respected role model. \n"
+      },
+      {
+        "role": "Undergraduate Research Assistant",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 4
+          },
+          "start": {
+            "year": 2016,
+            "month": 7
+          }
+        },
+        "location": "North Carolina State University",
+        "workplace": {
+          "title": "Translational Orthopaedic Research Lab"
+        },
+        "description": "I have been an Undergraduate Research Assistant in Dr. Matthew Fisher's Translational Orthopaedic Research Lab since August 2016. I am trained to run 4 different types of biochemistry assays, cell culture experiments, 3D printing polymer scaffolds, electroprinting, protocol creation, and design/ manufacturing equipment needed. I was awarded the Abram's Scholarship to be paid for my research 2 years in a row. I was award an Office of Undergraduate Research (OUR) Grant from NC State University to fund my research costs. I will be an author on at least 1 upcoming paper and will work toward my goal of publishing my own by May 2020. \n"
+      },
+      {
+        "role": "Atlantis Fellow",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 6
+          },
+          "start": {
+            "year": 2019,
+            "month": 5
+          }
+        },
+        "location": "Toruń Area, Poland",
+        "workplace": {
+          "title": "Atlantis"
+        },
+        "description": "I had the unbelievable opportunity to go to Torun, Poland through NC State Study abroad office’s connection with the Atlantis Fellowship. The Atlantis fellowship is a program that helps pre-medicine students see and experience healthcare in a different country by shadowing doctors abroad. My program’s location was in Torun, Poland and I got to shadow doctors in the hematology, rehabilitation, intensive care and orthopedic wards of the hospital. It was a fantastic experience that opened my eyes to the difference and similarities of different cultures and healthcare processes. Highly recommended for those wanting shadow experience in a hospital in a different country. "
+      },
+      {
+        "role": "Intern",
+        "tenure": {
+          "end": {
+            "year": 2018,
+            "month": 2
+          },
+          "start": {
+            "year": 2017,
+            "month": 10
+          }
+        },
+        "location": "Holly Springs, NC",
+        "workplace": {
+          "title": "Holly Springs Surgery Center"
+        },
+        "description": "As an intern at a surgical center, I shadowed doctors, nurses, and staff to gain hands-on insight into daily medical and administrative operations. I assisted nurses with surgical prep and interacted with patients during pre-op and post-op, helping ease last-minute nerves. I observed various procedures—including spine, orthopedic, urology, and ENT surgeries—and formed strong connections with surgeons who explained key aspects step by step. This experience deepened my understanding of the surgical field and patient care. The professionalism of the administrative and nursing staff left a lasting impression and set a standard I hope to uphold as a future surgeon.\n"
+      },
+      {
+        "role": "Head Counselor of A.E. Finley's Sports Camp",
+        "tenure": {
+          "end": {
+            "year": 2017,
+            "month": 7
+          },
+          "start": {
+            "year": 2017,
+            "month": 4
+          }
+        },
+        "location": "A.E Finley YMCA",
+        "workplace": {
+          "title": "YMCA of the Triangle",
+          "logoUrl": "https://img.logo.dev/ymcatriangle.org?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "I was hired to be the head counselor of the sports camp. That meant I had to take care of the day to day operations of the camp as well as deal with all discipline and parent interactions. I was trained in CPR, Basic Life Support and Epi-pen administration for this role. \n"
+      }
+    ],
+    "department": "Program Management Office",
+    "interests": [
+      "Golfing",
+      "Disc golf",
+      "Board Games",
+      "Video Games",
+      "Reading",
+      "Watching Sports"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "WQtz373uy",
+      "Um25wz10kFD",
+      "BfzaKRNGr91"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/nw197e8MHC/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=aj.rogerson@kymanox.com",
+    "anniversaryDate": "06/22/2020",
+    "whatIDoHere": "I am a technical program manager that uses my background in biomedical engineering to problem solve solutions for my clients. My current contract is a staff augmentation project for Lilly running their development Biocompatibility team.",
+    "totalReportCount": 0,
+    "cell": "(919)501-8102",
+    "lastName": "Rogerson",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/nw197e8MHC/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/nw197e8MHC/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Technical Project Manager",
+    "isTeamLeader": false,
+    "officeState": "NC",
+    "displayName": "AJ Rogerson",
+    "bio": "Full Time Employee at Kymanox, located in RTP, NC. \n\nHighlighted Career Opportunities: \n\n- Current: Biocompatibility Program Management \n- Drug Manufacturing Program Management \n- Design History File Creation/Remediation Management \n- Quality Management System Development Management \n\nGoals: \nContinue to grow my knowledge in the biotech, medical device, and combo product field through certifications.\nPlan to begin PMP Certification process.\n\nLooking for: \n- Certification Courses to continue learning \n- Connections in the Biotech industry to further my network and help those within my network",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 4,
+    "departmentName": "Program Management Office",
+    "officeName": "HQ",
+    "managerName": "Layne Barefield"
+  },
+  {
+    "id": "dpjQtZEJl9b",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Alexis",
+    "officeCity": "KOP",
+    "email": "alexis.dechelette@kymanox.com",
+    "teamLeaderId": "Rb-TH2k_Dpx",
+    "skills": [
+      {
+        "name": "Making things happen",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Brainstorming",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "R&D",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Combination Products",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Medical Devices",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Engineering",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Root Cause Analysis",
+        "level": 400,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "Purdue University",
+          "id": "3464ccb7-65f3-49eb-b70d-fb738bfbff46"
+        },
+        "classYear": "2011-01-01T00:00:00+00:00",
+        "degreeType": "PhD",
+        "fieldsOfStudy": [
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "school": {
+          "name": "Purdue University",
+          "id": "da422344-b602-4554-8b73-d23284e1405f"
+        },
+        "classYear": "2007-01-01T00:00:00+00:00",
+        "degreeType": "MS",
+        "fieldsOfStudy": [
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "school": {
+          "name": "Ecole Nationale Supérieure des Mines de Nancy",
+          "id": "2d1ae1b0-5391-4443-8dce-8f113a872221"
+        },
+        "classYear": "2006-01-01T00:00:00+00:00",
+        "degreeType": "Diplome d'Ingenieur",
+        "fieldsOfStudy": [
+          "Engineering"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Director",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2021,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Vice President & Co-Founder",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 6
+          },
+          "start": {
+            "year": 2017,
+            "month": 6
+          }
+        },
+        "location": "Greater Philadelphia Area",
+        "workplace": {
+          "title": "Neuma LLC"
+        }
+      },
+      {
+        "role": "Principal Product Development & Manufacturing Engineer",
+        "tenure": {
+          "end": {
+            "year": 2017,
+            "month": 6
+          },
+          "start": {
+            "year": 2016,
+            "month": 2
+          }
+        },
+        "workplace": {
+          "title": "Unilife Corporation"
+        }
+      },
+      {
+        "role": "Senior Product Development & Manufacturing Engineer",
+        "tenure": {
+          "end": {
+            "year": 2016,
+            "month": 2
+          },
+          "start": {
+            "year": 2015,
+            "month": 2
+          }
+        },
+        "workplace": {
+          "title": "Unilife Corporation"
+        }
+      },
+      {
+        "role": "Senior R&D Engineer",
+        "tenure": {
+          "end": {
+            "year": 2015,
+            "month": 1
+          },
+          "start": {
+            "year": 2012,
+            "month": 5
+          }
+        },
+        "workplace": {
+          "title": "Sonendo Inc."
+        }
+      },
+      {
+        "role": "R&D Engineer",
+        "tenure": {
+          "end": {
+            "year": 2012,
+            "month": 5
+          },
+          "start": {
+            "year": 2011,
+            "month": 5
+          }
+        },
+        "workplace": {
+          "title": "Sonendo Inc."
+        }
+      },
+      {
+        "role": "Research Assistant",
+        "tenure": {
+          "end": {
+            "year": 2011,
+            "month": 4
+          },
+          "start": {
+            "year": 2005,
+            "month": 10
+          }
+        },
+        "workplace": {
+          "title": "Purdue University",
+          "logoUrl": "https://img.logo.dev/purdue.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Teaching Assistant",
+        "tenure": {
+          "end": {
+            "year": 2007,
+            "month": 11
+          },
+          "start": {
+            "year": 2005,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Purdue University",
+          "logoUrl": "https://img.logo.dev/purdue.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      }
+    ],
+    "department": "Design and Innovation (NEUMA)",
+    "interests": [
+      "Sports",
+      "Traveling",
+      "the world"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "Rb-TH2k_Dpx"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/dpjQtZEJl9b/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=alexis.dechelette@kymanox.com",
+    "anniversaryDate": "03/03/2018",
+    "whatIDoHere": "I lead the D&I team. Working with the team to turn ideas into actual devices that work and can be scaled. I value the relationship and people's side of consulting.",
+    "totalReportCount": 20,
+    "cell": "(765)714-2374",
+    "lastName": "Dechelette",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/dpjQtZEJl9b/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/dpjQtZEJl9b/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 9,
+    "title": "Director, Design and Innovation",
+    "isTeamLeader": true,
+    "officeState": "PA",
+    "languages": [
+      {
+        "language": "French",
+        "description": null,
+        "proficiency": {
+          "level": "Native",
+          "skills": [
+            "Reading",
+            "Writing",
+            "Understanding",
+            "Speaking"
+          ]
+        }
+      },
+      {
+        "language": "English",
+        "proficiency": {
+          "level": "Fluent",
+          "skills": [
+            "Understanding",
+            "Reading",
+            "Writing",
+            "Speaking"
+          ]
+        }
+      },
+      {
+        "language": "German",
+        "proficiency": {
+          "level": "Intermediate"
+        }
+      }
+    ],
+    "displayName": "Alexis Dechelette",
+    "phone": "(484)816-6854",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 2,
+    "departmentName": "Design and Innovation (NEUMA)",
+    "officeName": "KOP",
+    "managerName": "Nicholas Ciccarelli"
+  },
+  {
+    "id": "2dwwTQvFKx",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Alyson",
+    "officeCity": "HQ",
+    "email": "alyson.edwards@kymanox.com",
+    "teamLeaderId": "Gm90yOdquey",
+    "skills": [
+      {
+        "name": "Good Clinical Practice",
+        "level": 100,
+        "isFeatured": false
+      },
+      {
+        "name": "Communication",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Technical Writing",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Medical Devices",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Combination Products",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Project Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Human Factors",
+        "level": 100,
+        "isFeatured": false
+      },
+      {
+        "name": "Design Controls",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "PMP",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Risk Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Program Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Root Cause Analysis",
+        "level": 200,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "University of North Carolina Wilmington",
+          "id": "a77d1f98-499d-4d23-a969-8a80db8fc7e4"
+        },
+        "classYear": "2025-01-01T00:00:00+00:00",
+        "degreeType": "Post-Baccalaureate Certification",
+        "fieldsOfStudy": [
+          "Clinical Research"
+        ]
+      },
+      {
+        "minors": [
+          "Mechanical Engineering",
+          "Chemistry"
+        ],
+        "school": {
+          "name": "University of Pittsburgh",
+          "id": "730e103b-2b27-45cc-bef0-cb3d0816672d"
+        },
+        "classYear": "2016-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science (BS)",
+        "fieldsOfStudy": [
+          "Biomedical/Medical Engineering"
+        ],
+        "concentrations": [
+          "Medical Device Engineering"
+        ]
+      },
+      {
+        "school": {
+          "name": "Red Mountain High School",
+          "id": "f60fe97c-3653-41a1-b00e-07c22036e811"
+        },
+        "classYear": "2011-01-01T00:00:00+00:00",
+        "degreeType": "High School Diploma",
+        "fieldsOfStudy": [
+          "NA"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Senior Development Engineer",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2022,
+            "month": 2
+          }
+        },
+        "location": "Wilmington, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Acts as a technical lead providing leadership and project management for a wide range of development projects for biopharmaceutical and combination products including reconstitution kit for at home use, emergency use pump and drug pod, delivery set up for a gene therapy, IV bags, and single-use nasal spray. \n\n- Technical Program Lead for an IV Bags DHF Program creating DHFs for 9 IV Bag products \n\n- Coordinated the Request for Proposal process for quoting manufacturing and development costs associated with a complex emergency use pump and drug pod combination product \n\n- Led authorship team and assisted with writing of device related sections for 2 New Drug Applications (a re-useable autoinjector combination product and a single-use nasal spray) \n\n- Manages and mentors 1 direct report \n"
+      },
+      {
+        "role": "Development Engineer",
+        "tenure": {
+          "end": {
+            "year": 2022,
+            "month": 2
+          },
+          "start": {
+            "year": 2020,
+            "month": 9
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Delivered technical direction, leadership, authorship, and project management support for a wide range of development projects for biopharmaceutical and combination products. \n\n- Managed supplier onboarding for a new pharmaceutical manufacturing site including research of potential suppliers, material risk assessments, and quality agreements \n\n- Authored device related complaints investigations for a wide range of combination products \n\n- Conducted an assessment of SOP requirements per 21 CFR 4 for a new drug manufacturing site \n"
+      },
+      {
+        "role": "Quality Engineer | Team Lead",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 9
+          },
+          "start": {
+            "year": 2019,
+            "month": 6
+          }
+        },
+        "location": "Morrisville, NC",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Provided Quality Engineering support to clients focused on design controls and engineering documentation as well as managed and mentored a team of 2 Quality Engineers. \n\n- Technical Lead and Project Manager for DHF Remediation for multiple combination products and medical devices (including pre-filled syringes) \n- Composed product risk control assessments for products on the market undergoing DHF remediation \n\n- Authored and reviewed DHF documentation for an anti-motion sickness, multi-dose nasal spray combination product \n\n- Drafted and facilitated review of risk management documents (per ISO 14971) for combination products and medical devices \n"
+      },
+      {
+        "role": "Process Engineer",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 6
+          },
+          "start": {
+            "year": 2018,
+            "month": 8
+          }
+        },
+        "location": "Morrisville, NC",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Supported clients in a wide range of technical and compliance challenges with a primary project focus area of 503B compounding pharmacy compliance issues. \n\n- Composed validation protocols, reports, and deviation/failure investigations for compounding pumps used by a 503B compounding pharmacy \n- Led and supervised training and execution of validation protocols \n- Coordinated resources and personnel at multiple sites for execution of validation protocols and closure of reports according to the managed validation timeline \n"
+      },
+      {
+        "role": "Operations Engineer",
+        "tenure": {
+          "end": {
+            "year": 2018,
+            "month": 6
+          },
+          "start": {
+            "year": 2016,
+            "month": 5
+          }
+        },
+        "location": "Raleigh-Durham, North Carolina Area",
+        "workplace": {
+          "title": "Cohera Medical, Inc."
+        },
+        "description": "Primary point of contact for CMOs and suppliers for day-to-day management and operations of cGMP production and clinical trial adhesive/sealant synthesis, filling, and assembly for Class III surgical adhesives and sealants. Process owner for the onsite pilot reactor and liaison between pilot scale research and development batches and manufacturing bulk production batches.\n"
+      },
+      {
+        "role": "Manufacturing Engineering Intern",
+        "tenure": {
+          "end": {
+            "year": 2016,
+            "month": 3
+          },
+          "start": {
+            "year": 2015,
+            "month": 8
+          }
+        },
+        "location": "Greater Pittsburgh Area",
+        "workplace": {
+          "title": "Cohera Medical, Inc."
+        },
+        "description": "\n-Coordinated the logistics for adhesive/sealant fills and device builds \n-Implemented engineering control orders at vendors \n\n-Maintained updated cost of goods (COGs) for all products \n-Tracked component inventory and created a quarterly ordering plan based on inventory quantities and consumption forecast \n"
+      },
+      {
+        "role": "R&D/Manufacturing Co-op",
+        "tenure": {
+          "end": {
+            "year": 2015,
+            "month": 6
+          },
+          "start": {
+            "year": 2014,
+            "month": 4
+          }
+        },
+        "location": "Greater Pittsburgh Area",
+        "workplace": {
+          "title": "Cohera Medical, Inc."
+        },
+        "description": "\n-Designed, performed, and analyzed  mechanical and chemical property testing for absorbable adhesives and sealants \n\n-Authored engineer change orders for test method updates, test fixture part releases, and work instruction improvements \n\n-Communicated with Cohera’s manufacturing sites for outsourced manufacturing activities \n"
+      },
+      {
+        "role": "Research Assistant",
+        "tenure": {
+          "end": {
+            "year": 2014,
+            "month": 3
+          },
+          "start": {
+            "year": 2014,
+            "month": 0
+          }
+        },
+        "location": "Pittsburgh, PA",
+        "workplace": {
+          "title": "McGowan Institute for Regenerative Medicine Medical Devices Laboratory"
+        },
+        "description": "\n-Evaluated the permeability of fiber bundles undergoing parallel or perpendicular flow in order to ensure an accurate computational fluid dynamic model for the Paracorporeal Ambulatory Assist Lung project under PI Dr. William Federspiel \n"
+      },
+      {
+        "role": "Research Assistant",
+        "tenure": {
+          "end": {
+            "year": 2014,
+            "month": 3
+          },
+          "start": {
+            "year": 2012,
+            "month": 9
+          }
+        },
+        "location": "Pittsburgh, PA",
+        "workplace": {
+          "title": "Vascular Medicine Institute, University of Pittsburgh"
+        },
+        "description": "\n-Investigated the role of the enzyme mARC in nitric oxide generation and vascular function via bacteria culture, PCR, DNA ligation, and nitric oxide analyzer under the post-doc Dr. Courtney Sparacino-Watkins in PI Dr. Mark Gladwin's lab \n\n-Managed inventory and ordering of laboratory supplies and chemicals "
+      },
+      {
+        "role": "Organic Chemistry Undergraduate Teaching Assistant",
+        "tenure": {
+          "end": {
+            "year": 2013,
+            "month": 11
+          },
+          "start": {
+            "year": 2013,
+            "month": 4
+          }
+        },
+        "location": "Pittsburgh, PA",
+        "workplace": {
+          "title": "University of Pittsburgh Department of Chemistry"
+        },
+        "description": "\n-Taught weekly recitation sessions and created problem sets on Organic Chemistry I and II topics \n"
+      }
+    ],
+    "department": "Product Development & Commercialization",
+    "interests": [
+      "Ultimate Frisbee",
+      "Rugby",
+      "Reading",
+      "My Dog",
+      "Baking"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "Rb-TH2k_Dpx",
+      "fdlZjVNnvsz",
+      "Gm90yOdquey"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/2dwwTQvFKx/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=alyson.edwards@kymanox.com",
+    "anniversaryDate": "09/04/2018",
+    "whatIDoHere": "I am a Senior Development Engineer in PD&C. I provide technical leadership/support and project management for a wide range of combo product development programs. I've worked on nasal spray, PFS, AI, pump, recon kit, and IV Bag products.",
+    "totalReportCount": 2,
+    "cell": "(480)403-1307",
+    "lastName": "Edwards",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/2dwwTQvFKx/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/2dwwTQvFKx/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 2,
+    "title": "Senior Engineer, PD&C",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "languages": [
+      {
+        "language": "American Sign Language",
+        "proficiency": {
+          "level": "Novice"
+        }
+      }
+    ],
+    "displayName": "Alyson Edwards",
+    "bio": "Initiative-taking, detail oriented, and creative biomedical engineer with over eight years of professional work experience in the medical device and combination product industry. Expertise in technical project management, design controls/design history files (DHFs), manufacturing operations, and supplier management, as well as experience with cGMP production including ISO 13485, 21 CFR 820, and day to day management of contract manufacturing organizations (CMOs). Enjoys collaborating with cross functional teams to problem solve and achieve company objectives.",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 4,
+    "departmentName": "Product Development & Commercialization",
+    "officeName": "HQ",
+    "managerName": "Rachel Ward"
+  },
+  {
+    "id": "g_ZVcGDHX3b",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Carisa",
+    "officeCity": "HQ",
+    "email": "carisa.dekalb@kymanox.com",
+    "teamLeaderId": "49tNPiemtv4",
+    "skills": [
+      {
+        "name": "Verification and Validation (V&V)",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Combination Products",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Engineering",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Project Management",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Technical Writing",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Human Factors",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Design Controls",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "SolidWorks",
+        "level": 200,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "Rensselaer Polytechnic Institute",
+          "id": "3c3aa3f3-97ad-40a2-bf31-245e14be21e3"
+        },
+        "classYear": "2021-01-01T00:00:00+00:00",
+        "degreeType": "Master of Engineering - MEng",
+        "fieldsOfStudy": [
+          "Biomedical Engineering"
+        ]
+      },
+      {
+        "school": {
+          "name": "Norwich University",
+          "id": "5b686338-27bd-4acb-b6e9-f2b9479a4766"
+        },
+        "classYear": "2019-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science (B.S.)",
+        "fieldsOfStudy": [
+          "Mechanical Engineering | Minor",
+          ""
+        ]
+      },
+      {
+        "school": {
+          "name": "University College Dublin",
+          "id": "c38f6bf9-dbe2-4643-9f29-df691b58d6e0"
+        },
+        "classYear": "2017-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science (B.S.)",
+        "fieldsOfStudy": [
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "school": {
+          "name": "Del Norte High School",
+          "id": "7bebd30c-ff10-4ddf-9aa5-62fb9c8e2695"
+        },
+        "classYear": "2015-01-01T00:00:00+00:00"
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Device Engineer",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2023,
+            "month": 0
+          }
+        },
+        "location": "Cary, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Associate Device Engineer",
+        "tenure": {
+          "end": {
+            "year": 2023,
+            "month": 0
+          },
+          "start": {
+            "year": 2022,
+            "month": 1
+          }
+        },
+        "location": "Cary, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Engineer II",
+        "tenure": {
+          "end": {
+            "year": 2022,
+            "month": 1
+          },
+          "start": {
+            "year": 2021,
+            "month": 4
+          }
+        },
+        "location": "Franklin Lakes, New Jersey, United States",
+        "workplace": {
+          "title": "BD",
+          "logoUrl": "https://img.logo.dev/bd.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Pioneered drug compatibility studies for various PhaSeal products in the Hazardous Drug Safety portfolio. \nDeveloped test methods for verification and validation of closed system transfer devices. \n"
+      },
+      {
+        "role": "Research Assistant",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 4
+          },
+          "start": {
+            "year": 2020,
+            "month": 7
+          }
+        },
+        "location": "Troy, New York, United States",
+        "workplace": {
+          "title": "Rensselaer Polytechnic Institute",
+          "logoUrl": "https://img.logo.dev/rpi.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Culibrk RA, Arabiyat AS, DeKalb CA, Hahn MS. Modeling Sympathetic Hyperactivity in Alzheimer's Related Bone Loss. J Alzheimers Dis. 2021;84(2):647-658. doi: 10.3233/JAD-215007. PMID: 34569964. "
+      },
+      {
+        "role": "Graduate Teaching Assistant",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 7
+          },
+          "start": {
+            "year": 2019,
+            "month": 7
+          }
+        },
+        "location": "Troy, New York, United States",
+        "workplace": {
+          "title": "Rensselaer Polytechnic Institute",
+          "logoUrl": "https://img.logo.dev/rpi.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Mechanical Engineer, Precision Medicine",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 7
+          },
+          "start": {
+            "year": 2019,
+            "month": 4
+          }
+        },
+        "location": "Greater San Diego Area",
+        "workplace": {
+          "title": "Progenity, Inc."
+        },
+        "description": "Joined the Research & Development team in designing and revising devices destined to investigate, test, and cure diseases related to the microbiome of the GI tract. Took on an interdisciplinary role in assisting with the external device structure design, optics characterization and calibration, as well as microbial assay development and assessment. \n"
+      },
+      {
+        "role": "Senior Resident Coordinator",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 4
+          },
+          "start": {
+            "year": 2018,
+            "month": 7
+          }
+        },
+        "location": "Northfield, VT",
+        "workplace": {
+          "title": "Norwich University",
+          "logoUrl": "https://img.logo.dev/norwich.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Head of student residential life staff. Coordinated student staff and professional staff (20 persons) in events and management of all civilian residence halls (600 students+). \nConducted diversity, radical candor, and leadership trainings. "
+      },
+      {
+        "role": "Mechanical Engineering Intern",
+        "tenure": {
+          "end": {
+            "year": 2018,
+            "month": 7
+          },
+          "start": {
+            "year": 2018,
+            "month": 5
+          }
+        },
+        "location": "San Diego, CA",
+        "workplace": {
+          "title": "Clarity Design, Inc."
+        },
+        "description": "Designed support fixtures for manufacturing and production lines. Managed the installation and use of the company’s SLA printer; assisted in start up of Tormach CNC machine. Created design for wheelchair accessory and expansion mechanism for collapsible speaker. \n"
+      },
+      {
+        "role": "Undergraduate Researcher",
+        "tenure": {
+          "end": {
+            "year": 2017,
+            "month": 7
+          },
+          "start": {
+            "year": 2017,
+            "month": 5
+          }
+        },
+        "location": "Northfield, VT",
+        "workplace": {
+          "title": "Norwich University",
+          "logoUrl": "https://img.logo.dev/norwich.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "Conducted undergraduate research including reviews of papers on related research and development in the field of oximetric and blood chemistry monitoring systems. Furthered ideation and developmental design for a device that detects carbon monoxide concentrations in first responders. Presented findings at the Students to Scholars Symposium at Norwich University. "
+      },
+      {
+        "role": "Mechanical Engineering Intern",
+        "tenure": {
+          "end": {
+            "year": 2016,
+            "month": 7
+          },
+          "start": {
+            "year": 2016,
+            "month": 5
+          }
+        },
+        "workplace": {
+          "title": "Daylight Solutions",
+          "logoUrl": "https://img.logo.dev/daylightsolutions.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Intern",
+        "tenure": {
+          "end": {
+            "year": 2016,
+            "month": 5
+          },
+          "start": {
+            "year": 2016,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "Global Environmental Permitting (GEPermit)"
+        }
+      },
+      {
+        "role": "Consultant",
+        "tenure": {
+          "end": {
+            "year": 2015,
+            "month": 7
+          },
+          "start": {
+            "year": 2015,
+            "month": 6
+          }
+        },
+        "workplace": {
+          "title": "BD",
+          "logoUrl": "https://img.logo.dev/bd.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Technician",
+        "tenure": {
+          "end": {
+            "year": 2015,
+            "month": 0
+          },
+          "start": {
+            "year": 2014,
+            "month": 5
+          }
+        },
+        "location": "San Diego, CA",
+        "workplace": {
+          "title": "CRISI Medical Systems, Inc"
+        }
+      }
+    ],
+    "department": "Product Development & Commercialization",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "Rb-TH2k_Dpx",
+      "fdlZjVNnvsz",
+      "UqUfGg-hvqJ",
+      "49tNPiemtv4"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/g_ZVcGDHX3b/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=carisa.dekalb@kymanox.com",
+    "anniversaryDate": "02/14/2022",
+    "whatIDoHere": "Anything related to Design Controls documentation, with an emphasis on DV/DVT",
+    "totalReportCount": 0,
+    "cell": "(858)775-0806",
+    "lastName": "DeKalb",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/g_ZVcGDHX3b/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/g_ZVcGDHX3b/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Engineer, PD&C",
+    "isTeamLeader": false,
+    "officeState": "NC",
+    "displayName": "Carisa DeKalb",
+    "bio": "My why? Because patients matter - because PEOPLE matter - and because I know we can always do better. \nAs an individual in the engineering and life sciences consulting sector, I seek to always grow in exposure to and development of new processes, novel solutions, and innovative approaches to solving the challenges of the biomechanical field we face today. With a foundation built from a B.S. in Mechanical Engineering with a Biology minor, and supported by a Master's in Biomedical Engineering, I strive to continue my development as a T-shaped teammate on every project I am able to be a part of.",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 5,
+    "departmentName": "Product Development & Commercialization",
+    "officeName": "HQ",
+    "managerName": "Matt Seehausen"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "id": "qBQChktLXIo5",
+  "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+  "companyName": "Kymanox",
+  "firstName": "Andrew",
+  "officeCity": "HQ",
+  "email": "andrew.messick@kymanox.com",
+  "teamLeaderId": "vZrrWvO8Ij",
+  "education": [
+    {
+      "school": {
+        "name": "University of North Carolina at Chapel Hill",
+        "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+      },
+      "classYear": "1997-01-01T00:00:00+00:00",
+      "degreeType": "Bachelor of Business Administration",
+      "concentrations": []
+    },
+    {
+      "school": {
+        "name": "University of North Carolina at Chapel Hill",
+        "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+      },
+      "classYear": "1998-01-01T00:00:00+00:00",
+      "degreeType": "Master of Accounting"
+    }
+  ],
+  "hasNamePronunciation": false,
+  "department": "Finance",
+  "reportingPath": [
+    "vZrrWvO8Ij"
+  ],
+  "officialPictureUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+  "messageAddress": "msteams:/l/chat/0/0?users=andrew.messick@kymanox.com",
+  "anniversaryDate": "04/21/2025",
+  "whatIDoHere": "Chief Financial Officer",
+  "totalReportCount": 19,
+  "cell": "9192449903",
+  "lastName": "Messick",
+  "backgroundUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+  "pictureUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+  "directReportCount": 3,
+  "title": "Chief Financial Officer",
+  "isTeamLeader": true,
+  "officeState": "NC",
+  "displayName": "Andrew Messick",
+  "cf_text-3p8xb4wPz": "FTE",
+  "customPictureUrl": null,
+  "level": 1,
+  "departmentName": "Finance",
+  "officeName": "HQ",
+  "managerName": "Stephen M. Perry"
+}

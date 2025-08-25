@@ -1,0 +1,1948 @@
+{
+  "data": [
+    {
+      "id": "k4bQP_eclAYT",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Contractor",
+      "firstName": "Pruthvi",
+      "officeCity": "Remote",
+      "email": "pruthvi.nannapaneni@kymanox.com",
+      "teamLeaderId": "GF1tJW-QvbZ",
+      "hasNamePronunciation": false,
+      "department": "Information Technology",
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "qBQChktLXIo5",
+        "JuMjstPnz",
+        "GF1tJW-QvbZ"
+      ],
+      "messageAddress": "msteams:/l/chat/0/0?users=pruthvi.nannapaneni@kymanox.com",
+      "totalReportCount": 0,
+      "lastName": "Nannapaneni",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/k4bQP_eclAYT/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/k4bQP_eclAYT/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 0,
+      "title": "Salesforce Developer",
+      "isTeamLeader": false,
+      "officeState": "Remote",
+      "displayName": "Pruthvi Nannapaneni",
+      "cf_text-3p8xb4wPz": "Contractor",
+      "customPictureUrl": null,
+      "officialPictureUrl": null
+    },
+    {
+      "id": "u9ZDZH5cQfxs",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Contractor",
+      "firstName": "Bandhan",
+      "officeCity": "Remote",
+      "email": "bandhan.baral@kymanox.com",
+      "teamLeaderId": "GF1tJW-QvbZ",
+      "hasNamePronunciation": false,
+      "department": "Information Technology",
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "qBQChktLXIo5",
+        "JuMjstPnz",
+        "GF1tJW-QvbZ"
+      ],
+      "messageAddress": "msteams:/l/chat/0/0?users=Bandhan.Baral@kymanox.com",
+      "totalReportCount": 0,
+      "lastName": "Baral",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/u9ZDZH5cQfxs/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/u9ZDZH5cQfxs/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 0,
+      "title": "Salesforce Developer",
+      "isTeamLeader": false,
+      "officeState": "Remote",
+      "displayName": "Bandhan Baral",
+      "cf_text-3p8xb4wPz": "Contractor",
+      "customPictureUrl": null,
+      "officialPictureUrl": null
+    },
+    {
+      "id": "zp-fHo67jMi",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Nathan",
+      "officeCity": "HQ",
+      "email": "nathan.blazei@kymanox.com",
+      "teamLeaderId": "WQtz373uy",
+      "education": [
+        {
+          "school": {
+            "name": "University of Notre Dame",
+            "id": "c2858a24-86d2-4a89-8581-20277329008c"
+          },
+          "classYear": "2001-01-01T00:00:00+00:00",
+          "degreeType": "B. S.",
+          "fieldsOfStudy": [
+            "Chemical Engineering"
+          ]
+        },
+        {
+          "school": {
+            "name": "UC San Diego",
+            "id": "6dd0eb92-a3d6-4cfe-9159-491d8af4856d"
+          },
+          "classYear": "2002-01-01T00:00:00+00:00",
+          "degreeType": "M. Eng.",
+          "fieldsOfStudy": [
+            "Bioengineering"
+          ]
+        }
+      ],
+      "hasNamePronunciation": false,
+      "experience": [
+        {
+          "role": "Senior Director, Strategic Solutions",
+          "tenure": {
+            "end": null,
+            "start": {
+              "year": 2024,
+              "month": 6
+            }
+          },
+          "location": "Raleigh-Durham-Chapel Hill Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Supporting clients with strategic solutions to help them bring products to patients in need. My goal is to ensure that Kymanox's services and client needs are aligned during the sales process, which allows for a smooth transition to service delivery and value creation for the client. "
+        },
+        {
+          "role": "Senior Director, Regulatory Affairs",
+          "tenure": {
+            "end": {
+              "year": 2024,
+              "month": 6
+            },
+            "start": {
+              "year": 2023,
+              "month": 9
+            }
+          },
+          "location": "Raleigh-Durham-Chapel Hill Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led a team of Regulatory Affairs professionals on exciting client projects covering pre-market and post-market activities for biopharmaceuticals, medical devices, and combination products. \n"
+        },
+        {
+          "role": "Head of Quality & Regulatory Affairs",
+          "tenure": {
+            "end": {
+              "year": 2023,
+              "month": 9
+            },
+            "start": {
+              "year": 2022,
+              "month": 5
+            }
+          },
+          "location": "Raleigh-Durham-Chapel Hill Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led a team of Quality & Regulatory Affairs professionals on exciting client projects covering pre-market and post-market activities for biopharmaceuticals, medical devices, and combination products. \n"
+        },
+        {
+          "role": "Head of Quality",
+          "tenure": {
+            "end": {
+              "year": 2022,
+              "month": 5
+            },
+            "start": {
+              "year": 2021,
+              "month": 2
+            }
+          },
+          "location": "Raleigh-Durham-Chapel Hill Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led a team of Quality professionals on exciting client projects covering pre- market and post-market activities for biopharmaceuticals, medical devices, and combination products. \n"
+        },
+        {
+          "role": "Director, Manufacturing Operations",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 2
+            },
+            "start": {
+              "year": 2019,
+              "month": 5
+            }
+          },
+          "location": "Raleigh-Durham, North Carolina Area",
+          "workplace": {
+            "title": "Liquidia Technologies"
+          },
+          "description": "Manufacturing and commercialization, including process validation and inspection readiness, for a novel inhaled therapeutic (Yutrepia) using the PRINT manufacturing platform. \n"
+        },
+        {
+          "role": "Director, Quality + Compliance",
+          "tenure": {
+            "end": {
+              "year": 2019,
+              "month": 5
+            },
+            "start": {
+              "year": 2018,
+              "month": 1
+            }
+          },
+          "location": "Raleigh-Durham, North Carolina Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led a team of managers and subject matter experts engaged in delivering solutions to clients in the Quality Assurance, Quality Management Systems, Quality Engineering, Compliance, and Regulatory Affairs service areas of the life sciences. \n"
+        },
+        {
+          "role": "Senior Manager, Quality + Compliance",
+          "tenure": {
+            "end": {
+              "year": 2018,
+              "month": 1
+            },
+            "start": {
+              "year": 2016,
+              "month": 3
+            }
+          },
+          "location": "Raleigh-Durham, North Carolina Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led a team of subject matter experts engaged in delivering solutions to clients in the Quality Assurance, Quality Management Systems, Quality Engineering, Compliance, and Regulatory Affairs service areas of the life sciences. "
+        },
+        {
+          "role": "Senior Manager, Process Operations",
+          "tenure": {
+            "end": {
+              "year": 2016,
+              "month": 3
+            },
+            "start": {
+              "year": 2015,
+              "month": 3
+            }
+          },
+          "location": "Raleigh-Durham, North Carolina Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led a team of subject matter experts engaged in delivering solutions in the process design, engineering, validation, manufacturing, and regulatory compliance service areas of the life sciences. \n"
+        },
+        {
+          "role": "Senior Technical Project Manager",
+          "tenure": {
+            "end": {
+              "year": 2015,
+              "month": 3
+            },
+            "start": {
+              "year": 2013,
+              "month": 8
+            }
+          },
+          "location": "Raleigh-Durham, North Carolina Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Provided engineering, process design, validation, regulatory compliance, and technical project management services to clients in the life sciences. "
+        },
+        {
+          "role": "Development Engineer",
+          "tenure": {
+            "end": {
+              "year": 2013,
+              "month": 8
+            },
+            "start": {
+              "year": 2012,
+              "month": 3
+            }
+          },
+          "location": "Holly Springs, NC",
+          "workplace": {
+            "title": "Novartis Vaccines"
+          },
+          "description": "Late-stage technology transfer, start-up, and validation of the first cell culture- based influenza vaccine manufacturing facility in the United States. "
+        },
+        {
+          "role": "Senior Process Development Engineer",
+          "tenure": {
+            "end": {
+              "year": 2012,
+              "month": 3
+            },
+            "start": {
+              "year": 2006,
+              "month": 6
+            }
+          },
+          "location": "Clayton, NC",
+          "workplace": {
+            "title": "Grifols (formerly Talecris Biotherapeutics)"
+          },
+          "description": "Commercial manufacturing support for blood plasma protein biotherapeutics under new company ownership (Grifols purchased Talecris Biotherapeutics in 2011). \n\nProduct and process development, project management, risk management and commercial manufacturing support for blood plasma protein biotherapeutics. \n\nAdvanced a development program to clinical trials for a novel inhaled biotherapeutic candidate. \n\nEstablished more robust quality risk management systems on site to improve process reliability. \n"
+        },
+        {
+          "role": "Process Development Engineer",
+          "tenure": {
+            "end": {
+              "year": 2006,
+              "month": 6
+            },
+            "start": {
+              "year": 2005,
+              "month": 4
+            }
+          },
+          "location": "Plymouth, MN",
+          "workplace": {
+            "title": "ev3"
+          },
+          "description": "Product and process development, validation, and commercial manufacturing support for endovascular medical devices. \n\nDeveloped an artificial blood clot model for use in device performance testing. "
+        },
+        {
+          "role": "Process Development Engineer",
+          "tenure": {
+            "end": {
+              "year": 2005,
+              "month": 4
+            },
+            "start": {
+              "year": 2003,
+              "month": 5
+            }
+          },
+          "location": "Maple Grove, MN",
+          "workplace": {
+            "title": "Boston Scientific",
+            "logoUrl": "https://img.logo.dev/bostonscientific.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Process development, process validation, continuous improvement, and commercial manufacturing support for a multibillion dollar drug eluting stent combination product. \n"
+        },
+        {
+          "role": "R&D Intern",
+          "tenure": {
+            "end": {
+              "year": 2002,
+              "month": 5
+            },
+            "start": {
+              "year": 2002,
+              "month": 0
+            }
+          },
+          "location": "San Diego, CA",
+          "workplace": {
+            "title": "Metracor Technologies"
+          },
+          "description": "Development of medical devices for blood chemistry monitoring. "
+        },
+        {
+          "role": "R&D Intern",
+          "tenure": {
+            "end": {
+              "year": 2000,
+              "month": 7
+            },
+            "start": {
+              "year": 2000,
+              "month": 4
+            }
+          },
+          "location": "St. Paul, MN",
+          "workplace": {
+            "title": "3M"
+          },
+          "description": "Development of specialty chemicals for metalworking and fire protection. "
+        }
+      ],
+      "department": "Sales and Marketing",
+      "interests": [
+        "Music",
+        "Sports",
+        "Dad Jokes",
+        "Bengal Cats",
+        "Community Service"
+      ],
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "WQtz373uy"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/zp-fHo67jMi/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=nathan.blazei@kymanox.com",
+      "anniversaryDate": "09/09/2013",
+      "whatIDoHere": "Responsible for identifying client needs, designing solutions to meet those needs, and presenting these solutions in a compelling way that emphasizes value creation and partnership with a wide array of clients.",
+      "totalReportCount": 0,
+      "cell": "(919)720-1451",
+      "lastName": "Blazei",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/zp-fHo67jMi/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/zp-fHo67jMi/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 0,
+      "title": "Senior Director, Strategic Solutions",
+      "isTeamLeader": false,
+      "officeState": "NC",
+      "languages": [
+        {
+          "language": "English",
+          "proficiency": {
+            "level": "Native",
+            "skills": [
+              "Understanding",
+              "Speaking"
+            ]
+          }
+        }
+      ],
+      "displayName": "Nathan Blazei",
+      "bio": "I am a versatile life sciences professional with nearly 25 years of experience across biopharmaceuticals, medical devices, and combination products in individual contributor and leadership roles. My career foundation began in engineering, product and process development, manufacturing, continuous improvement, and program management roles. Over time, I made a transition to focus on quality and regulatory compliance to complement my technical experience. At the intersection of these disciplines is where I have found success over the years, as I can provide solutions that are not only technically sound, but also compliant with evolving regulatory requirements and at the leading edge of industry best practices.",
+      "cf_date-zosw2wQyI": "1979-10-04T00:00:00-04:00",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    },
+    {
+      "id": "fsKo5cPPBzq",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Rachel",
+      "officeCity": "Remote",
+      "email": "rachel.brunjes@kymanox.com",
+      "teamLeaderId": "BD7DI2KQqT",
+      "skills": [
+        {
+          "name": "Proposal Writing",
+          "level": 200,
+          "isFeatured": false
+        },
+        {
+          "name": "Sales Presentations",
+          "level": 200,
+          "isFeatured": false
+        },
+        {
+          "name": "Account Management",
+          "level": 200,
+          "isFeatured": false
+        }
+      ],
+      "education": [
+        {
+          "school": {
+            "name": "North Carolina State University",
+            "id": "47092c6f-01b8-4f63-9e34-b4f2ab9e9f02"
+          },
+          "classYear": "2022-01-01T00:00:00+00:00",
+          "degreeType": "Master's degree",
+          "fieldsOfStudy": [
+            "Microbial Biotechnology"
+          ]
+        },
+        {
+          "school": {
+            "name": "Virginia Tech",
+            "id": "0cbb756b-eff8-42c8-8f5d-7f2a07f77b8a"
+          },
+          "classYear": "2019-01-01T00:00:00+00:00",
+          "degreeType": "Bachelor of Science - BS",
+          "fieldsOfStudy": [
+            "Animal and Poultry Sciences"
+          ]
+        }
+      ],
+      "hasNamePronunciation": false,
+      "experience": [
+        {
+          "role": "Business Solutions Specialist",
+          "tenure": {
+            "end": null,
+            "start": {
+              "year": 2024,
+              "month": 5
+            }
+          },
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          }
+        },
+        {
+          "role": "Business Development Associate- Patient Recruitment ",
+          "tenure": {
+            "end": {
+              "year": 2024,
+              "month": 5
+            },
+            "start": {
+              "year": 2024,
+              "month": 0
+            }
+          },
+          "workplace": {
+            "title": "CSSI",
+            "logoUrl": "https://img.logo.dev/cssiinc.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "(6 months) \nCSSi delivers strategic patient recruitment, enrollment and retention to sponsors, CROs and sites. \n\n\nResponsibilities and Highlights: \n\n• Conducted market research and analysis to identify potential business opportunities and trends. \n\n• Prospected and engaged with potential clients to understand their needs and present relevant solutions. \n\n• Developed and maintained strong relationships with existing clients, ensuring high levels of customer satisfaction and retention. \n\n• Collaborated with cross-functional teams, including marketing and product development, to align business strategies and achieve revenue goals. \n• Prepared and delivered persuasive sales presentations to key stakeholders, addressing their unique challenges and proposing tailored solutions. "
+        },
+        {
+          "role": "Business Development & Content Specialist",
+          "tenure": {
+            "end": {
+              "year": 2023,
+              "month": 10
+            },
+            "start": {
+              "year": 2023,
+              "month": 2
+            }
+          },
+          "workplace": {
+            "title": "AMP Biotech Research / BiopharmIQ"
+          }
+        },
+        {
+          "role": "Business Development Representative",
+          "tenure": {
+            "end": {
+              "year": 2023,
+              "month": 0
+            },
+            "start": {
+              "year": 2022,
+              "month": 3
+            }
+          },
+          "location": "Raleigh-Durham-Chapel Hill Area",
+          "workplace": {
+            "title": "METALYTICS",
+            "logoUrl": "https://img.logo.dev/metalytics.tech?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Metalytics is a startup that sells metabolic flux analysis used in biomanufacturing. I joined as the company's sole business development representative and owned the business development function. \nResponsibilities and Highlights: \n\n• Performed an initial review of Hubspot contacts, reorganized them by lead status, and wrote email campaign copy based on lead status. \n• Researched leads on LinkedIn, leveraged various websites (e.g. HunterIO, Apollo) to acquire email addresses, and performed outreach to prospects. Set up meetings and closed deals with major biomanufacturing companies. \n• Updated and organized contact information and deal pipelines in HubSpot. \n• Redesigned the website and designed content for LinkedIn posts. "
+        },
+        {
+          "role": "Field Sales Intern",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 7
+            },
+            "start": {
+              "year": 2021,
+              "month": 4
+            }
+          },
+          "location": "Raleigh-Durham-Chapel Hill Area",
+          "workplace": {
+            "title": "Hill's Pet Nutrition"
+          },
+          "description": "Hill’s Pet Nutrition is a 100+ year-old pet food subsidiary of Colgate-Palmolive. My internship focused on managing 70 veterinary clinic named accounts. \n\nResponsibilities and Highlights: \n\n• Conducted on-site visits to pitch a new diet plan, educational seminars, and a VIP tier. \n\n• Analyzed district sales to identify geographies and product categories that were underperforming. \n\n• Closed sales of the new diet for 15 clinics, scheduled 5 lunch and learn events, and enrolled 10 client staff members into the VIP program. \n• Delivered a final presentation to all regional district managers and the head of sales. \n"
+        },
+        {
+          "role": "Intern",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 4
+            },
+            "start": {
+              "year": 2021,
+              "month": 1
+            }
+          },
+          "location": "Raleigh-Durham-Chapel Hill Area",
+          "workplace": {
+            "title": "North Carolina Biotechnology Center (NCBiotech)"
+          },
+          "description": "NCBC is a life science economic development organization that helps bring ideas to market. In this role, I partnered with a small team focused on analyzing the need for a research greenhouse in RTP. \n\n\nResponsibilities and Highlights: \n\n• Conducted outreach to ~30 regional biotech companies to assess interest in a research greenhouse. \n\n• Investigated costs of three potential greenhouse solutions in discussions with 10+ developers and compiled lists of potential operators to oversee day-to-day greenhouse operations. \n\n• Presented findings to potential designers and operators to begin development of this research greenhouse. \n"
+        }
+      ],
+      "department": "Business Solutions",
+      "interests": [
+        "Hiking",
+        "Baking",
+        "Running"
+      ],
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "Rb-TH2k_Dpx",
+        "BD7DI2KQqT"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/fsKo5cPPBzq/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=rachel.brunjes@kymanox.com",
+      "anniversaryDate": "06/10/2024",
+      "totalReportCount": 0,
+      "cell": "(703)973-1325",
+      "lastName": "Brunjes",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/fsKo5cPPBzq/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/fsKo5cPPBzq/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 0,
+      "title": "Business Solutions Specialist",
+      "isTeamLeader": false,
+      "officeState": "Remote",
+      "displayName": "Rachel Brunjes",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    },
+    {
+      "id": "4C10ShHv_Cw",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Krystian",
+      "officeCity": "Remote",
+      "email": "krystian.gorski@kymanox.com",
+      "teamLeaderId": "M0yo18foM0F",
+      "education": [
+        {
+          "school": {
+            "name": "University of Notre Dame",
+            "id": "c2858a24-86d2-4a89-8581-20277329008c"
+          },
+          "classYear": "2019-01-01T00:00:00+00:00",
+          "degreeType": "Bachelor's degree",
+          "fieldsOfStudy": [
+            "Major in Chemical and Biomolecular Engineering",
+            "minor in"
+          ]
+        }
+      ],
+      "hasNamePronunciation": false,
+      "experience": [
+        {
+          "role": "Process Engineer",
+          "tenure": {
+            "end": null,
+            "start": {
+              "year": 2021,
+              "month": 9
+            }
+          },
+          "location": "Raleigh-Durham, North Carolina Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "\n• MS&T and Supply Chain \no Leveraged JMP statistical software to design and analyze designed experiments (DoEs) for a DNA triple transfection in an upstream cell and gene therapy process. \no Served as technical lead for tech transfer of 2 oral solid doses according to ISPE GPG for Technology Transfer and FDA Guidance for Industry for Process Validation (2011). \no Drafted Detailed Product and Process Descriptions (DPPDs), drafted risk assessments for Engineering Batches and Process Validation Batches, drafted and established Control Strategy, reviewed executed Batch Records and Annual Product Quality Reports (APQRs), supported Process Performance Qualification (PPQ) activities, lead Continued Process Verification activities, created control charts and calculated capability indices.\n\n"
+        },
+        {
+          "role": "Associate Process Engineer",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 9
+            },
+            "start": {
+              "year": 2019,
+              "month": 6
+            }
+          },
+          "location": "Raleigh-Durham, North Carolina Area",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": null
+        },
+        {
+          "role": "Senior Risk Assessment Analyst",
+          "tenure": {
+            "end": {
+              "year": 2019,
+              "month": 6
+            },
+            "start": {
+              "year": 2018,
+              "month": 7
+            }
+          },
+          "location": "South Bend, Indiana Area",
+          "workplace": {
+            "title": "The IDEA Center at the University of Notre Dame"
+          },
+          "description": "\nIn addition to responsibilities of the Technical Business Analyst, I: \n• Lead twice-weekly peer review meetings of 10 analysts to promote better understanding of technology \n\n• Serve as the first point of contact for analyst questions and develop training modules for different facets of report \n"
+        },
+        {
+          "role": "Technical Business Analyst",
+          "tenure": {
+            "end": {
+              "year": 2018,
+              "month": 7
+            },
+            "start": {
+              "year": 2018,
+              "month": 4
+            }
+          },
+          "location": "South Bend, Indiana Area",
+          "workplace": {
+            "title": "The IDEA Center at the University of Notre Dame"
+          },
+          "description": "\n• Analyze specifications of multiple technologies from ND faculty in fields of engineering and science \n\n• Perform market research including market size, competition, trends and barriers to entry, and regulatory requirements \n\n• Define, vet, and test value proposition by conducting interviews with industry experts \n\n• Through written report and oral presentation, provide recommendations for next step in commercialization process \n"
+        },
+        {
+          "role": "Sales Associate",
+          "tenure": {
+            "end": {
+              "year": 2014,
+              "month": 3
+            },
+            "start": {
+              "year": 2013,
+              "month": 6
+            }
+          },
+          "location": "Greater Chicago Area",
+          "workplace": {
+            "title": "Old Navy"
+          },
+          "description": "\n• Engaged customers in a friendly and respectful manner to ensure excellent quality of service. \n\n• Worked quickly and independently in a fast paced environment as well as followed directions from supervisors. \n\n• Developed proficiency in operating cash register and carrying out transactions quickly and efficiently. \n\n• Displayed responsibility and trustworthiness in handling cash and credit payments. \n\n• Gained an understanding and appreciation for retail business. "
+        }
+      ],
+      "department": "Technical Services",
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "WQtz373uy",
+        "nZdyRfkfLF",
+        "M0yo18foM0F"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/4C10ShHv_Cw/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=krystian.gorski@kymanox.com",
+      "anniversaryDate": "07/14/2025",
+      "totalReportCount": 0,
+      "cell": "(773)733-9083",
+      "lastName": "Gorski",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/4C10ShHv_Cw/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/4C10ShHv_Cw/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 0,
+      "title": "Senior CMC Scientist",
+      "isTeamLeader": false,
+      "officeState": "Remote",
+      "languages": [
+        {
+          "language": "Polish",
+          "proficiency": {
+            "level": "Native",
+            "skills": [
+              "Understanding",
+              "Speaking"
+            ]
+          }
+        },
+        {
+          "language": "Spanish",
+          "proficiency": {
+            "level": "Professional",
+            "skills": [
+              "Understanding",
+              "Speaking",
+              "Reading",
+              "Writing"
+            ]
+          }
+        }
+      ],
+      "displayName": "Krystian Gorski",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    },
+    {
+      "id": "edPSPkuYxmo",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "customPictureUrl": "https://api.justsift.com/v1/media/people/edPSPkuYxmo/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=custom",
+      "companyName": "Kymanox",
+      "firstName": "Chris",
+      "officeCity": "HQ",
+      "email": "chris.adkins@kymanox.com",
+      "teamLeaderId": "vUVjSV9ESVP",
+      "education": [
+        {
+          "school": {
+            "name": "North Carolina State University",
+            "id": "18abe81a-3a47-43fe-973a-a270e237245e"
+          },
+          "degreeType": "Bachelor of Science (BS)",
+          "fieldsOfStudy": [
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "hasNamePronunciation": false,
+      "experience": [
+        {
+          "role": "Associate Director, Business Development",
+          "tenure": {
+            "end": null,
+            "start": {
+              "year": 2025,
+              "month": 0
+            }
+          },
+          "location": "RTP, NC",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          }
+        },
+        {
+          "role": "Business Development Manager",
+          "tenure": {
+            "end": {
+              "year": 2025,
+              "month": 0
+            },
+            "start": {
+              "year": 2022,
+              "month": 6
+            }
+          },
+          "location": "RTP, NC",
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          }
+        },
+        {
+          "role": "Commercial Development Manager",
+          "tenure": {
+            "end": {
+              "year": 2022,
+              "month": 6
+            },
+            "start": {
+              "year": 2018,
+              "month": 7
+            }
+          },
+          "location": "Southeastern & Midwestern US",
+          "workplace": {
+            "title": "Datwyler Healthcare"
+          },
+          "description": "The Datwyler Sealing Solutions Division is a leading supplier of sealing solutions to global markets. Our solutions contribute to the safety in four industries: Healthcare, Automotive, Civil Engineering, and Consumer Goods. We strongly build on our core competencies in Engineering, Material, and Simulation Expertise and Processing Quality as well as on our worldwide presence with production locations in North America, Europe, and Asia. \n\nhttp://sealing.datwyler.com/industry-solutions/health-care.html "
+        },
+        {
+          "role": "New Technology Specialist",
+          "tenure": {
+            "end": {
+              "year": 2018,
+              "month": 7
+            },
+            "start": {
+              "year": 2018,
+              "month": 3
+            }
+          },
+          "workplace": {
+            "title": "SaniSure, Inc."
+          },
+          "description": "(5 months) \nReview new product opportunities for market development and new product category opportunities. \n\nDevelop and author white papers detailing unique product applications. "
+        },
+        {
+          "role": "Technical Sales Representative",
+          "tenure": {
+            "end": {
+              "year": 2018,
+              "month": 7
+            },
+            "start": {
+              "year": 2016,
+              "month": 0
+            }
+          },
+          "location": "Southeastern United States",
+          "workplace": {
+            "title": "SaniSure, Inc."
+          },
+          "description": "SaniSure is an OEM offering customizable single-use systems that can be designed to fit a customer's needs with a focus on innovation and quality. We strive to deliver solutions that are useful and appropriate to each customer's needs to solve current or new processing challenges. \n\nwww.sanisure.com \n\nSani-Tech West offers a variety of products to the Biopharmaceutical industry including hoses, tubing, valves, gaskets, etc. We also have the ability to do plastic and stainless steel fabrication to meet customer's needs. \n\nwww.sani-techwest.com \n\nTerritory includes North Carolina, South Carolina, Georgia, Florida, West Virginia, Alabama, Tennessee, and Texas. \n"
+        },
+        {
+          "role": "Engineer 2",
+          "tenure": {
+            "end": {
+              "year": 2016,
+              "month": 0
+            },
+            "start": {
+              "year": 2015,
+              "month": 1
+            }
+          },
+          "location": "Holly Springs, NC",
+          "workplace": {
+            "title": "Seqirus"
+          },
+          "description": "Engineer within the Technical Development Viral Pilot Plant. Responsible for manufacturing scheduling, executing upstream, downstream, and support operations, mentoring and writing deviations, change controls, CAPAs, and technical reports. \n"
+        },
+        {
+          "role": "Certified Hunger Event Facilitator",
+          "tenure": {
+            "end": {
+              "year": 2015,
+              "month": 11
+            },
+            "start": {
+              "year": 2011,
+              "month": 3
+            }
+          },
+          "workplace": {
+            "title": "Stop Hunger Now",
+            "logoUrl": "https://img.logo.dev/stophungernow.org?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          }
+        },
+        {
+          "role": "Engineer 1",
+          "tenure": {
+            "end": {
+              "year": 2015,
+              "month": 1
+            },
+            "start": {
+              "year": 2012,
+              "month": 9
+            }
+          },
+          "location": "Holly Springs, NC",
+          "workplace": {
+            "title": "Novartis Vaccines and Diagnostics"
+          },
+          "description": "Change Control subject matter expert (SME)\n\nDeviation Report Investigator - certified to investigate all levels of investigations (minor, major, and critical), utilizing various investigation techniques, including Fishbone Diagrams, Fault Tree Analyses, 5 Why's, etc. Investigations completed within Sentry quality system. Also certified to mentor non-certified investigators on all levels of investigations. \n\nMaterial Enrollment SME\n\nSAP Business Process Expert/SME\n\nQualified and experienced with Upstream equipment as well as Support equipment\n\nParticipant in site-wide logbook/good documentation practices compliance project \n\nWorked as a project manager for both daily operations and long term projects"
+        }
+      ],
+      "department": "Business Development (US)",
+      "interests": [
+        "Board Games",
+        "Gaming (tabletop games and role-playing games)",
+        "Video Games",
+        "Pokemon",
+        "Collectible Card Games",
+        "Basketball",
+        "Running",
+        "Rucking",
+        "Weightlifting",
+        "Reading (some fiction, mostly spiritual formation)",
+        "Cooking",
+        "Baking",
+        "Gaming"
+      ],
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "rwfy4sml2cQ",
+        "vUVjSV9ESVP"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/edPSPkuYxmo/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=chris.adkins@kymanox.com",
+      "anniversaryDate": "07/11/2022",
+      "whatIDoHere": "Business development - bringing in new clients or new areas within existing clients.\n\nI also have expertise in primary packaging  (butyl elastomer for parenterals), single use technology, and know the fill/finish CDMO landscape quite well.",
+      "totalReportCount": 0,
+      "cell": "(919)931-1391",
+      "lastName": "Adkins",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/edPSPkuYxmo/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/edPSPkuYxmo/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 0,
+      "title": "Associate Director, Business Development",
+      "isTeamLeader": false,
+      "officeState": "NC",
+      "displayName": "Chris Adkins",
+      "bio": "Experienced technical sales professional in the biopharmaceutical industry with previous hands on drug manufacturing experience. Experienced and competent in raw material design, sourcing, and material of construction considerations. Also experienced in quality system operations including deviations, change controls, and third party complaints. Knowledgeable about traditional upstream, downstream, support, and filling operations.",
+      "cf_text-3p8xb4wPz": "FTE"
+    },
+    {
+      "id": "Ju9xPA3nyZ5",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Catherine",
+      "officeCity": "HQ",
+      "email": "catherine.sweeney@kymanox.com",
+      "teamLeaderId": "BD7DI2KQqT",
+      "skills": [
+        {
+          "name": "Salesforce",
+          "level": 200,
+          "isFeatured": true
+        },
+        {
+          "name": "Account Management",
+          "level": 300,
+          "isFeatured": true
+        },
+        {
+          "name": "Graphic Design",
+          "level": 200,
+          "isFeatured": true
+        },
+        {
+          "name": "Combination Products",
+          "level": 200,
+          "isFeatured": false
+        },
+        {
+          "name": "Project Management",
+          "level": 200,
+          "isFeatured": false
+        },
+        {
+          "name": "Human Factors",
+          "level": 100,
+          "isFeatured": false
+        },
+        {
+          "name": "Business Development",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Communication",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Leadership",
+          "level": 200,
+          "isFeatured": true
+        }
+      ],
+      "education": [
+        {
+          "school": {
+            "name": "North Carolina State University at Raleigh",
+            "id": "0c5c05dc-fd4b-4ad5-b76f-e71aa61e6ce9"
+          },
+          "classYear": "2021-01-01T00:00:00+00:00",
+          "degreeType": "Master "
+        },
+        {
+          "school": {
+            "name": "North Carolina State University at Raleigh",
+            "id": "0c5c05dc-fd4b-4ad5-b76f-e71aa61e6ce9"
+          },
+          "classYear": "2017-01-01T00:00:00+00:00",
+          "degreeType": "Bachelor of Science",
+          "fieldsOfStudy": [
+            "Zoology/Animal Biology"
+          ]
+        }
+      ],
+      "hasNamePronunciation": false,
+      "experience": [
+        {
+          "role": "Laboratory Manager/Research Technician",
+          "tenure": {
+            "end": {
+              "year": 2019,
+              "month": 6
+            },
+            "start": {
+              "year": 2017,
+              "month": 6
+            }
+          },
+          "location": "Durham",
+          "workplace": {
+            "title": "Duke University",
+            "logoUrl": "https://img.logo.dev/duke.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "I was the laboratory manager for an immunology laboratory at Duke University from 2017 to 2019. I managed the mouse colony which included genotyping mice, setting up breeding pairs, and maintaining a database of the current mouse population. I ordered all laboratory supplies and managed laboratory organization. \n\nI also conducted research on zika virus and microcephaly in mice. Technical skills include RT-PCR, plasmid cloning, RNA isolation, mammalian cell culture, murine footpad, IV, and subcutaneous injection, heart perfusion, cell staining and imaging, cryostat sectioning of neural tissue, virus propagation and harvest, embryonic murine neural cell isolation, ELISA, and other common assays. "
+        },
+        {
+          "role": "Business Development Associate",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 6
+            },
+            "start": {
+              "year": 2021,
+              "month": 0
+            }
+          },
+          "location": "Redcar, United Kingdom",
+          "workplace": {
+            "title": "Micropore Technologies"
+          },
+          "description": "At Micropore Technologies, I supported business development efforts for equipment sales including prospecting and outreach, tradeshow attendance, and presenting to prospective clients. "
+        },
+        {
+          "role": "Entrepreneurial Technology and Commercialization Consultant",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 7
+            },
+            "start": {
+              "year": 2021,
+              "month": 4
+            }
+          },
+          "location": "Raleigh, NC",
+          "workplace": {
+            "title": "Praetego"
+          },
+          "description": "At Praetego, a startup pharmaceutical company, I assisted with series A funding efforts including performing due diligence on potential investors, setting up initial meetings with C-suite executives, preparing pitch decks for investors, authoring press releases, managing social media including Twitter and Instagram, and assisting with grant fund allocation plans. "
+        },
+        {
+          "role": "Account Specialist",
+          "tenure": {
+            "start": {
+              "year": 2021,
+              "month": 6
+            }
+          },
+          "workplace": {
+            "title": "Kymanox",
+            "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          }
+        }
+      ],
+      "department": "Business Solutions",
+      "interests": [
+        "Traveling",
+        "Tennis",
+        "Cooking",
+        "Gaming"
+      ],
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "Rb-TH2k_Dpx",
+        "BD7DI2KQqT"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/Ju9xPA3nyZ5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=catherine.sweeney@kymanox.com",
+      "anniversaryDate": "05/17/2021",
+      "whatIDoHere": "I author and review proposals, manage accounts, support marketing initiatives, and support the Human Factors team.",
+      "totalReportCount": 0,
+      "cell": "(919)624-9456",
+      "lastName": "Sweeney",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/Ju9xPA3nyZ5/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/Ju9xPA3nyZ5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 0,
+      "title": "Account Specialist",
+      "isTeamLeader": false,
+      "officeState": "NC",
+      "languages": [
+        {
+          "language": "Spanish",
+          "proficiency": {
+            "level": "Intermediate"
+          }
+        }
+      ],
+      "displayName": "Catherine Sweeney",
+      "bio": "I am currently an account specialist at Kymanox, providing support in sales and business operations including account management, marketing support, proposal authorship, and Human Factors. \n\nI have in-depth knowledge of proposal development, account management, CRM management including WebCRM, Netsuite, and Salesforce,  equipment sales, and graphic design. I have laboratory experience in mammalian cell culture, RT-PCR, virus propagation and harvest, mouse colony management, cryostat sectioning of neural tissue, cell staining and imaging, murine footpad, IV, and subcutaneous injection, and microscopy.\n\nI have a Master of Microbial Biotechnology from North Carolina State University and a B.S. in Zoology with a minor in genetics.",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    },
+    {
+      "id": "JuMjstPnz",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Brandon",
+      "reachOutToMeFor": {
+        "projects": [
+          "Digital Operations",
+          "Business Process",
+          "Information Security",
+          "Data Analysis & Transformation",
+          "Digital Transformation",
+          "Computer Systems Validation",
+          "Enterprise Resource Planning",
+          "Systems Integration",
+          "Kymanox Facilities Management",
+          "Audio/Video Solutions",
+          "Technology Adoptions"
+        ]
+      },
+      "officeCity": "HQ",
+      "email": "brandon.sullivan@kymanox.com",
+      "teamLeaderId": "qBQChktLXIo5",
+      "skills": [
+        {
+          "name": "ERP Integration",
+          "level": 400,
+          "isFeatured": true
+        },
+        {
+          "name": "Business Process Design",
+          "level": 400,
+          "isFeatured": true
+        },
+        {
+          "name": "Systems Integration",
+          "level": 400,
+          "isFeatured": true
+        },
+        {
+          "name": "Digital Maturity",
+          "level": 400,
+          "isFeatured": true
+        },
+        {
+          "name": "Technology Adoption",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "SAP",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Verification and Validation of Computer Systems",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Supply Chain Management",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Supply Chain Planning",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "IT Governance",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "IT Security",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Microsoft Azure",
+          "level": 200,
+          "isFeatured": false
+        },
+        {
+          "name": "Artificial Intelligence",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Salesforce Sales Cloud",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Active Directory",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Communications Technology",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Electronic Data Interchange",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "SharePoint Workflows",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "SharePoint",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Developing Technical Roadmap",
+          "level": 400,
+          "isFeatured": false
+        }
+      ],
+      "education": [
+        {
+          "school": {
+            "name": "University of North Carolina at Greensboro",
+            "id": "a2a2618d-2616-435c-b7a1-835460739c7a"
+          },
+          "degreeType": "Bachelor of Science"
+        }
+      ],
+      "hasNamePronunciation": false,
+      "timezoneAndWorkHours": {
+        "timezone": "America/New_York",
+        "workHours": [
+          {
+            "day": 1,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "OFFICE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          },
+          {
+            "day": 2,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "FLEXIBLE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          },
+          {
+            "day": 3,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "REMOTE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          },
+          {
+            "day": 4,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "FLEXIBLE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          },
+          {
+            "day": 5,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "REMOTE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          }
+        ]
+      },
+      "experience": [
+        {
+          "role": "Senior Director, Digital Operations",
+          "tenure": {
+            "end": null,
+            "start": {
+              "year": 2021,
+              "month": 5
+            }
+          },
+          "workplace": {
+            "title": "Kymanox Corporation"
+          }
+        },
+        {
+          "role": "Associate Director, MIS Business Processes & Services",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 4
+            },
+            "start": {
+              "year": 2014,
+              "month": 3
+            }
+          },
+          "location": "Raleigh, NC",
+          "workplace": {
+            "title": "Ajinomoto Health & Nutrition North America,",
+            "logoUrl": "https://img.logo.dev/ajihealthandnutrition.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          }
+        }
+      ],
+      "department": "Information Technology",
+      "interests": [
+        "Golfing",
+        "Beach Volleyball",
+        "Reading",
+        "Technology",
+        "Woodworking",
+        "Fishing",
+        "Traveling",
+        "Cooking",
+        "Ice hockey"
+      ],
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "qBQChktLXIo5"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=brandon.sullivan@kymanox.com",
+      "anniversaryDate": "06/01/2021",
+      "totalReportCount": 13,
+      "cell": "(919)338-3437",
+      "lastName": "Sullivan",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 10,
+      "title": "Senior Director, IT",
+      "isTeamLeader": true,
+      "officeState": "NC",
+      "languages": [
+        {
+          "language": "English",
+          "description": null,
+          "proficiency": {
+            "level": "Native",
+            "skills": [
+              "Understanding",
+              "Speaking"
+            ]
+          }
+        }
+      ],
+      "displayName": "Brandon Sullivan",
+      "phone": "(919)351-9130",
+      "inclusivePronouns": {
+        "code": "MALE",
+        "isOther": false
+      },
+      "cf_date-zosw2wQyI": "2000-03-03T00:00:00-05:00",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    },
+    {
+      "id": "kULmSPoblSDD",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "customPictureUrl": "https://api.justsift.com/v1/media/people/kULmSPoblSDD/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=custom",
+      "companyName": "Contractor",
+      "firstName": "Francois",
+      "officeCity": "Remote",
+      "email": "francois.billard@kymanox.com",
+      "teamLeaderId": "Es75foiwoPh",
+      "skills": [
+        {
+          "name": "Site Management",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Combination Products",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Technical Writing",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Project Management",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Engineering",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Medical Devices",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Communication",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Drug Manufacture",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Leadership",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Program Management",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Root Cause Analysis",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "CMC",
+          "level": 300,
+          "isFeatured": false
+        }
+      ],
+      "education": [
+        {
+          "school": {
+            "name": "Institut national des Sciences appliquées de Rouen",
+            "id": "86313c55-4388-4940-967b-da77fece83d1"
+          },
+          "degreeType": "Master's degree",
+          "fieldsOfStudy": [
+            "Chemistry and Chemical Engineering"
+          ]
+        },
+        {
+          "school": {
+            "name": "Université de Technologie de Compiègne (UTC)",
+            "id": "e4666ce0-b4bf-429c-b862-51b79234d3eb"
+          },
+          "degreeType": "Master's degree",
+          "fieldsOfStudy": [
+            "Industrial Process Engineering"
+          ]
+        },
+        {
+          "school": {
+            "name": "IUT (Institut Universitaire de Technologie)",
+            "id": "f8b72e0b-5142-4fb8-82fb-0d641c66f3ac"
+          },
+          "degreeType": "Bachelor's degree",
+          "fieldsOfStudy": [
+            "Chemistry"
+          ]
+        }
+      ],
+      "hasNamePronunciation": false,
+      "experience": [
+        {
+          "role": "Site Director",
+          "tenure": {
+            "end": {
+              "year": 2025,
+              "month": 2
+            },
+            "start": {
+              "year": 2022,
+              "month": 6
+            }
+          },
+          "location": "Morrisville, North Carolina, United States",
+          "workplace": {
+            "title": "Bespak",
+            "logoUrl": "https://img.logo.dev/bespak.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led all site functions—Operations, Quality, Finance, HR, Facilities, IT, and EHS—ensuring financial performance, GMP compliance, and sustained team engagement during organizational transitions. \n- Delivered FDA inspection with zero 483s \n- Managed spinoff from Recipharm and strategic site closure \n- Oversaw recruitment, space planning, and capital investment aligned with growth targets \n"
+        },
+        {
+          "role": "Director Of Operations",
+          "tenure": {
+            "end": {
+              "year": 2022,
+              "month": 5
+            },
+            "start": {
+              "year": 2021,
+              "month": 5
+            }
+          },
+          "location": "Morrisville, North Carolina, United States",
+          "workplace": {
+            "title": "Bespak",
+            "logoUrl": "https://img.logo.dev/bespak.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Directed method development and inhalation/analytical lab groups. Aligned operations and project management to ensure timely delivery of technical milestones. \n- Completed design phase of GMP clinical manufacturing expansion \n- Optimized lab operations for lean, scalable growth \n"
+        },
+        {
+          "role": "Associate Director, Analytical Services Sales for Inhalation Solutions",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 4
+            },
+            "start": {
+              "year": 2021,
+              "month": 2
+            }
+          },
+          "location": "Morrisville, North Carolina, United States",
+          "workplace": {
+            "title": "Bespak",
+            "logoUrl": "https://img.logo.dev/bespak.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Sell standalone analytical services from Recipharm Inhalation Solutions™. \n- Published article on spray characterization testing (OnDrugDelivery, May 2021) \n"
+        },
+        {
+          "role": "Manager, Inhalation Product Development",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 2
+            },
+            "start": {
+              "year": 2020,
+              "month": 0
+            }
+          },
+          "location": "Morrisville, NC (U.S.A.)",
+          "workplace": {
+            "title": "Catalent Pharma Solutions",
+            "logoUrl": "https://img.logo.dev/catalent.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led cross-functional inhalation development teams (~20 staff) including Project Directors, Scientists, and Analysts. Supported technical operations, change controls, and client-facing project delivery. \n- Directed development and validation of nasal spray product from early-phase through release and stability \n- Streamlined technical inputs for sales proposals, aligning service scope with execution capacity \n- Supported cGMP batch documentation and regulatory readiness for multiple client programs \n"
+        },
+        {
+          "role": "Director Of Operations",
+          "tenure": {
+            "end": {
+              "year": 2019,
+              "month": 7
+            },
+            "start": {
+              "year": 2015,
+              "month": 11
+            }
+          },
+          "location": "Baltimore, MD (U.S.A.)",
+          "workplace": {
+            "title": "NEXT BREATH",
+            "logoUrl": "https://img.logo.dev/nextbreath.global?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Oversaw full-service cGMP analytical lab operations for inhalation and nasal delivery systems. Accountable for financial performance, technical operations, and project management. \n- Increased monthly revenue by 25% within 2 years without expanding headcount \n- Supported 12+ FDA/EMA submissions for nasal and inhalation products \n- Passed 2 FDA inspections with no 483 observations \n- Established new E&L (Extractables & Leachables) service offering \n- Implemented 21 CFR Part 11 compliance plan for all lab systems "
+        },
+        {
+          "role": "Director, Global Quality Assurance and GMP Compliance",
+          "tenure": {
+            "end": {
+              "year": 2015,
+              "month": 10
+            },
+            "start": {
+              "year": 2011,
+              "month": 11
+            }
+          },
+          "location": "Le Vaudreuil (France)",
+          "workplace": {
+            "title": "Aptar",
+            "logoUrl": "https://img.logo.dev/aptar.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Corporate leadership role driving harmonization of global GMP and quality practices across Aptar Pharma's sites and FDA-registered laboratories. Reported to the VP of Quality for the Prescription Division. \n- Developed and deployed 30+ global SOPs covering Change Control, OOS investigations, supplier management, method validation, and QA systems \n- Led FDA-readiness program, including internal audits, harmonized QA forums, and computerized system validation (e.g., LIMS, Empower 3) \n- Oversaw revalidation of extractables testing methods to ensure regulatory compliance \n- Chaired Change Control Committee for all cross-site/global impact changes "
+        },
+        {
+          "role": "Director of Quality",
+          "tenure": {
+            "end": {
+              "year": 2011,
+              "month": 10
+            },
+            "start": {
+              "year": 2008,
+              "month": 1
+            }
+          },
+          "location": "Congers, NY (USA)",
+          "workplace": {
+            "title": "Aptar",
+            "logoUrl": "https://img.logo.dev/aptar.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Led Quality Operations at a manufacturing site producing primary packaging and delivery systems for pharmaceutical, cosmetic, and perfumery clients. Served as ISO Management Representative. \n- Directed Quality Systems (documentation, CAPAs, validations, audits) and ensured GMP/ISO compliance \n- Oversaw a team of 30 including Quality Managers, Engineers, and Technicians \n- Successfully completed major industrial transfer from France to U.S., doubling cleanroom space, adding 5 new assembly lines and 8 injection presses \n- Revamped documentation systems to meet ISO 9001 and ISO 15378 standards \n"
+        },
+        {
+          "role": "Laboratory Manager",
+          "tenure": {
+            "end": {
+              "year": 2008,
+              "month": 1
+            },
+            "start": {
+              "year": 2005,
+              "month": 7
+            }
+          },
+          "location": "Congers, NY (U.S.A.)",
+          "workplace": {
+            "title": "Aptar",
+            "logoUrl": "https://img.logo.dev/aptar.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          },
+          "description": "Managed an R&D laboratory focused on evaluating compatibility between packaging systems and customer formulations (cosmetic, perfumery, and pharmaceutical). Provided technical support to commercial teams. \n- Led method transfers of extractables testing from France to a U.S. FDA- registered contract lab \n- Oversaw lab operations and managed a team of 2 technicians \n- Successfully qualified the lab as an approved testing facility for the Estée Lauder Companies \n"
+        },
+        {
+          "role": "Product Development Scientist",
+          "tenure": {
+            "end": {
+              "year": 2005,
+              "month": 6
+            },
+            "start": {
+              "year": 2000,
+              "month": 10
+            }
+          },
+          "location": "Chantilly, VA",
+          "workplace": {
+            "title": "NUTRAVAIL LTD"
+          },
+          "description": "Led formulation and development projects for oral drug delivery technologies. Conducted lab-scale experiments and supported scale-up for manufacturing. "
+        },
+        {
+          "role": "Manufacturing Coordinator",
+          "tenure": {
+            "end": {
+              "year": 2000,
+              "month": 9
+            },
+            "start": {
+              "year": 1999,
+              "month": 5
+            }
+          },
+          "location": "Rockville, Maryland, United States",
+          "workplace": {
+            "title": "Hemispherx Biopharma, Inc."
+          },
+          "description": "Coordinated clinical manufacturing operations for an experimental nucleic acid therapeutic in development for the treatment of a variety of chronic diseases and viral disorders. Reviewed production documentation and supported regulatory inspections. Developed early experience in GMP compliance and biotech production of a large volume parenteral solution. \n"
+        },
+        {
+          "role": "Scientist",
+          "tenure": {
+            "end": {
+              "year": 1999,
+              "month": 4
+            },
+            "start": {
+              "year": 1997,
+              "month": 8
+            }
+          },
+          "location": "Baltimore, MD (U.S.A.)",
+          "workplace": {
+            "title": "Consolidated Pharmaceutical Group"
+          },
+          "description": "Held multiple roles of increasing responsibility, including supervising production lines, performing QA oversight, and executing analytical testing. Gained foundational knowledge in commercial pharmaceutical operations, quality systems, and laboratory analysis. \n"
+        },
+        {
+          "role": "French Instructor",
+          "tenure": {
+            "end": {
+              "year": 1997,
+              "month": 5
+            },
+            "start": {
+              "year": 1995,
+              "month": 8
+            }
+          },
+          "location": "Helsinki, Finland",
+          "workplace": {
+            "title": "Teknillinen korkeakoulu-Tekniska högskolan"
+          }
+        }
+      ],
+      "department": "Product Development & Commercialization",
+      "interests": [
+        "Sports",
+        "Movies",
+        "Listening to music",
+        "Traveling"
+      ],
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "Rb-TH2k_Dpx",
+        "fdlZjVNnvsz",
+        "Es75foiwoPh"
+      ],
+      "messageAddress": "msteams:/l/chat/0/0?users=francois.billard@kymanox.com",
+      "whatIDoHere": "I support Kymanox clients by providing technical expertise on the development of inhalation and nasal spray drug products.",
+      "totalReportCount": 0,
+      "lastName": "Billard",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/kULmSPoblSDD/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/kULmSPoblSDD/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 0,
+      "title": "Senior Principal Advisor, PD&C",
+      "isTeamLeader": false,
+      "officeState": "Remote",
+      "languages": [
+        {
+          "language": "French",
+          "proficiency": {
+            "level": "Native",
+            "skills": [
+              "Understanding",
+              "Speaking"
+            ]
+          }
+        }
+      ],
+      "displayName": "Francois Billard",
+      "bio": "I’m a bilingual (English/French) pharmaceutical executive with 20+ years of experience in inhalation and nasal spray drug products. I have led operations across CDMOs and pharmaceutical packaging manufacturers building high-performing teams and scaling compliant, efficient, and resilient operations. \n\nMy expertise spans GMP compliance, analytical services, and technical operations across the full product lifecycle—from early development to commercial scale. I’ve successfully navigated complex site transitions, expanded capabilities, and strengthened quality systems to meet regulatory and business goals. \n\n✔️ Proven FDA inspection track record \n✔️ Operational performance improvement \n✔️ Development and analytical services for inhalation/nasal products",
+      "cf_text-3p8xb4wPz": "Contractor",
+      "officialPictureUrl": null
+    },
+    {
+      "id": "BD7DI2KQqT",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Michelle",
+      "officeCity": "HQ",
+      "email": "michelle.frakes@kymanox.com",
+      "teamLeaderId": "Rb-TH2k_Dpx",
+      "skills": [
+        {
+          "name": "Project Management",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Communication",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Account Management",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Technical Writing",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Business Development",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Program Management",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Graphic Design",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Marketing",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Proposals",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Salesforce",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Adobe Creative Suite",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Trade Shows",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Combination Products",
+          "level": 200,
+          "isFeatured": false
+        },
+        {
+          "name": "Engineering",
+          "level": 200,
+          "isFeatured": false
+        }
+      ],
+      "education": [
+        {
+          "school": {
+            "name": "University of North Carolina at Chapel Hill",
+            "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+          },
+          "degreeType": "Doctor of Philosophy",
+          "fieldsOfStudy": [
+            "Bioengineering and Biomedical Engineering"
+          ]
+        },
+        {
+          "school": {
+            "name": "The University of Tennessee-Knoxville",
+            "id": "5f1fd0a4-6d2a-4c24-ba7a-19f798a566cc"
+          },
+          "degreeType": "Bachelor of Science",
+          "fieldsOfStudy": [
+            "Engineering"
+          ]
+        }
+      ],
+      "hasNamePronunciation": false,
+      "department": "Business Solutions",
+      "interests": [
+        "Reading",
+        "Cooking",
+        "Red Wine",
+        "Creative writing"
+      ],
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "Rb-TH2k_Dpx"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/BD7DI2KQqT/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=michelle.frakes@kymanox.com",
+      "anniversaryDate": "04/23/2018",
+      "whatIDoHere": "I lead the business solutions (i.e, proposal team and CRM oversight) and the marketing team.",
+      "totalReportCount": 5,
+      "cell": "(919)924-1530",
+      "lastName": "Frakes",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/BD7DI2KQqT/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/BD7DI2KQqT/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 5,
+      "title": "Senior Director, Business Solutions and Marketing",
+      "isTeamLeader": true,
+      "officeState": "NC",
+      "displayName": "Michelle Frakes",
+      "bio": "Senior Director of Business Solutions and Marketing at Kymanox.\n\nMarketing and sales professional, biomedical engineer, and project manager with 20+ years of in the biotechnology and life science industries. \n\nIn-depth knowledge of proposal development and management, account and CRM management, digital and social media marketing, tradeshow management, corporate communications, and graphic design; on the technical side,  tissue engineering, combination products, cell culture, product development, equipment validation,  laboratory research and equipment, CGMP documentation. \n\nI have  a Ph.D. in Biomedical Engineering from University of North Carolina at Chapel Hill.",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    }
+  ],
+  "meta": {
+    "totalLength": 11,
+    "pages": {
+      "next": 2,
+      "prev": null,
+      "first": 1,
+      "last": 2,
+      "size": 10
+    }
+  },
+  "links": {
+    "next": "https://api.justsift.com/v1/search/people?q=sales&pageSize=10&page=2",
+    "prev": null,
+    "first": "https://api.justsift.com/v1/search/people?q=sales&pageSize=10&page=1",
+    "last": "https://api.justsift.com/v1/search/people?q=sales&pageSize=10&page=2"
+  }
+}

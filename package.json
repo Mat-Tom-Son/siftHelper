@@ -1,0 +1,37 @@
+{
+  "name": "sift-helper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "./dist/cjs/index.cjs",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/esm/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.cjs",
+      "types": "./dist/esm/index.d.ts"
+    }
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:int": "RUN_INTEGRATION=1 vitest run",
+    "dump": "tsx scripts/dump_sift.ts",
+    "web": "tsx web/server.js",
+    "web:dev": "tsx web/server.js",
+    "build:esm": "tsc -p tsconfig.build.esm.json",
+    "build:cjs": "tsc -p tsconfig.build.cjs.json && find dist/cjs -name '*.js' -exec bash -c 'for f; do mv \"$f\" \"${f%.js}.cjs\"; done' _ {} +",
+    "build": "npm run build:esm && npm run build:cjs"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.11",
+    "dotenv": "^16.6.1",
+    "express": "^4.18.2",
+    "tsx": "^4.16.2",
+    "typescript": "^5.9.2",
+    "vitest": "^1.6.1"
+  }
+}

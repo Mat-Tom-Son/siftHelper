@@ -1,0 +1,2099 @@
+[
+  {
+    "id": "Pol-m5-xoJV",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Andrew",
+    "officeCity": "KOP",
+    "email": "andrew.king@kymanox.com",
+    "teamLeaderId": "dpjQtZEJl9b",
+    "education": [
+      {
+        "school": {
+          "name": "Penn State University",
+          "id": "125adf55-cdf0-4d41-9338-bc6b976558e1"
+        },
+        "classYear": "2011-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science (BS)",
+        "fieldsOfStudy": [
+          "Mechanical Engineering"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Manager, Design and Innovation",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2021,
+            "month": 7
+          }
+        },
+        "location": "King of Prussia, Pennsylvania, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Senior Product Development Engineer",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 7
+          },
+          "start": {
+            "year": 2017,
+            "month": 9
+          }
+        },
+        "workplace": {
+          "title": "Neuma LLC"
+        }
+      },
+      {
+        "role": "Senior Product Development Engineer",
+        "tenure": {
+          "end": {
+            "year": 2017,
+            "month": 6
+          },
+          "start": {
+            "year": 2014,
+            "month": 1
+          }
+        },
+        "workplace": {
+          "title": "Unilife Corporation"
+        }
+      },
+      {
+        "role": "Product Design Engineer",
+        "tenure": {
+          "end": {
+            "year": 2014,
+            "month": 0
+          },
+          "start": {
+            "year": 2012,
+            "month": 0
+          }
+        },
+        "workplace": {
+          "title": "Woodstream Corporation",
+          "logoUrl": "https://img.logo.dev/woodstream.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      }
+    ],
+    "department": "Design and Innovation (NEUMA)",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "Rb-TH2k_Dpx",
+      "dpjQtZEJl9b"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/Pol-m5-xoJV/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=andrew.king@kymanox.com",
+    "anniversaryDate": "10/12/2017",
+    "totalReportCount": 4,
+    "lastName": "King",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/Pol-m5-xoJV/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/Pol-m5-xoJV/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 4,
+    "title": "Manager, Design and Innovation",
+    "isTeamLeader": true,
+    "officeState": "PA",
+    "displayName": "Andrew King",
+    "phone": "(484)816-6860",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "Design and Innovation (NEUMA)",
+    "officeName": "KOP",
+    "managerName": "Alexis Dechelette"
+  },
+  {
+    "id": "mVHpj_Mth4G",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Anna",
+    "officeCity": "HQ",
+    "email": "anna.jackson@kymanox.com",
+    "teamLeaderId": "fdlZjVNnvsz",
+    "hasNamePronunciation": false,
+    "department": "Product Development & Commercialization",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "Rb-TH2k_Dpx",
+      "fdlZjVNnvsz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/mVHpj_Mth4G/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=anna.jackson@kymanox.com",
+    "anniversaryDate": "03/14/2022",
+    "totalReportCount": 5,
+    "cell": "(561)312-4737",
+    "lastName": "Jackson",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/mVHpj_Mth4G/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/mVHpj_Mth4G/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 4,
+    "title": "Manager, PD&C",
+    "isTeamLeader": true,
+    "officeState": "FL",
+    "displayName": "Anna Jackson",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "Product Development & Commercialization",
+    "officeName": "HQ",
+    "managerName": "Katy Rommel"
+  },
+  {
+    "id": "qJ9-bL8hqfJ",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Anthony",
+    "officeCity": "HQ",
+    "email": "anthony.winner@kymanox.com",
+    "teamLeaderId": "C83ytekO7XP",
+    "skills": [
+      {
+        "name": "Environmental Microbiology",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Technical Writing",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Combination Products",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Project Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Medical Devices",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Leadership",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Risk Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Communication",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Program Management",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Human Factors",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Business Development",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Drug Manufacture",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Root Cause Analysis",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Supply Chain Management",
+        "level": 200,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "University of Florida",
+          "id": "b8b6fdc1-acae-4601-ad6b-38aa781035a7"
+        },
+        "classYear": "2015-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Applied Science",
+        "fieldsOfStudy": [
+          "Microbiology"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Biological Quality Control Lab Coordinator",
+        "tenure": {
+          "end": {
+            "year": 2017,
+            "month": 7
+          },
+          "start": {
+            "year": 2015,
+            "month": 7
+          }
+        },
+        "location": "Rocky Mount, NC",
+        "workplace": {
+          "title": "Pfizer",
+          "logoUrl": "https://img.logo.dev/pfizer.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "•\tCoordinated the timely collection and testing of environmental samples\n•\tOversaw lab activities to ensure compliance within regulatory guidelines\n•\tFurther established the training and continuous development of lab analysts\n•\tManaged and assisted with various site-wide projects and investigations, including identification/mapping of compressed gas systems and aseptic Continuous Particle Monitoring System (CPMS)\n•\tAnalyzed and authorized daily/weekly/monthly reports within LIMS\n"
+      },
+      {
+        "role": "Quality Control Scientist III ",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 2
+          },
+          "start": {
+            "year": 2017,
+            "month": 7
+          }
+        },
+        "location": "Greenville, NC",
+        "workplace": {
+          "title": "Thermo Fisher Scientific",
+          "logoUrl": "https://img.logo.dev/thermofisher.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "•\tCollaborated with project managers to evaluate installation of new aseptic filling suites and determined sample frequency/locations to meet regulatory requirements\n•\tFacilitated interdepartmental strategy meetings across all levels\n•\tScheduled and provided oversight for Media Fill Inspections\n•\tManaged all Environmental Monitoring Lab equipment, implemented new equipment, coordinated with external vendor services to ensure timely calibration/repairs, and submitted PO requests for services\n"
+      },
+      {
+        "role": "Manager of Biologics, Quality Control",
+        "tenure": {
+          "start": {
+            "year": 2021,
+            "month": 2
+          }
+        },
+        "location": "Raleigh, NC",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "•\tSubject Matter Expert in Environmental Viable and Non-Viable (Particulate) Monitoring, Data Integrity, 21 CFR Parts 11, 210, and 211, Project Management, and Commercial Manufacturing Support\n•\tTechnical Knowledge in Aseptic Clean Room Processes, Laboratory Testing Techniques, Equipment Validation, Cleaning Validation, Combination Product Design, RCA Investigations, and cGMP Technical Writing\n•\tConducts external audits of testing providers to ensure compliance against 21 CFR / ISO guidelines and internal procedures.\n•\tEvaluates client manufacturing processes/procedures and recommends changes for continuous improvement\n"
+      }
+    ],
+    "department": "Quality Technical Services",
+    "interests": [
+      "American football",
+      "Disc golf",
+      "Golfing",
+      "Woodworking",
+      "Kayaking",
+      "Volleyball",
+      "offroading",
+      "boating"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "WQtz373uy",
+      "42xPeqxYQGL9",
+      "C83ytekO7XP"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/qJ9-bL8hqfJ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=anthony.winner@kymanox.com",
+    "anniversaryDate": "05/17/2021",
+    "whatIDoHere": "As the Manager of Analytical Operations, I primarily work on projects related to GMP QC laboratories. Whether is performing investigations, developing SOPs or conducting audits, I always strive to leave a positive impact on our clients!",
+    "totalReportCount": 3,
+    "cell": "(850)591-9642",
+    "lastName": "Winner",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/qJ9-bL8hqfJ/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/qJ9-bL8hqfJ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 3,
+    "title": "Manager, Biologics QC",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": {
+          "level": "Native",
+          "skills": [
+            "Understanding",
+            "Speaking"
+          ]
+        }
+      }
+    ],
+    "displayName": "Anthony Winner",
+    "bio": "Experienced commercial Quality Control Scientist with 10 years of experience in aseptic pharmaceutical manufacturing and microbiology laboratory management. Strong background in environmental monitoring program implementation, analytical procedure development, and project management, with knowledge of cGMP/GDP/GLP regulations. I hold a Bachelor of Science in Microbiology from the University of Florida.",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 4,
+    "departmentName": "Quality Technical Services",
+    "officeName": "HQ",
+    "managerName": "Steven Mann"
+  },
+  {
+    "id": "4NYm_ayJRp5",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "customPictureUrl": "https://api.justsift.com/v1/media/people/4NYm_ayJRp5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=custom",
+    "companyName": "Kymanox",
+    "firstName": "Brandon",
+    "officeCity": "HQ",
+    "email": "brandon.patterson@kymanox.com",
+    "teamLeaderId": "oY0tPvTrvRI",
+    "skills": [
+      {
+        "name": "CAPA",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Engineering",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Business Development",
+        "level": 100,
+        "isFeatured": false
+      },
+      {
+        "name": "Program Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Validation",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Project Management",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Root Cause Analysis",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Proposals",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Drug Manufacture",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Technical Writing",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Risk Management",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Medical Devices",
+        "level": 100,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "Purdue University",
+          "id": "cb6694c4-9298-4d9a-aedc-fe3ef533568f"
+        },
+        "classYear": "2001-01-01T00:00:00+00:00",
+        "degreeType": "BS",
+        "fieldsOfStudy": [
+          "Chemical Engineering Honors Program"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Director MS&T",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2022,
+            "month": 3
+          }
+        },
+        "location": "Raleigh-Durham-Chapel Hill Area",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "- Oversee the Kymanox MS&T + Process Engineering team by providing technical and project support to the team and plan for utilization on projects. \n- Work with the Business Development team to identify project opportunities, meet with potential clients, and review proposals. \n- Engineering, Validation, CMMS (Blue Mountain), and Operational Readiness support for a client in the radiopharmaceutical space.\n- Technical Project Manager for the launch of a new BSL-2 Cell & Gene Therapy R&D laboratory. \n- Technical project manager for the buildout of a new 503B compounding facility. \n- Medical device complaints program by developing investigation templates and author investigations for one of the devices.\n"
+      },
+      {
+        "role": "Associate Director MS&T",
+        "tenure": {
+          "end": {
+            "year": 2022,
+            "month": 3
+          },
+          "start": {
+            "year": 2021,
+            "month": 7
+          }
+        },
+        "location": "Raleigh-Durham-Chapel Hill Area",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Principal Engineer",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 7
+          },
+          "start": {
+            "year": 2020,
+            "month": 11
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Sr. Director of Engineering",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 11
+          },
+          "start": {
+            "year": 2019,
+            "month": 1
+          }
+        },
+        "workplace": {
+          "title": "PharMEDium Services"
+        },
+        "description": "- Lead the Process Engineering, Technical Services, Plant Engineering/ Maintenance/Calibration, and Validation groups (7 managers, 40 employees overall, 4 locations) \n- Developed strategies to continue capital projects and maintain support for manufacturing processes while also shifting resources to more critical business objectives (remediation).  \n- Critical projects included: new clean room, Rockwell plant- wide Ethernet networks, site Validation Master Plans, overhaul of the Calibration program, specification & build of IBM Maximo Computerized Maintenance Management System (CMMS), restart plans for Memphis, TN facility, launch of the visual inspection program, and many more. \n- Significant involvement in remediation activities required by PharMEDium’s Consent Decree received May 2019."
+      },
+      {
+        "role": "Director of Process Engineering",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 1
+          },
+          "start": {
+            "year": 2017,
+            "month": 6
+          }
+        },
+        "location": "Lake Forest, Illinois",
+        "workplace": {
+          "title": "PharMEDium Services"
+        },
+        "description": "- Established a collaborative environment through launch of Smartsheet.\n- Regulatory responses and remediation activities.  Developed strategies and process improvements to address FDA 483, State Boards of Pharmacy, and internal audit observations (related to Engineering). \n- Engineering strategy development and capital planning to meet corporate production ramp up schedules. \n- Implementation of automated syringe filling and labeling lines. \n- Design and implementation of automated bag filling and labeling lines. \n- Implementation of Rockwell Converged Plant Wide Ethernet networks (CPwE) in four manufacturing centers with dedicated data centers in three of the facilities.\n- Oversight of design for ampule & vial pooling automation, and custom peristaltic pumps."
+      },
+      {
+        "role": "Engineering Manager",
+        "tenure": {
+          "end": {
+            "year": 2017,
+            "month": 6
+          },
+          "start": {
+            "year": 2014,
+            "month": 10
+          }
+        },
+        "location": "Lake Forest, Illinois",
+        "workplace": {
+          "title": "PharMEDium Services"
+        },
+        "description": "- Manage the engineering function with a focus on process development projects including:  custom automation equipment procurement, production scale-up, cost reduction, and capacity expansion. \n- Use well developed knowledge of process automation to assess and supply strategic direction for short, medium, and long term automation strategy.  \n- Manage execution of projects for automating manufacturing operations to reduce costs, increase output, and improve quality of current and future products. Identify new technology and continuous improvements to products, processes and equipment.  Provide input and oversight on CAPEX and department budgets; manage and monitor project and functional budgets. "
+      },
+      {
+        "role": "Sr. Sterilization Program Engineer",
+        "tenure": {
+          "end": {
+            "year": 2014,
+            "month": 9
+          },
+          "start": {
+            "year": 2011,
+            "month": 8
+          }
+        },
+        "location": "Franksville, Wisconsin",
+        "workplace": {
+          "title": "Merz North America, Inc."
+        },
+        "description": "Sterilization Program lead\n- Validated and launched new autoclave. \n- Identified and implemented improvements to all three Getinge autoclaves. \n- Production and Quality support for troubleshooting, NCRs, and CAPAs.\n- Annual qualifications of autoclaves and new product qualifications. \n\nLead project engineer for new injection molding supplier (Phillips-Medisize) \n- Qualification of syringe molding process, automated pad printing, and semi-automated assembly. \n- Provide project management, engineering & validation support, and inventory planning for transition to new supplier. \n\nWater systems \n- Project lead for Reverse Osmosis/Deionized Water system to complete remediation of the system, re-write of the Performance Qualification protocol, and execute the yearlong qualification."
+      },
+      {
+        "role": "Sr. Process Engineer",
+        "tenure": {
+          "end": {
+            "year": 2011,
+            "month": 8
+          },
+          "start": {
+            "year": 2007,
+            "month": 9
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Sr. Maintenance Supervisor",
+        "tenure": {
+          "end": {
+            "year": 2007,
+            "month": 8
+          },
+          "start": {
+            "year": 2007,
+            "month": 1
+          }
+        },
+        "workplace": {
+          "title": "Abbott Laboratories"
+        },
+        "description": "- Led critical problem solving teams to avoid missed product deliveries and lengthy production down time for sterile and non-sterile filling/capping/packaging lines and robotic packing lines \n- Supported daily operations and trouble shooting of liquid filling lines \n- Coordinated Validation, Operations, and Engineering teams on compliance, production efficiency, and plant decommissioning projects \n- Supervised 14 mechanics across 3 shifts in an aseptic liquid filling and packaging facility \n- Operations representative for the Validation Review Board "
+      },
+      {
+        "role": "Equipment Engineer",
+        "tenure": {
+          "end": {
+            "year": 2007,
+            "month": 0
+          },
+          "start": {
+            "year": 2005,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "Abbott Laboratories"
+        }
+      },
+      {
+        "role": "Validation Engineer",
+        "tenure": {
+          "end": {
+            "year": 2005,
+            "month": 4
+          },
+          "start": {
+            "year": 2001,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Abbott Laboratories"
+        },
+        "description": "- Led all validation activities for the commissioning and qualification of a new, state-of-the-art blister-packing machine \n- Shared management responsibilities for the Validation department during a 2-month time without a department manager \n- Coordinated Validation Review Board meetings, which approved over 2000 documents annually \n- Assist with audit preparations, interactions, and responses \n- Co-author of the Validation Master Plan (VMP) \n- Assist with updates to the division cleaning validation policies \n- Write, execute, and compile cleaning validation protocols "
+      }
+    ],
+    "department": "MS&T + Process Engineering",
+    "interests": [
+      "Golfing",
+      "Barbequing",
+      "Traveling"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "WQtz373uy",
+      "oY0tPvTrvRI"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/4NYm_ayJRp5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=brandon.patterson@kymanox.com",
+    "anniversaryDate": "11/23/2020",
+    "totalReportCount": 4,
+    "cell": "(815)529-0406",
+    "lastName": "Patterson",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/4NYm_ayJRp5/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/4NYm_ayJRp5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 4,
+    "title": "Director, MS&T",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "displayName": "Brandon Patterson",
+    "bio": "Demonstrated leader with strong technical problem solving and project management skills in the pharmaceutical, 503B compounding, & medical device industries. \nExperience growing, developing, and leading teams across multiple facilities by setting strategies, priorities, and expectations. Over 20 years of broad experience in Quality and Engineering disciplines including project management, facility design, facility start-up, plant engineering, automation design & validation, computer system validation, regulatory responses, consent decree remediation, cleaning validation, sterilization, water systems, injection molding, form/fill/seal, blow/fill/seal, aseptic processing, compounding, maintenance, and continuous improvement.",
+    "cf_text-3p8xb4wPz": "FTE",
+    "level": 3,
+    "departmentName": "MS&T + Process Engineering",
+    "officeName": "HQ",
+    "managerName": "Jason Merryman"
+  },
+  {
+    "id": "RKw5rXhF3CZ",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Brittany",
+    "officeCity": "HQ",
+    "email": "brittany.bell@kymanox.com",
+    "teamLeaderId": "42xPeqxYQGL9",
+    "skills": [
+      {
+        "name": "Audits",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Technical Writing",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Biotechnology",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Combination Products",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Human Factors",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Design Controls",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Drug Manufacture",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Compliance",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Quality",
+        "level": 400,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "minors": [],
+        "school": {
+          "name": "North Carolina State University",
+          "id": "0e439152-2d5d-436d-87c7-2313c1cb9b55"
+        },
+        "classYear": "2010-01-01T00:00:00-05:00",
+        "degreeType": "B.S",
+        "fieldsOfStudy": [
+          "Biological Engineering",
+          "Bioprocess Engineering"
+        ],
+        "concentrations": []
+      }
+    ],
+    "hasNamePronunciation": false,
+    "department": "Quality Assurance and Compliance",
+    "interests": [
+      "Hiking",
+      "Dogs",
+      "Horses",
+      "Camping",
+      "Live Music",
+      "Family",
+      "Travel",
+      "Cats",
+      "Gardening",
+      "Keeping Plants Alive"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "WQtz373uy",
+      "42xPeqxYQGL9"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/RKw5rXhF3CZ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=brittany.bell@kymanox.com",
+    "anniversaryDate": "02/01/2019",
+    "whatIDoHere": "I manage manufacturing quality projects at Kymanox, as well as support quality systems (eQMS), internal Kymanox quality processes, and compliance initiatives.",
+    "totalReportCount": 4,
+    "cell": "(919)524-3841",
+    "lastName": "Bell",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/RKw5rXhF3CZ/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/RKw5rXhF3CZ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 4,
+    "title": "Manager, Manufacturing Quality",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "displayName": "Brittany Bell",
+    "bio": "Brittany Bell (Alston) has been working at Kymanox since February 2019.\n\nShe has experience in biopharma, medical device, API pharmaceutical, and sterile compounding operations and compliance. \nBrittany has expertise in purification process development, scale up, technology transfer, process validation, investigations, root cause analysis and remediation, CGMP quality and compliance support, auditing and gap assessments, manufacturing quality and batch disposition. \n\nBrittany is an ASQ Certified Quality Auditor. She graduated from North Carolina State University with a Bachelor of Science degree in Biological & Agricultural Engineering and pursued graduate level coursework at the Biomanufacturing Training and Education Center, including Upstream, Downstream, and Lyophilization principles.",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "Quality Assurance and Compliance",
+    "officeName": "HQ",
+    "managerName": "David Dlugo"
+  },
+  {
+    "id": "hj25684Twl0",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Chris",
+    "officeCity": "Boston",
+    "email": "chris.doody@kymanox.com",
+    "teamLeaderId": "Um25wz10kFD",
+    "education": [
+      {
+        "school": {
+          "name": "Tufts University",
+          "id": "5488ed89-ad2e-4b3a-b76b-e6f6236bc0b4"
+        },
+        "classYear": "2009-01-01T00:00:00+00:00",
+        "degreeType": "Master of Science - MS",
+        "fieldsOfStudy": [
+          "Mechanical Engineering"
+        ]
+      },
+      {
+        "school": {
+          "name": "Worcester Polytechnic Institute",
+          "id": "10ac7388-5151-4ff0-952e-02ba76c3a58c"
+        },
+        "classYear": "2007-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science - BS",
+        "fieldsOfStudy": [
+          "Mechanical Engineering"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Senior Project Manager",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2023,
+            "month": 2
+          }
+        },
+        "location": "Boston, Massachusetts",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Engineering Project Manager",
+        "tenure": {
+          "end": {
+            "year": 2023,
+            "month": 2
+          },
+          "start": {
+            "year": 2018,
+            "month": 4
+          }
+        },
+        "location": "Stoughton, Massachusetts",
+        "workplace": {
+          "title": "Primo Medical Group",
+          "logoUrl": "https://img.logo.dev/primomedicalgroup.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Associate Project Manager",
+        "tenure": {
+          "end": {
+            "year": 2018,
+            "month": 4
+          },
+          "start": {
+            "year": 2016,
+            "month": 4
+          }
+        },
+        "location": "Stoughton, Massachusetts",
+        "workplace": {
+          "title": "Primo Medical Group",
+          "logoUrl": "https://img.logo.dev/primomedicalgroup.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Mechanical Design Engineer",
+        "tenure": {
+          "end": {
+            "year": 2016,
+            "month": 4
+          },
+          "start": {
+            "year": 2010,
+            "month": 0
+          }
+        },
+        "location": "Stoughton, Massachusetts",
+        "workplace": {
+          "title": "Primo Medical Group",
+          "logoUrl": "https://img.logo.dev/primomedicalgroup.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Mechanical Engineering Graduate Student",
+        "tenure": {
+          "end": {
+            "year": 2009,
+            "month": 5
+          },
+          "start": {
+            "year": 2007,
+            "month": 5
+          }
+        },
+        "workplace": {
+          "title": "Tufts University",
+          "logoUrl": "https://img.logo.dev/tufts.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Student Summer Internship",
+        "tenure": {
+          "end": {
+            "year": 2006,
+            "month": 7
+          },
+          "start": {
+            "year": 2005,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "Draper Laboratory"
+        }
+      }
+    ],
+    "department": "Program Management Office",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "WQtz373uy",
+      "Um25wz10kFD"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/hj25684Twl0/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=chris.doody@kymanox.com",
+    "anniversaryDate": "03/27/2023",
+    "totalReportCount": 2,
+    "cell": "(617)775-7456",
+    "lastName": "Doody",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/hj25684Twl0/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/hj25684Twl0/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 2,
+    "title": "Senior Project Manager",
+    "isTeamLeader": true,
+    "officeState": "MA",
+    "displayName": "Chris Doody",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "Program Management Office",
+    "officeName": "Boston",
+    "managerName": "Akshay Nadkarni"
+  },
+  {
+    "id": "TZOP8i4gimO",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Chris",
+    "officeCity": "HQ",
+    "email": "chris.simmons@kymanox.com",
+    "teamLeaderId": "oY0tPvTrvRI",
+    "education": [
+      {
+        "school": {
+          "name": "North Carolina State University",
+          "id": "69194d95-a8af-4c52-8f2d-2504839b6e99"
+        },
+        "classYear": "2000-01-01T00:00:00+00:00",
+        "degreeType": "BS",
+        "fieldsOfStudy": [
+          "Chemistry"
+        ]
+      },
+      {
+        "school": {
+          "name": "North Carolina State University",
+          "id": "43cfd810-aef2-453d-8c3c-5328b0a63cca"
+        },
+        "classYear": "2000-01-01T00:00:00+00:00",
+        "degreeType": "BS",
+        "fieldsOfStudy": [
+          "Polymer Chemistry"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Director, CQV",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2022,
+            "month": 7
+          }
+        },
+        "location": "RTP, NC",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Principle Scientist / CMC Consultant",
+        "tenure": {
+          "end": {
+            "year": 2022,
+            "month": 7
+          },
+          "start": {
+            "year": 2022,
+            "month": 4
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Independent Scientific Consultant",
+        "tenure": {
+          "end": {
+            "year": 2022,
+            "month": 7
+          },
+          "start": {
+            "year": 2022,
+            "month": 4
+          }
+        },
+        "location": "Raleigh, North Carolina, United States",
+        "workplace": {
+          "title": "Lontra Scientific Consulting"
+        }
+      },
+      {
+        "role": "Director Of Laboratory Operations",
+        "tenure": {
+          "end": {
+            "year": 2022,
+            "month": 4
+          },
+          "start": {
+            "year": 2022,
+            "month": 1
+          }
+        },
+        "workplace": {
+          "title": "Tergus Pharma",
+          "logoUrl": "https://img.logo.dev/terguspharma.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Director Laboratory Operations",
+        "tenure": {
+          "end": {
+            "year": 2022,
+            "month": 4
+          },
+          "start": {
+            "year": 2021,
+            "month": 5
+          }
+        },
+        "location": "Durham, North Carolina, United States",
+        "workplace": {
+          "title": "Q² Solutions",
+          "logoUrl": "https://img.logo.dev/q2labsolutions.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Operations Director",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 5
+          },
+          "start": {
+            "year": 2020,
+            "month": 2
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Recipharm",
+          "logoUrl": "https://img.logo.dev/recipharm.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Senior Manager Quality Control",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 2
+          },
+          "start": {
+            "year": 2019,
+            "month": 3
+          }
+        },
+        "workplace": {
+          "title": "Fresenius Kabi",
+          "logoUrl": "https://img.logo.dev/fresenius-kabi.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "QC Chemistry Manager",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 3
+          },
+          "start": {
+            "year": 2017,
+            "month": 3
+          }
+        },
+        "location": "Wilson NC",
+        "workplace": {
+          "title": "Fresenius Kabi",
+          "logoUrl": "https://img.logo.dev/fresenius-kabi.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Sr. Scientist Early Development",
+        "tenure": {
+          "end": {
+            "year": 2017,
+            "month": 3
+          },
+          "start": {
+            "year": 2014,
+            "month": 5
+          }
+        },
+        "location": "Morrisville NC",
+        "workplace": {
+          "title": "Catalent Pharma Solutions",
+          "logoUrl": "https://img.logo.dev/catalent.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "CQ Supervisor",
+        "tenure": {
+          "end": {
+            "year": 2014,
+            "month": 5
+          },
+          "start": {
+            "year": 2013,
+            "month": 3
+          }
+        },
+        "workplace": {
+          "title": "Hospira",
+          "logoUrl": "https://img.logo.dev/hospira.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Sr. Analytical Chemist",
+        "tenure": {
+          "end": {
+            "year": 2013,
+            "month": 3
+          },
+          "start": {
+            "year": 2011,
+            "month": 10
+          }
+        },
+        "location": "Durham NC",
+        "workplace": {
+          "title": "Novan Therapeutics"
+        }
+      },
+      {
+        "role": "Scientist I",
+        "tenure": {
+          "end": {
+            "year": 2011,
+            "month": 10
+          },
+          "start": {
+            "year": 2010,
+            "month": 10
+          }
+        },
+        "location": "RTP NC",
+        "workplace": {
+          "title": "Cirrus Pharmaceuticals"
+        }
+      },
+      {
+        "role": "National Accounts Manager",
+        "tenure": {
+          "end": {
+            "year": 2010,
+            "month": 10
+          },
+          "start": {
+            "year": 2009,
+            "month": 10
+          }
+        },
+        "workplace": {
+          "title": "GL Sciences",
+          "logoUrl": "https://img.logo.dev/glsciencesinc.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Associate Scientist II",
+        "tenure": {
+          "end": {
+            "year": 2009,
+            "month": 4
+          },
+          "start": {
+            "year": 2008,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "Cirrus Pharmaceuticals"
+        }
+      },
+      {
+        "role": "Chemist",
+        "tenure": {
+          "end": {
+            "year": 2008,
+            "month": 4
+          },
+          "start": {
+            "year": 2007,
+            "month": 3
+          }
+        },
+        "workplace": {
+          "title": "Metallix Refining"
+        }
+      },
+      {
+        "role": "Research Associate",
+        "tenure": {
+          "end": {
+            "year": 2007,
+            "month": 3
+          },
+          "start": {
+            "year": 2001,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "Becton Dickinson Technologies (BDT)"
+        }
+      }
+    ],
+    "department": "CQV",
+    "interests": [
+      "Wine",
+      "Carolina Hurricanes",
+      "San Francisco 49ers",
+      "Fantasy Football",
+      "Foodie",
+      "Chemistry",
+      "Ancient History",
+      "Physics",
+      "Religion"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "WQtz373uy",
+      "oY0tPvTrvRI"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/TZOP8i4gimO/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=chris.simmons@kymanox.com",
+    "anniversaryDate": "08/01/2022",
+    "totalReportCount": 5,
+    "cell": "(919)454-3462",
+    "lastName": "Simmons",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/TZOP8i4gimO/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/TZOP8i4gimO/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 2,
+    "title": "Director, Commissioning, Qualification and Validation",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "languages": [
+      {
+        "language": "German",
+        "description": "I can order a beer, know the difference between a Berg and a Burg, and otherwise communicate as well as any 6-year-old German kid despite studying it for 8 years as an adult.",
+        "proficiency": {
+          "level": "Novice"
+        }
+      },
+      {
+        "language": "Italian",
+        "description": "Taught myself during the pandemic with the help of Il Gufo di DuoLingo. Other than wine pronunciations, don't rely on me for much else...",
+        "proficiency": {
+          "level": "Novice"
+        }
+      }
+    ],
+    "displayName": "Chris Simmons",
+    "bio": "As the Kymanox Director of Commissioning, Qualification, and Validation (CQV), I bring over two decades of experience in the pharma industry; from labs to production to quality I have lived it all.\n\nOutside the world of CQV, I’m a rabid San Francisco 49er's (NFL) and Carolina Hurricanes (NHL) fan.\n\nIf you catch me at the office and want to play ping pong, I am always ready...\n\nI also enjoy great wine and food; keep an eye out for wine tastings at HQ and group dinner invites!",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "CQV",
+    "officeName": "HQ",
+    "managerName": "Jason Merryman"
+  },
+  {
+    "id": "__Oj1W4dIl_",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Courtney",
+    "reachOutToMeFor": {
+      "general": [
+        "Smartsheet",
+        "Project Management Advice",
+        "Budget Monitoring",
+        "PMO Process and System Questions or Feedback"
+      ],
+      "projects": [
+        "Bryn Pharma",
+        "MedPhlow"
+      ]
+    },
+    "officeCity": "HQ",
+    "email": "courtney.newhall@kymanox.com",
+    "teamLeaderId": "Um25wz10kFD",
+    "skills": [
+      {
+        "name": "Project Management",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Financial Modeling",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Program Management",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Risk Management",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Design Controls",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Human Factors",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Engineering",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Combination Products",
+        "level": 200,
+        "isFeatured": false
+      },
+      {
+        "name": "Smartsheet",
+        "level": 400,
+        "isFeatured": false
+      },
+      {
+        "name": "Microsoft Project",
+        "level": 400,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "minors": [],
+        "school": {
+          "name": "University of Notre Dame",
+          "id": "c2858a24-86d2-4a89-8581-20277329008c"
+        },
+        "classYear": "2019-01-01T00:00:00-05:00",
+        "degreeType": "Master of Science - MS",
+        "fieldsOfStudy": [
+          "Engineering",
+          "Science",
+          "and Technology"
+        ],
+        "concentrations": []
+      },
+      {
+        "minors": [],
+        "school": {
+          "name": "University of Notre Dame",
+          "id": "c2858a24-86d2-4a89-8581-20277329008c"
+        },
+        "classYear": "2018-01-01T00:00:00-05:00",
+        "degreeType": "Bachelor of Science - BS",
+        "fieldsOfStudy": [
+          "Neuroscience and Behavior"
+        ],
+        "concentrations": []
+      }
+    ],
+    "hasNamePronunciation": false,
+    "timezoneAndWorkHours": {
+      "timezone": "America/New_York",
+      "workHours": [
+        {
+          "day": 1,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "FLEXIBLE",
+          "startTime": {
+            "hour": 8,
+            "minute": 0
+          }
+        },
+        {
+          "day": 2,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "OFFICE",
+          "startTime": {
+            "hour": 8,
+            "minute": 0
+          }
+        },
+        {
+          "day": 3,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "FLEXIBLE",
+          "startTime": {
+            "hour": 8,
+            "minute": 0
+          }
+        },
+        {
+          "day": 4,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "OFFICE",
+          "startTime": {
+            "hour": 8,
+            "minute": 0
+          }
+        },
+        {
+          "day": 5,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "FLEXIBLE",
+          "startTime": {
+            "hour": 8,
+            "minute": 0
+          }
+        }
+      ]
+    },
+    "experience": [
+      {
+        "role": "Principal Program Manager",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2025,
+            "month": 0
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Senior Technical Project Manager | PMO Systems Lead",
+        "tenure": {
+          "end": {
+            "year": 2025,
+            "month": 0
+          },
+          "start": {
+            "year": 2021,
+            "month": 9
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Technical Project Manager | PMO Systems Lead",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 9
+          },
+          "start": {
+            "year": 2020,
+            "month": 2
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Associate Project Manager",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 2
+          },
+          "start": {
+            "year": 2019,
+            "month": 6
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Project Coordinator, IDEA Center, Problem & Market Validation",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 5
+          },
+          "start": {
+            "year": 2018,
+            "month": 6
+          }
+        },
+        "workplace": {
+          "title": "University of Notre Dame",
+          "logoUrl": "https://img.logo.dev/nd.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "(1 year) \n\n• Created and implemented a streamlined process that all projects in our department follow \n\n• Optimized the department’s ability to complete projects by determining where inefficiency exists \n\n• Directly oversaw 18 analysts and maintained a record of their progress "
+      },
+      {
+        "role": "Research Assistant, Notre Dame Deloitte Center for Ethical Leadership",
+        "tenure": {
+          "end": {
+            "year": 2018,
+            "month": 7
+          },
+          "start": {
+            "year": 2017,
+            "month": 4
+          }
+        },
+        "location": "Notre Dame, IN",
+        "workplace": {
+          "title": "University of Notre Dame",
+          "logoUrl": "https://img.logo.dev/nd.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "\n• Conducted qualitative research by reviewing recent journal articles in the fields of management, behavioral economics, neuroscience, and psychology \n• Generated executive summaries and annotated bibliographies \n• Composed and presented pitches and outlines for proposed articles to the Director \n"
+      },
+      {
+        "role": "Retail Assistant, Computer Service Center",
+        "tenure": {
+          "end": {
+            "year": 2018,
+            "month": 4
+          },
+          "start": {
+            "year": 2015,
+            "month": 3
+          }
+        },
+        "location": "Notre Dame, IN",
+        "workplace": {
+          "title": "University of Notre Dame",
+          "logoUrl": "https://img.logo.dev/nd.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Desk Clerk, Office of Housing",
+        "tenure": {
+          "end": {
+            "year": 2017,
+            "month": 6
+          },
+          "start": {
+            "year": 2017,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "University of Notre Dame",
+          "logoUrl": "https://img.logo.dev/nd.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Graduate Student Entrepreneurship Consultant",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 3
+          },
+          "start": {
+            "year": 2018,
+            "month": 6
+          }
+        },
+        "workplace": {
+          "title": "The Feinstein Institutes"
+        }
+      },
+      {
+        "role": "Summer Research Assistant",
+        "tenure": {
+          "end": {
+            "year": 2016,
+            "month": 7
+          },
+          "start": {
+            "year": 2016,
+            "month": 5
+          }
+        },
+        "location": "Dallas/Fort Worth Area",
+        "workplace": {
+          "title": "UT Southwestern Medical Center",
+          "logoUrl": "https://img.logo.dev/utsouthwestern.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "\n• Developed a scoring methodology for patient encounter notes to assess diagnostic reasoning in physician assistant students to provide a measure for their academic progress throughout the program \n\n• Collaborated on up to 3 research projects at a time and attended team meetings weekly for each project \n\n--- \nUT Southwestern School of Health Professions, Department of Physician Assistant Studies \n"
+      },
+      {
+        "role": "Intern",
+        "tenure": {
+          "end": {
+            "year": 2015,
+            "month": 7
+          },
+          "start": {
+            "year": 2015,
+            "month": 4
+          }
+        },
+        "location": "Dallas/Fort Worth Area",
+        "workplace": {
+          "title": "UT Southwestern Medical Center",
+          "logoUrl": "https://img.logo.dev/utsouthwestern.edu?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        },
+        "description": "\n• Analyzed clinician ability to promote smoking cessation and the success of curriculum implementations to promote primary care selection and to increase critical reasoning \n\n• Served as assistant on various research teams, where my tasks included literature analysis, note taking, data collection, and data entry \n--- \nUT Southwestern School of Health Professions, Department of Physician Assistant Studies \n"
+      }
+    ],
+    "department": "Program Management Office",
+    "interests": [
+      "Hiking",
+      "Disc golf",
+      "Cooking",
+      "NHL",
+      "College Football",
+      "Board Games",
+      "Tennis",
+      "Ultimate Frisbee",
+      "Pickleball",
+      "Rock climbing",
+      "Reading"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "WQtz373uy",
+      "Um25wz10kFD"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/__Oj1W4dIl_/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=courtney.newhall@kymanox.com",
+    "anniversaryDate": "07/01/2019",
+    "totalReportCount": 4,
+    "cell": "(214)708-7660",
+    "lastName": "Newhall",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/__Oj1W4dIl_/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/__Oj1W4dIl_/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 4,
+    "title": "Principal Project Manager",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "languages": [
+      {
+        "language": "Spanish",
+        "proficiency": {
+          "level": "Intermediate"
+        }
+      }
+    ],
+    "displayName": "Courtney Newhall",
+    "inclusivePronouns": {
+      "code": "FEMALE",
+      "isOther": false
+    },
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "Program Management Office",
+    "officeName": "HQ",
+    "managerName": "Akshay Nadkarni"
+  },
+  {
+    "id": "GF1tJW-QvbZ",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Eric",
+    "reachOutToMeFor": {
+      "general": [
+        "Salesforce",
+        "Personio",
+        "DOT Compliance",
+        "Facilities",
+        "IT"
+      ]
+    },
+    "officeCity": "HQ",
+    "email": "eric.donie@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "education": [
+      {
+        "school": {
+          "name": "University of North Carolina at Greensboro",
+          "id": "a2a2618d-2616-435c-b7a1-835460739c7a"
+        },
+        "classYear": "2024-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science - BS",
+        "fieldsOfStudy": [
+          "Integrated Professional Studies"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Senior Solutions Engineer",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2024,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP Engagement Manager",
+        "tenure": {
+          "end": {
+            "year": 2024,
+            "month": 10
+          },
+          "start": {
+            "year": 2021,
+            "month": 10
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Senior SAP Specialist",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 10
+          },
+          "start": {
+            "year": 2020,
+            "month": 3
+          }
+        },
+        "location": "Raleigh, North Carolina, United States",
+        "workplace": {
+          "title": "Ajinomoto Co., Inc."
+        }
+      },
+      {
+        "role": "Functional Consultant",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 2
+          },
+          "start": {
+            "year": 2019,
+            "month": 4
+          }
+        },
+        "location": "Raleigh-Durham, North Carolina Area",
+        "workplace": {
+          "title": "Prometheus Group",
+          "logoUrl": "https://img.logo.dev/prometheusgroup.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP Plant Maintenance Functional Analyst",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 4
+          },
+          "start": {
+            "year": 2012,
+            "month": 4
+          }
+        },
+        "location": "Bartlesville, OK",
+        "workplace": {
+          "title": "Phillips 66",
+          "logoUrl": "https://img.logo.dev/phillips66.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP PM Analyst",
+        "tenure": {
+          "end": {
+            "year": 2012,
+            "month": 4
+          },
+          "start": {
+            "year": 2008,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Commercial Metals Company"
+        }
+      },
+      {
+        "role": "Fire Control Technician",
+        "tenure": {
+          "end": {
+            "year": 2007,
+            "month": 0
+          },
+          "start": {
+            "year": 2002,
+            "month": 0
+          }
+        },
+        "workplace": {
+          "title": "US Navy"
+        }
+      }
+    ],
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=eric.donie@kymanox.com",
+    "anniversaryDate": "11/29/2021",
+    "totalReportCount": 2,
+    "cell": "(214)603-2428",
+    "lastName": "Donie",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 2,
+    "title": "Senior Solutions Engineer",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "displayName": "Eric Donie",
+    "inclusivePronouns": {
+      "code": "MALE",
+      "isOther": false
+    },
+    "cf_date-zosw2wQyI": "1982-08-01T00:00:00-04:00",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 3,
+    "departmentName": "Information Technology",
+    "officeName": "HQ",
+    "managerName": "Brandon Sullivan"
+  },
+  {
+    "id": "oY0tPvTrvRI",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Jason",
+    "officeCity": "Remote",
+    "email": "jason.merryman@kymanox.com",
+    "teamLeaderId": "WQtz373uy",
+    "education": [
+      {
+        "school": {
+          "name": "Missouri University of Science and Technology",
+          "id": "be65886e-aee2-4d93-9ddd-0fb3c1cda2a4"
+        },
+        "degreeType": "M.S.",
+        "fieldsOfStudy": [
+          "Engineering Management"
+        ]
+      },
+      {
+        "school": {
+          "name": "Missouri University of Science and Technology",
+          "id": "be65886e-aee2-4d93-9ddd-0fb3c1cda2a4"
+        },
+        "degreeType": "B.S.",
+        "fieldsOfStudy": [
+          "Mechanical Engineering"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Senior Director Facilities and Automation",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2021,
+            "month": 2
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Director of Engineering",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 2
+          },
+          "start": {
+            "year": 2019,
+            "month": 3
+          }
+        },
+        "location": "Lake Villa, IL",
+        "workplace": {
+          "title": "R+D Custom Automation"
+        }
+      },
+      {
+        "role": "Vice President of Engineering",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 2
+          },
+          "start": {
+            "year": 2018,
+            "month": 3
+          }
+        },
+        "location": "Lake Forest, IL",
+        "workplace": {
+          "title": "PharMEDium Services - formerly a Division of AmerisourceBergen"
+        }
+      },
+      {
+        "role": "Senior Director of Engineering",
+        "tenure": {
+          "end": {
+            "year": 2018,
+            "month": 3
+          },
+          "start": {
+            "year": 2014,
+            "month": 7
+          }
+        },
+        "location": "Lake Forest, IL",
+        "workplace": {
+          "title": "PharMEDium Services - formerly a Division of AmerisourceBergen"
+        }
+      },
+      {
+        "role": "Director, Manufacturing Engineering",
+        "tenure": {
+          "end": {
+            "year": 2014,
+            "month": 6
+          },
+          "start": {
+            "year": 2011,
+            "month": 5
+          }
+        },
+        "location": "Franksville, WI",
+        "workplace": {
+          "title": "Merz North America"
+        }
+      },
+      {
+        "role": "Process Engineering Manager",
+        "tenure": {
+          "end": {
+            "year": 2011,
+            "month": 5
+          },
+          "start": {
+            "year": 2009,
+            "month": 6
+          }
+        },
+        "location": "Lake Forest, IL",
+        "workplace": {
+          "title": "PharMEDium Services - formerly a Division of AmerisourceBergen"
+        }
+      },
+      {
+        "role": "New Product Development Manager",
+        "tenure": {
+          "end": {
+            "year": 2009,
+            "month": 6
+          },
+          "start": {
+            "year": 2007,
+            "month": 1
+          }
+        },
+        "location": "Libertyville, IL",
+        "workplace": {
+          "title": "Hollister"
+        }
+      },
+      {
+        "role": "Engineering Manager",
+        "tenure": {
+          "end": {
+            "year": 2007,
+            "month": 0
+          },
+          "start": {
+            "year": 2004,
+            "month": 10
+          }
+        },
+        "location": "Libertyville, IL",
+        "workplace": {
+          "title": "Hollister"
+        }
+      },
+      {
+        "role": "Senior Project Engineer",
+        "tenure": {
+          "end": {
+            "year": 2004,
+            "month": 9
+          },
+          "start": {
+            "year": 1996,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "Hollister"
+        }
+      }
+    ],
+    "department": "Manufacturing and Automation",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "WQtz373uy"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/oY0tPvTrvRI/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=jason.merryman@kymanox.com",
+    "anniversaryDate": "03/22/2021",
+    "whatIDoHere": "Senior Director, Facilities and Automation",
+    "totalReportCount": 21,
+    "cell": "(847)271-7833",
+    "lastName": "Merryman",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/oY0tPvTrvRI/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/oY0tPvTrvRI/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 4,
+    "title": "Senior Director, Facilities + Automation",
+    "isTeamLeader": true,
+    "officeState": "WI",
+    "displayName": "Jason Merryman",
+    "bio": "Working for an amazing company with a passion that matches my own! \n\nKymanox is a life science professional services organization that offers engineering, scientific, compliance, and project management support to companies exclusively in the biotechnology, pharmaceutical, medical device, and combination product industries. Kymanox helps clients navigate commercialization challenges that arise throughout a product’s life cycle – from early development to post-market support.",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null,
+    "level": 2,
+    "departmentName": "Manufacturing and Automation",
+    "officeName": "Remote",
+    "managerName": "Richard Motruk"
+  }
+]

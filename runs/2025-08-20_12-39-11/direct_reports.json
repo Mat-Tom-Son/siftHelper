@@ -1,0 +1,597 @@
+[
+  {
+    "id": "gPk5p36pNkk",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Benjamin",
+    "officeCity": "HQ",
+    "email": "benjamin.branch@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "hasNamePronunciation": false,
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/gPk5p36pNkk/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=benjamin.branch@kymanox.com",
+    "anniversaryDate": "01/08/2020",
+    "totalReportCount": 0,
+    "cell": "(310)270-8341",
+    "lastName": "Branch",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/gPk5p36pNkk/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/gPk5p36pNkk/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Senior Systems Analyst",
+    "isTeamLeader": false,
+    "officeState": "NC",
+    "displayName": "Benjamin Branch",
+    "phone": "(919)346-7735",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null
+  },
+  {
+    "id": "GF1tJW-QvbZ",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Eric",
+    "reachOutToMeFor": {
+      "general": [
+        "Salesforce",
+        "Personio",
+        "DOT Compliance",
+        "Facilities",
+        "IT"
+      ]
+    },
+    "officeCity": "HQ",
+    "email": "eric.donie@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "education": [
+      {
+        "school": {
+          "name": "University of North Carolina at Greensboro",
+          "id": "a2a2618d-2616-435c-b7a1-835460739c7a"
+        },
+        "classYear": "2024-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor of Science - BS",
+        "fieldsOfStudy": [
+          "Integrated Professional Studies"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "experience": [
+      {
+        "role": "Senior Solutions Engineer",
+        "tenure": {
+          "end": null,
+          "start": {
+            "year": 2024,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP Engagement Manager",
+        "tenure": {
+          "end": {
+            "year": 2024,
+            "month": 10
+          },
+          "start": {
+            "year": 2021,
+            "month": 10
+          }
+        },
+        "location": "Morrisville, North Carolina, United States",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "Senior SAP Specialist",
+        "tenure": {
+          "end": {
+            "year": 2021,
+            "month": 10
+          },
+          "start": {
+            "year": 2020,
+            "month": 3
+          }
+        },
+        "location": "Raleigh, North Carolina, United States",
+        "workplace": {
+          "title": "Ajinomoto Co., Inc."
+        }
+      },
+      {
+        "role": "Functional Consultant",
+        "tenure": {
+          "end": {
+            "year": 2020,
+            "month": 2
+          },
+          "start": {
+            "year": 2019,
+            "month": 4
+          }
+        },
+        "location": "Raleigh-Durham, North Carolina Area",
+        "workplace": {
+          "title": "Prometheus Group",
+          "logoUrl": "https://img.logo.dev/prometheusgroup.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP Plant Maintenance Functional Analyst",
+        "tenure": {
+          "end": {
+            "year": 2019,
+            "month": 4
+          },
+          "start": {
+            "year": 2012,
+            "month": 4
+          }
+        },
+        "location": "Bartlesville, OK",
+        "workplace": {
+          "title": "Phillips 66",
+          "logoUrl": "https://img.logo.dev/phillips66.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "SAP PM Analyst",
+        "tenure": {
+          "end": {
+            "year": 2012,
+            "month": 4
+          },
+          "start": {
+            "year": 2008,
+            "month": 7
+          }
+        },
+        "workplace": {
+          "title": "Commercial Metals Company"
+        }
+      },
+      {
+        "role": "Fire Control Technician",
+        "tenure": {
+          "end": {
+            "year": 2007,
+            "month": 0
+          },
+          "start": {
+            "year": 2002,
+            "month": 0
+          }
+        },
+        "workplace": {
+          "title": "US Navy"
+        }
+      }
+    ],
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=eric.donie@kymanox.com",
+    "anniversaryDate": "11/29/2021",
+    "totalReportCount": 2,
+    "cell": "(214)603-2428",
+    "lastName": "Donie",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/GF1tJW-QvbZ/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 2,
+    "title": "Senior Solutions Engineer",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "displayName": "Eric Donie",
+    "inclusivePronouns": {
+      "code": "MALE",
+      "isOther": false
+    },
+    "cf_date-zosw2wQyI": "1982-08-01T00:00:00-04:00",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null
+  },
+  {
+    "id": "A3i7x1Ps5nH",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Frank",
+    "officeCity": "HQ",
+    "email": "frank.fisk@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "hasNamePronunciation": false,
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/A3i7x1Ps5nH/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=frank.fisk@kymanox.com",
+    "anniversaryDate": "05/31/2022",
+    "totalReportCount": 0,
+    "cell": "(919)744-7649",
+    "lastName": "Fisk",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/A3i7x1Ps5nH/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/A3i7x1Ps5nH/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Business Analyst",
+    "isTeamLeader": false,
+    "officeState": "NC",
+    "displayName": "Frank Fisk",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null
+  },
+  {
+    "id": "NDZ0RJfYsux",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Contractor",
+    "firstName": "Leonie",
+    "officeCity": "Remote",
+    "email": "leonie.fourie@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "hasNamePronunciation": false,
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "messageAddress": "msteams:/l/chat/0/0?users=leonie.fourie@kymanox.com",
+    "totalReportCount": 0,
+    "lastName": "Fourie",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/NDZ0RJfYsux/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/NDZ0RJfYsux/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Principal SAP Architect",
+    "isTeamLeader": false,
+    "officeState": "Remote",
+    "displayName": "Leonie Fourie",
+    "cf_text-3p8xb4wPz": "Contractor",
+    "customPictureUrl": null,
+    "officialPictureUrl": null
+  },
+  {
+    "id": "xmdUkIoiz",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Phuong",
+    "officeCity": "HQ",
+    "email": "phuong.nguyen@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "skills": [
+      {
+        "name": "Network Troubleshooting",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Troubleshooting",
+        "level": 300,
+        "isFeatured": false
+      },
+      {
+        "name": "Microsoft Azure",
+        "level": 300,
+        "isFeatured": false
+      }
+    ],
+    "education": [
+      {
+        "school": {
+          "name": "University of North Carolina at Charlotte",
+          "id": "088bbef9-83cb-4449-b947-3367bc944a44"
+        },
+        "classYear": "2019-01-01T00:00:00+00:00",
+        "degreeType": "Bachelor’s Degree",
+        "fieldsOfStudy": [
+          "Computer Science"
+        ]
+      }
+    ],
+    "hasNamePronunciation": false,
+    "timezoneAndWorkHours": {
+      "timezone": "America/New_York",
+      "workHours": [
+        {
+          "day": 1,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "OFFICE",
+          "startTime": {
+            "hour": 8,
+            "minute": 0
+          }
+        },
+        {
+          "day": 2,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "OFFICE",
+          "startTime": {
+            "hour": 9,
+            "minute": 0
+          }
+        },
+        {
+          "day": 3,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "REMOTE",
+          "startTime": {
+            "hour": 9,
+            "minute": 0
+          }
+        },
+        {
+          "day": 4,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "FLEXIBLE",
+          "startTime": {
+            "hour": 9,
+            "minute": 0
+          }
+        },
+        {
+          "day": 5,
+          "endTime": {
+            "hour": 17,
+            "minute": 0
+          },
+          "location": "REMOTE",
+          "startTime": {
+            "hour": 9,
+            "minute": 0
+          }
+        }
+      ]
+    },
+    "experience": [
+      {
+        "role": "Senior IT Analyst ",
+        "tenure": {
+          "end": {
+            "year": 2024,
+            "month": 1
+          },
+          "start": {
+            "year": 2023,
+            "month": 4
+          }
+        },
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      },
+      {
+        "role": "IT Operations Manager",
+        "tenure": {
+          "start": {
+            "year": 2024,
+            "month": 4
+          }
+        },
+        "location": "RTP",
+        "workplace": {
+          "title": "Kymanox",
+          "logoUrl": "https://img.logo.dev/kymanox.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+        }
+      }
+    ],
+    "department": "Information Technology",
+    "interests": [
+      "Video Games",
+      "Vintage cars"
+    ],
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/xmdUkIoiz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=phuong.nguyen@kymanox.com",
+    "anniversaryDate": "05/15/2023",
+    "totalReportCount": 1,
+    "cell": "(336)705-3813",
+    "lastName": "Nguyen",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/xmdUkIoiz/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/xmdUkIoiz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 1,
+    "title": "Manager, IT Operations",
+    "isTeamLeader": true,
+    "officeState": "NC",
+    "languages": [
+      {
+        "language": "Vietnamese",
+        "proficiency": {
+          "level": "Native",
+          "skills": [
+            "Reading",
+            "Writing",
+            "Understanding",
+            "Speaking"
+          ]
+        }
+      }
+    ],
+    "displayName": "Phuong Nguyen",
+    "phone": "(919)364-8754",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null
+  },
+  {
+    "id": "VtfGm5LeL",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Contractor",
+    "firstName": "Vamsi",
+    "officeCity": "Remote",
+    "email": "vamsi.pamujua@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "hasNamePronunciation": false,
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "messageAddress": "msteams:/l/chat/0/0?users=vamsi.pamujua@kymanox.com",
+    "anniversaryDate": "07/14/2025",
+    "totalReportCount": 0,
+    "lastName": "Pamujua",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/VtfGm5LeL/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/VtfGm5LeL/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Senior SAP Technical Developer",
+    "isTeamLeader": false,
+    "officeState": "Remote",
+    "displayName": "Vamsi Pamujua",
+    "cf_text-3p8xb4wPz": "Contractor",
+    "customPictureUrl": null,
+    "officialPictureUrl": null
+  },
+  {
+    "id": "T_7giWjCs",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Contractor",
+    "firstName": "Cristian",
+    "officeCity": "Remote",
+    "email": "cristian.potter@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "hasNamePronunciation": false,
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "messageAddress": "msteams:/l/chat/0/0?users=cristian.potter@kymanox.com",
+    "totalReportCount": 0,
+    "lastName": "Potter",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/T_7giWjCs/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/T_7giWjCs/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Data Scientist",
+    "isTeamLeader": false,
+    "displayName": "Cristian Potter",
+    "cf_text-3p8xb4wPz": "Contractor",
+    "customPictureUrl": null,
+    "officialPictureUrl": null
+  },
+  {
+    "id": "UTFTJQrIul1",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Contractor",
+    "firstName": "Pascual",
+    "officeCity": "Remote",
+    "email": "pascual.sgro@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "hasNamePronunciation": false,
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/UTFTJQrIul1/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=pascual.sgro@kymanox.com",
+    "totalReportCount": 0,
+    "lastName": "Sgro",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/UTFTJQrIul1/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/UTFTJQrIul1/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Principal SAP Architect",
+    "isTeamLeader": false,
+    "officeState": "Remote",
+    "displayName": "Pascual Sgro",
+    "cf_text-3p8xb4wPz": "Contractor",
+    "customPictureUrl": null
+  },
+  {
+    "id": "CQpYNK7b8t6",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Contractor",
+    "firstName": "Randy",
+    "officeCity": "Remote",
+    "email": "randy.sullivan@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "hasNamePronunciation": false,
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "messageAddress": "msteams:/l/chat/0/0?users=randy.sullivan@kymanox.com",
+    "totalReportCount": 0,
+    "lastName": "Sullivan",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/CQpYNK7b8t6/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/CQpYNK7b8t6/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "Principal SAP Architect",
+    "isTeamLeader": false,
+    "officeState": "Remote",
+    "displayName": "Randy Sullivan",
+    "cf_text-3p8xb4wPz": "Contractor",
+    "customPictureUrl": null,
+    "officialPictureUrl": null
+  },
+  {
+    "id": "AfHNkSEZVWW",
+    "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+    "companyName": "Kymanox",
+    "firstName": "Mat",
+    "officeCity": "HQ",
+    "email": "mat.thompson@kymanox.com",
+    "teamLeaderId": "JuMjstPnz",
+    "hasNamePronunciation": false,
+    "department": "Information Technology",
+    "reportingPath": [
+      "vZrrWvO8Ij",
+      "qBQChktLXIo5",
+      "JuMjstPnz"
+    ],
+    "officialPictureUrl": "https://api.justsift.com/v1/media/people/AfHNkSEZVWW/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+    "messageAddress": "msteams:/l/chat/0/0?users=mat.thompson@kymanox.com",
+    "anniversaryDate": "04/15/2021",
+    "totalReportCount": 0,
+    "cell": "(720)473-2921",
+    "lastName": "Thompson",
+    "backgroundUrl": "https://api.justsift.com/v1/media/people/AfHNkSEZVWW/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "pictureUrl": "https://api.justsift.com/v1/media/people/AfHNkSEZVWW/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+    "directReportCount": 0,
+    "title": "AI Systems Architect",
+    "isTeamLeader": false,
+    "officeState": "NC",
+    "displayName": "Mat Thompson",
+    "cf_date-zosw2wQyI": "1987-12-08T00:00:00-05:00",
+    "cf_text-3p8xb4wPz": "FTE",
+    "customPictureUrl": null
+  }
+]

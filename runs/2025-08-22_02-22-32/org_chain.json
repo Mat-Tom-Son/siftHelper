@@ -1,0 +1,440 @@
+{
+  "chain": [
+    {
+      "id": "vZrrWvO8Ij",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Stephen M.",
+      "officeCity": "HQ",
+      "email": "smp@kymanox.com",
+      "hasNamePronunciation": false,
+      "department": "Executive",
+      "reportingPath": [],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=smp@kymanox.com",
+      "anniversaryDate": "08/03/2004",
+      "totalReportCount": 286,
+      "cell": "(847)239-2710",
+      "lastName": "Perry",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 10,
+      "title": "CEO",
+      "isTeamLeader": true,
+      "officeState": "NC",
+      "displayName": "Stephen M. Perry",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    },
+    {
+      "id": "qBQChktLXIo5",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Andrew",
+      "officeCity": "HQ",
+      "email": "andrew.messick@kymanox.com",
+      "teamLeaderId": "vZrrWvO8Ij",
+      "education": [
+        {
+          "school": {
+            "name": "University of North Carolina at Chapel Hill",
+            "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+          },
+          "classYear": "1997-01-01T00:00:00+00:00",
+          "degreeType": "Bachelor of Business Administration",
+          "concentrations": []
+        },
+        {
+          "school": {
+            "name": "University of North Carolina at Chapel Hill",
+            "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+          },
+          "classYear": "1998-01-01T00:00:00+00:00",
+          "degreeType": "Master of Accounting"
+        }
+      ],
+      "hasNamePronunciation": false,
+      "department": "Finance",
+      "reportingPath": [
+        "vZrrWvO8Ij"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=andrew.messick@kymanox.com",
+      "anniversaryDate": "04/21/2025",
+      "whatIDoHere": "Chief Financial Officer",
+      "totalReportCount": 19,
+      "cell": "9192449903",
+      "lastName": "Messick",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 3,
+      "title": "Chief Financial Officer",
+      "isTeamLeader": true,
+      "officeState": "NC",
+      "displayName": "Andrew Messick",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    }
+  ],
+  "chainWithSelf": [
+    {
+      "id": "vZrrWvO8Ij",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Stephen M.",
+      "officeCity": "HQ",
+      "email": "smp@kymanox.com",
+      "hasNamePronunciation": false,
+      "department": "Executive",
+      "reportingPath": [],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=smp@kymanox.com",
+      "anniversaryDate": "08/03/2004",
+      "totalReportCount": 286,
+      "cell": "(847)239-2710",
+      "lastName": "Perry",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/vZrrWvO8Ij/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 10,
+      "title": "CEO",
+      "isTeamLeader": true,
+      "officeState": "NC",
+      "displayName": "Stephen M. Perry",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    },
+    {
+      "id": "qBQChktLXIo5",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Andrew",
+      "officeCity": "HQ",
+      "email": "andrew.messick@kymanox.com",
+      "teamLeaderId": "vZrrWvO8Ij",
+      "education": [
+        {
+          "school": {
+            "name": "University of North Carolina at Chapel Hill",
+            "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+          },
+          "classYear": "1997-01-01T00:00:00+00:00",
+          "degreeType": "Bachelor of Business Administration",
+          "concentrations": []
+        },
+        {
+          "school": {
+            "name": "University of North Carolina at Chapel Hill",
+            "id": "9132a411-e23d-419b-82e2-1afdb63a237c"
+          },
+          "classYear": "1998-01-01T00:00:00+00:00",
+          "degreeType": "Master of Accounting"
+        }
+      ],
+      "hasNamePronunciation": false,
+      "department": "Finance",
+      "reportingPath": [
+        "vZrrWvO8Ij"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=andrew.messick@kymanox.com",
+      "anniversaryDate": "04/21/2025",
+      "whatIDoHere": "Chief Financial Officer",
+      "totalReportCount": 19,
+      "cell": "9192449903",
+      "lastName": "Messick",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/qBQChktLXIo5/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 3,
+      "title": "Chief Financial Officer",
+      "isTeamLeader": true,
+      "officeState": "NC",
+      "displayName": "Andrew Messick",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    },
+    {
+      "id": "JuMjstPnz",
+      "directoryId": "4c6499e1-9c8e-4bb6-8a7b-90995baec65d",
+      "companyName": "Kymanox",
+      "firstName": "Brandon",
+      "reachOutToMeFor": {
+        "projects": [
+          "Digital Operations",
+          "Business Process",
+          "Information Security",
+          "Data Analysis & Transformation",
+          "Digital Transformation",
+          "Computer Systems Validation",
+          "Enterprise Resource Planning",
+          "Systems Integration",
+          "Kymanox Facilities Management",
+          "Audio/Video Solutions",
+          "Technology Adoptions"
+        ]
+      },
+      "officeCity": "HQ",
+      "email": "brandon.sullivan@kymanox.com",
+      "teamLeaderId": "qBQChktLXIo5",
+      "skills": [
+        {
+          "name": "ERP Integration",
+          "level": 400,
+          "isFeatured": true
+        },
+        {
+          "name": "Business Process Design",
+          "level": 400,
+          "isFeatured": true
+        },
+        {
+          "name": "Systems Integration",
+          "level": 400,
+          "isFeatured": true
+        },
+        {
+          "name": "Digital Maturity",
+          "level": 400,
+          "isFeatured": true
+        },
+        {
+          "name": "Technology Adoption",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "SAP",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Verification and Validation of Computer Systems",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "Supply Chain Management",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Supply Chain Planning",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "IT Governance",
+          "level": 400,
+          "isFeatured": false
+        },
+        {
+          "name": "IT Security",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Microsoft Azure",
+          "level": 200,
+          "isFeatured": false
+        },
+        {
+          "name": "Artificial Intelligence",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Salesforce Sales Cloud",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Active Directory",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Communications Technology",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Electronic Data Interchange",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "SharePoint Workflows",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "SharePoint",
+          "level": 300,
+          "isFeatured": false
+        },
+        {
+          "name": "Developing Technical Roadmap",
+          "level": 400,
+          "isFeatured": false
+        }
+      ],
+      "education": [
+        {
+          "school": {
+            "name": "University of North Carolina at Greensboro",
+            "id": "a2a2618d-2616-435c-b7a1-835460739c7a"
+          },
+          "degreeType": "Bachelor of Science"
+        }
+      ],
+      "hasNamePronunciation": false,
+      "timezoneAndWorkHours": {
+        "timezone": "America/New_York",
+        "workHours": [
+          {
+            "day": 1,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "OFFICE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          },
+          {
+            "day": 2,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "FLEXIBLE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          },
+          {
+            "day": 3,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "REMOTE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          },
+          {
+            "day": 4,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "FLEXIBLE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          },
+          {
+            "day": 5,
+            "endTime": {
+              "hour": 17,
+              "minute": 0
+            },
+            "location": "REMOTE",
+            "startTime": {
+              "hour": 8,
+              "minute": 30
+            }
+          }
+        ]
+      },
+      "experience": [
+        {
+          "role": "Senior Director, Digital Operations",
+          "tenure": {
+            "end": null,
+            "start": {
+              "year": 2021,
+              "month": 5
+            }
+          },
+          "workplace": {
+            "title": "Kymanox Corporation"
+          }
+        },
+        {
+          "role": "Associate Director, MIS Business Processes & Services",
+          "tenure": {
+            "end": {
+              "year": 2021,
+              "month": 4
+            },
+            "start": {
+              "year": 2014,
+              "month": 3
+            }
+          },
+          "location": "Raleigh, NC",
+          "workplace": {
+            "title": "Ajinomoto Health & Nutrition North America,",
+            "logoUrl": "https://img.logo.dev/ajihealthandnutrition.com?token=pk_CyfSVz-bRDWgLGU0rbzEIw"
+          }
+        }
+      ],
+      "department": "Information Technology",
+      "interests": [
+        "Golfing",
+        "Beach Volleyball",
+        "Reading",
+        "Technology",
+        "Woodworking",
+        "Fishing",
+        "Traveling",
+        "Cooking",
+        "Ice hockey"
+      ],
+      "reportingPath": [
+        "vZrrWvO8Ij",
+        "qBQChktLXIo5"
+      ],
+      "officialPictureUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6&preferredType=official",
+      "messageAddress": "msteams:/l/chat/0/0?users=brandon.sullivan@kymanox.com",
+      "anniversaryDate": "06/01/2021",
+      "totalReportCount": 13,
+      "cell": "(919)338-3437",
+      "lastName": "Sullivan",
+      "backgroundUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/background-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "pictureUrl": "https://api.justsift.com/v1/media/people/JuMjstPnz/profile-photo?width=200&height=200&fit=crop&token=eac993059a5e4d62a4914df12450b6c6",
+      "directReportCount": 10,
+      "title": "Senior Director, IT",
+      "isTeamLeader": true,
+      "officeState": "NC",
+      "languages": [
+        {
+          "language": "English",
+          "description": null,
+          "proficiency": {
+            "level": "Native",
+            "skills": [
+              "Understanding",
+              "Speaking"
+            ]
+          }
+        }
+      ],
+      "displayName": "Brandon Sullivan",
+      "phone": "(919)351-9130",
+      "inclusivePronouns": {
+        "code": "MALE",
+        "isOther": false
+      },
+      "cf_date-zosw2wQyI": "2000-03-03T00:00:00-05:00",
+      "cf_text-3p8xb4wPz": "FTE",
+      "customPictureUrl": null
+    }
+  ]
+}
