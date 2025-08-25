@@ -1,45 +1,24 @@
-## Embedding in another project
-
-The library ships dual builds and a single entrypoint, so you can import it into any Node.js project.
-
-```ts
-// ESM (Node >= 18 or "type": "module")
-import { SiftClient, ChatbotSiftClient } from 'sift-helper';
-
-const sift = new SiftClient({
-  dataToken: process.env.SIFT_DATA_TOKEN!,
-  mediaToken: process.env.SIFT_MEDIA_TOKEN,
-});
-
-const chatbot = new ChatbotSiftClient(sift);
-```
-
-```js
-// CommonJS
-const { SiftClient, ChatbotSiftClient } = require('sift-helper');
-
-const sift = new SiftClient({
-  dataToken: process.env.SIFT_DATA_TOKEN,
-  mediaToken: process.env.SIFT_MEDIA_TOKEN,
-});
-
-const chatbot = new ChatbotSiftClient(sift);
-```
-
-Notes:
-
-- The public entrypoint is `index.ts` and is exposed via `package.json` `exports`.
-- ESM: `dist/esm` at `"module": "./dist/esm/index.js"`.
-- CJS: `dist/cjs` at `"main": "./dist/cjs/index.cjs"`.
-- Types: `"types": "./dist/esm/index.d.ts"`.
-- Example UI and Express server live under `web/` and are not required to use the library. They are dev-only.
-
 # Sift Helper - Chatbot-Friendly Org API Wrapper
 
 A TypeScript wrapper for the Sift API that provides intuitive, natural language methods perfect for chatbot integration.
 
-## Features
+## Table of Contents
+- [Features](#features)
+- [Quick Start](#quick-start)
+- [Chatbot Query Patterns](#chatbot-query-patterns)
+- [Core Methods](#core-methods)
+- [Environment Setup](#environment-setup)
+- [Running Examples](#running-examples)
+- [Testing](#testing)
+- [Architecture](#architecture)
+- [Chatbot Integration Tips](#chatbot-integration-tips)
+- [Data Enrichment](#data-enrichment)
+- [Advanced Usage](#advanced-usage)
+- [Error Handling](#error-handling)
+- [Contributing](#contributing)
+- [License](#license)
 
+## Features
 - **Chatbot-Friendly**: Method names that match natural language queries
 - **Rich Data**: Enriched person data with levels, departments, photos
 - **Org Analytics**: Team insights, department summaries, reporting chains
@@ -48,7 +27,6 @@ A TypeScript wrapper for the Sift API that provides intuitive, natural language 
 - **Production Ready**: Built on a robust, tested foundation with retry logic
 
 ## Quick Start
-
 ```typescript
 import { SiftClient, ChatbotSiftClient } from 'sift-helper';
 
@@ -66,15 +44,14 @@ const engineers = await chatbot.findPeopleByRole('software engineer');
 ```
 
 ## Chatbot Query Patterns
-
-| Natural Language Query | Method Call |
-|------------------------|-------------|
-| "Who is X's manager?" | `whoIsManager(email)` |
-| "Who reports to X?" | `whoReportsTo(email)` |
-| "How big is X's team?" | `howBigIsTeam(email)` |
-| "Find all product managers" | `findPeopleByRole('product manager')` |
-| "Who works in Engineering?" | `whoWorksInDepartment('Engineering')` |
-| "Show me X's org chart" | `getCompleteOrgTree(email)` |
+| Natural Language Query         | Method Call                       |
+|--------------------------------|-----------------------------------|
+| "Who is X's manager?"          | `whoIsManager(email)`             |
+| "Who reports to X?"            | `whoReportsTo(email)`             |
+| "How big is X's team?"         | `howBigIsTeam(email)`             |
+| "Find all product managers"    | `findPeopleByRole('product manager')` |
+| "Who works in Engineering?"     | `whoWorksInDepartment('Engineering')` |
+| "Show me X's org chart"        | `getCompleteOrgTree(email)`       |
 
 ## Core Methods
 
@@ -137,7 +114,6 @@ const departments = await chatbot.getAllDepartments();
 ```
 
 ## Environment Setup
-
 Create a `.env` file:
 ```bash
 SIFT_DATA_TOKEN=your_data_token_here
@@ -146,7 +122,6 @@ SIFT_TEST_PERSON=test@yourcompany.com   # for testing
 ```
 
 ## Running Examples
-
 ```bash
 # Install dependencies
 npm install
@@ -159,7 +134,6 @@ npx tsx examples/chatbot_usage.ts
 ```
 
 ## Testing
-
 ```bash
 # Run unit tests
 npm test
@@ -169,14 +143,12 @@ npm run test:int
 ```
 
 ## Architecture
-
 - **`SiftClient`**: Low-level, robust API client with caching and retry logic
 - **`ChatbotSiftClient`**: High-level wrapper with natural language methods
 - **Rich Types**: Comprehensive TypeScript interfaces for all data structures
 - **Smart Enrichment**: Automatically adds computed fields like org level and manager names
 
 ## Chatbot Integration Tips
-
 1. **Use descriptive method names**: Methods are named to match natural language
 2. **Handle errors gracefully**: All methods include proper error handling
 3. **Leverage convenience methods**: Use `whoIsManager()`, `whoReportsTo()` for simple responses
@@ -184,9 +156,7 @@ npm run test:int
 5. **Include photos when needed**: Set `includePhotos: true` for UI components
 
 ## Data Enrichment
-
 The `ChatbotSiftClient` automatically enriches person data with:
-
 - **`level`**: Organizational level derived from reporting path
 - **`departmentName`**: Clean department name
 - **`officeName`**: Office location
@@ -223,9 +193,7 @@ const chartEdges = orgData.orgChart.edges;
 ```
 
 ## Error Handling
-
 All methods include comprehensive error handling:
-
 ```typescript
 try {
   const manager = await chatbot.getPersonsManager('unknown@company.com');
@@ -239,7 +207,6 @@ const response = await chatbot.whoIsManager('unknown@company.com');
 ```
 
 ## Contributing
-
 1. Add new methods to `ChatbotSiftClient` with descriptive names
 2. Include comprehensive TypeScript types
 3. Add error handling and user-friendly responses
@@ -247,5 +214,4 @@ const response = await chatbot.whoIsManager('unknown@company.com');
 5. Update this README with examples
 
 ## License
-
 MIT
