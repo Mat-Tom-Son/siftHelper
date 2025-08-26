@@ -1,3 +1,3 @@
-export * from './sift_client';
-export * from './chatbot_sift_client';
-export * from './skills_client';
+export * from './sift_client.js';
+export * from './chatbot_sift_client.js';
+export * from './skills_client.js';

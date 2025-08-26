@@ -27,6 +27,10 @@ A TypeScript wrapper for the Sift API that provides intuitive, natural language 
 - **Production Ready**: Built on a robust, tested foundation with retry logic
 
 ## Quick Start
+Install:
+```bash
+npm install sift-helper
+```
 ```typescript
 import { SiftClient, ChatbotSiftClient } from 'sift-helper';
 

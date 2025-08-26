@@ -14,6 +14,6 @@ var __exportStar = (this && this.__exportStar) || function(m, exports) {
     for (var p in m) if (p !== "default" && !Object.prototype.hasOwnProperty.call(exports, p)) __createBinding(exports, m, p);
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-__exportStar(require("./sift_client"), exports);
-__exportStar(require("./chatbot_sift_client"), exports);
-__exportStar(require("./skills_client"), exports);
+__exportStar(require("./sift_client.cjs"), exports);
+__exportStar(require("./chatbot_sift_client.cjs"), exports);
+__exportStar(require("./skills_client.cjs"), exports);

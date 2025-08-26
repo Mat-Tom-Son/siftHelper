@@ -1,7 +1,8 @@
 {
   "name": "sift-helper",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.1.2",
+  "private": false,
+  "description": "TypeScript wrapper for the Sift org API with chatbot-friendly helpers.",
   "type": "module",
   "main": "./dist/cjs/index.cjs",
   "module": "./dist/esm/index.js",
@@ -13,23 +14,54 @@
       "types": "./dist/esm/index.d.ts"
     }
   },
+  "files": [
+    "dist/esm",
+    "dist/cjs",
+    "README.md"
+  ],
+  "sideEffects": false,
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mat-Tom-Son/siftHelper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mat-Tom-Son/siftHelper/issues"
+  },
+  "homepage": "https://github.com/Mat-Tom-Son/siftHelper#readme",
+  "author": {
+    "name": "Matt Thompson"
+  },
+  "keywords": [
+    "sift",
+    "org",
+    "organization",
+    "people",
+    "skills",
+    "chatbot",
+    "typescript",
+    "api",
+    "client",
+    "wrapper"
+  ],
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest",
     "test:int": "RUN_INTEGRATION=1 vitest run",
     "dump": "tsx scripts/dump_sift.ts",
-    "web": "tsx web/server.js",
-    "web:dev": "tsx web/server.js",
-    "build:esm": "tsc -p tsconfig.build.esm.json",
-    "build:cjs": "tsc -p tsconfig.build.cjs.json && find dist/cjs -name '*.js' -exec bash -c 'for f; do mv \"$f\" \"${f%.js}.cjs\"; done' _ {} +",
-    "build": "npm run build:esm && npm run build:cjs"
+    "build:esm": "tsc -p tsconfig.build.esm.json && node scripts/fix_esm_exports.mjs",
+    "build:cjs": "tsc -p tsconfig.build.cjs.json && find dist/cjs -name '*.js' -exec bash -c 'for f; do mv \"$f\" \"${f%.js}.cjs\"; done' _ {} + && node scripts/fix_cjs_requires.mjs",
+    "build": "npm run build:esm && npm run build:cjs",
+    "prepublishOnly": "npm run build"
   },
   "dependencies": {
   },
   "devDependencies": {
     "@types/node": "^20.19.11",
     "dotenv": "^16.6.1",
-    "express": "^4.18.2",
     "tsx": "^4.16.2",
     "typescript": "^5.9.2",
     "vitest": "^1.6.1"
