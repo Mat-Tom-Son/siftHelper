@@ -17,5 +17,6 @@ coverage/
 # OS/editor
 .DS_Store
 *.log
+*.tgz
 .idea/
 .vscode/
