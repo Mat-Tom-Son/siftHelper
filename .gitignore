@@ -1,0 +1,21 @@
+# Environment files
+.env
+
+# Local examples
+integration_example.local.ts
+
+# Node
+node_modules/
+
+# Builds
+dist/
+
+# Test artifacts
+.vitest/
+coverage/
+
+# OS/editor
+.DS_Store
+*.log
+.idea/
+.vscode/
